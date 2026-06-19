@@ -1,0 +1,572 @@
+[
+  {
+    "slug": "sam-bankman-fried-ftx",
+    "title": "Sam Bankman-Fried y FTX: la mayor estafa de la historia cripto",
+    "keyword": "Sam Bankman-Fried FTX",
+    "category": "Personajes y noticias",
+    "excerpt": "El colapso de FTX en noviembre de 2022 fue la mayor quiebra de la historia cripto y condenó a Sam Bankman-Fried a 25 años de prisión. Repasamos qué ocurrió y las lecciones aprendidas.",
+    "introduction": "Sam Bankman-Fried (SBF) fundó FTX en 2019 y lo convirtió en uno de los exchanges más grandes del mundo en pocos años. En noviembre de 2022, su emporio cripto colapsó en días: FTX se declaró en bancarrota, los fondos de los clientes habían desaparecido mezclados con los de Alameda Research (el fondo de trading de SBF), y él mismo fue arrestado en las Bahamas. El desastre resultó en pérdidas de más de 8.000 millones de dólares para los clientes y una condena de 25 años de prisión.",
+    "metaTitle": "Sam Bankman-Fried y FTX: la historia del mayor fraude cripto | Crypthor",
+    "metaDescription": "La historia completa del colapso de FTX y la condena de Sam Bankman-Fried. Qué pasó, cómo afectó al mercado cripto y las lecciones para inversores.",
+    "publishedAt": "2026-03-18T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 10,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "El exchange que sí ha sobrevivido mercados bajistas con transparencia total", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "El exchange con el mejor historial de seguridad: nunca hackeado ni quebrado", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "El mayor exchange del mundo con reservas de prueba pública", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "La solución que elimina el riesgo de exchange: claves privadas tuyas siempre", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Proof of Reserves", "rating": 4.5, "price": "Gratis", "bestFor": "Metodología de transparencia que FTX no tenía y los buenos exchanges sí tienen", "affiliateUrl": "https://www.coinbase.com/" }
+    ],
+    "pros": [
+      "El colapso de FTX aceleró la demanda de regulación clara del sector cripto en EEUU y Europa, lo que a largo plazo beneficia al ecosistema legítimo",
+      "La quiebra de FTX expuso la diferencia entre exchanges con prueba de reservas reales y los que operaban con total opacidad",
+      "La condena de SBF a 25 años de prisión estableció un precedente de que los fraudes en cripto tienen consecuencias penales severas",
+      "El episodio de FTX impulsó la adopción del concepto 'not your keys, not your coins' entre millones de usuarios que empezaron a usar hardware wallets",
+      "Los supervisores del proceso de quiebra de FTX han logrado recuperar y distribuir más fondos de los esperados a los acreedores"
+    ],
+    "cons": [
+      "El colapso de FTX causó una caída del mercado cripto de más del 30%, destruyendo miles de millones de dólares de valor en semanas",
+      "Decenas de miles de usuarios perdieron todos sus ahorros almacenados en FTX, incluyendo personas que habían invertido sus ahorros de vida",
+      "El caso dañó la reputación del sector cripto en su conjunto, dificultando la aprobación de regulación favorable en EEUU durante años",
+      "La influencia política de SBF (uno de los mayores donantes de campañas en EEUU) mostró los riesgos del poder del dinero cripto en la política",
+      "La desconfianza generada por FTX todavía afecta a algunos inversores institucionales que de otro modo habrían entrado antes en el mercado cripto"
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué pasó exactamente con FTX?",
+        "answer": "FTX usó los fondos de sus clientes para financiar las apuestas especulativas de Alameda Research, su empresa hermana de trading. Cuando los precios cripto cayeron en 2022, Alameda tenía pérdidas enormes financiadas con dinero de clientes de FTX. Cuando esto se hizo público (gracias a un artículo de CoinDesk sobre el balance de Alameda), los clientes intentaron retirar sus fondos simultáneamente, pero el dinero no existía. FTX se declaró en quiebra en 72 horas."
+      },
+      {
+        "question": "¿Se pueden recuperar los fondos perdidos en FTX?",
+        "answer": "Sí, parcialmente. El proceso de quiebra de FTX, bajo la dirección de John Ray III, ha logrado recuperar más fondos de los esperados. En 2024, se anunció que la mayoría de acreedores recibirían entre el 100% y el 118% de sus reclamaciones (en dólares al valor de noviembre 2022). Sin embargo, quienes tenían BTC o ETH en FTX reciben dólares al precio del crash, no los activos que podrían haber multiplicado."
+      },
+      {
+        "question": "¿Cómo evito que me pase algo como FTX?",
+        "answer": "La regla fundamental: nunca guardes en un exchange más de lo que necesitas para trading activo. Para tus ahorros a largo plazo, usa una hardware wallet (Ledger Nano X) donde las claves privadas son tuyas. Antes de usar un exchange, verifica que publica pruebas de reservas auditadas. Si un exchange ofrece rendimientos extraordinarios sin explicación clara, es señal de alarma."
+      },
+      {
+        "question": "¿Qué es la prueba de reservas (Proof of Reserves) y cómo comprobarlo?",
+        "answer": "El Proof of Reserves (PoR) es una metodología criptográfica que permite a un exchange demostrar que posee exactamente los fondos que sus clientes tienen depositados. Los exchanges que han adoptado PoR incluyen Binance, Kraken, OKX y Coinbase (con auditorías externas). Puedes verificar las reservas de Binance en binance.com/en/proof-of-reserves y de Kraken en kraken.com/en-gb/proof-of-reserves."
+      }
+    ],
+    "ctaTitle": "Evita el próximo FTX: guarda tu cripto en Ledger",
+    "ctaDescription": "La lección de FTX es clara: la custodia propia es la única garantía. Ledger Nano X custodia tu Bitcoin y Ethereum offline con las claves bajo tu control.",
+    "ctaButtonText": "Comprar Ledger Nano X",
+    "ctaAffiliateUrl": "https://www.ledger.com/"
+  },
+  {
+    "slug": "do-kwon-terra-luna",
+    "title": "Do Kwon y Terra Luna: el colapso que destruyó 40.000 millones",
+    "keyword": "Do Kwon Terra Luna colapso",
+    "category": "Personajes y noticias",
+    "excerpt": "El colapso de Terra Luna en mayo de 2022 fue el mayor crash de la historia cripto en tiempo récord. Repasamos qué ocurrió, qué papel tuvo Do Kwon y las lecciones para inversores.",
+    "introduction": "En mayo de 2022, el ecosistema Terra/Luna de Do Kwon se derrumbó en menos de una semana, destruyendo más de 40.000 millones de dólares de valor de mercado y causando pérdidas devastadoras a millones de inversores en todo el mundo. Lo que parecía un sistema innovador de stablecoin algorítmica resultó ser extremadamente frágil cuando se expuso a presión de mercado coordinada. Do Kwon fue arrestado en Montenegro en 2023 y enfrenta cargos en varios países.",
+    "metaTitle": "Do Kwon y Terra Luna: el colapso de 40.000 millones | Crypthor",
+    "metaDescription": "La historia completa del colapso de Terra Luna en mayo 2022. Qué pasó, el papel de Do Kwon, y las lecciones que todo inversor cripto debe conocer.",
+    "publishedAt": "2026-03-20T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "USDC (Circle)", "rating": 4.6, "price": "~1 USD", "bestFor": "La stablecoin respaldada por reservas reales que sobrevivió el colapso de UST", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "USDT (Tether)", "rating": 4.3, "price": "~1 USD", "bestFor": "La stablecoin centralizada con mayor liquidez y historial más largo", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "DAI (MakerDAO)", "rating": 4.5, "price": "~1 USD", "bestFor": "Stablecoin descentralizada con colateral real (sin modelo algorítmico puro)", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar activos fuera de protocolos algorítmicos vulnerables", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Exchange regulado donde nunca se listaron tokens algorítmicos sin auditoría", "affiliateUrl": "https://www.coinbase.com/" }
+    ],
+    "pros": [
+      "El colapso de Terra/Luna fue un aprendizaje masivo sobre los riesgos de las stablecoins algorítmicas que beneficia al ecosistema a largo plazo",
+      "El evento aceleró la demanda de regulación de stablecoins en EEUU y Europa, con la regulación MiCA de la UE siendo parcialmente motivada por Terra",
+      "La claridad sobre qué stablecoins son seguras (respaldadas por reservas reales) vs cuáles son arriesgadas (algorítmicas) aumentó tras el colapso",
+      "El arresto de Do Kwon estableció precedente de que los creadores de proyectos fraudulentos o con negligencia grave pueden ser procesados criminalmente",
+      "Bitcoin, Ethereum y otros activos con fundamentos reales recuperaron sus precios en el siguiente ciclo, demostrando su resiliencia frente a los proyectos algorítmicos"
+    ],
+    "cons": [
+      "Millones de inversores en todo el mundo, incluyendo muchos en España y Latinoamérica, perdieron todos sus ahorros en Terra/Luna en días",
+      "El colapso causó un efecto contagio que derribó a otros proyectos y fondos de inversión cripto como Three Arrows Capital y Celsius",
+      "Los 20-21% de APY que ofrecía Anchor Protocol (el protocolo DeFi de Terra) fueron una señal obvia de insostenibilidad que muchos ignoraron por la codicia",
+      "Do Kwon continuó afirmando que todo estaba bien mientras el sistema colapsaba, causando que muchos inversores retrasaran su salida y perdieran más",
+      "El caso muestra cómo proyectos con alta liquidez, marketing agresivo y rendimientos aparentemente maravillosos pueden ser profundamente insostenibles"
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué era Terra Luna y por qué colapsó?",
+        "answer": "Terra era un ecosistema blockchain con dos tokens: LUNA (el token de gobernanza) y UST (una stablecoin algorítmica anclada al dólar). El peg de UST al dólar no estaba respaldado por reservas reales sino por un mecanismo de arbitraje con LUNA: si UST caía de $1, los traders podían quemarlo para crear LUNA y viceversa. En mayo 2022, una venta coordinada en los pools de liquidez causó que el peg se rompiera, desencadenando una espiral de muerte donde más LUNA se emitía para tratar de mantener el peg, hiperinflandose hasta llegar a cero."
+      },
+      {
+        "question": "¿Puede volver Terra Luna?",
+        "answer": "Do Kwon intentó un relanzamiento con 'Terra Luna Classic' (LUNC) y un nuevo 'Terra 2.0' (LUNA), pero ninguno ha recuperado relevancia. El caso UST demostró que el modelo de stablecoin algorítmica es fundamentalmente vulnerable en condiciones de estrés, y la comunidad y inversores tienen poca confianza en estos proyectos ahora."
+      },
+      {
+        "question": "¿Dónde está Do Kwon ahora?",
+        "answer": "Do Kwon fue arrestado en Montenegro en marzo 2023 cuando intentaba viajar con pasaporte falsificado. Pasó tiempo en prisión montenegrina mientras EEUU y Corea del Sur luchaban por su extradición. En 2024, Montenegro extradito a Do Kwon a EEUU, donde enfrenta cargos de fraude, conspiración y manipulación de mercados."
+      },
+      {
+        "question": "¿Cómo reconocer proyectos similares a Terra/Luna antes de invertir?",
+        "answer": "Señales de alarma similares a Terra: rendimientos de 20%+ APY sin explicación clara de dónde viene ese rendimiento; stablecoins algorítmicas sin colateral real; tokenomics donde la estabilidad de un token depende de la demanda del otro; equipos con historial de promesas exageradas; proyectos con crecimiento muy rápido basado principalmente en incentivos de liquidez artificiales."
+      }
+    ],
+    "ctaTitle": "Invierte en activos con fundamentos reales, no en modelos algorítmicos",
+    "ctaDescription": "Bitcoin y Ethereum tienen fundamentos reales que los protegen. Coinbase es el exchange más regulado para invertir en activos con historial probado.",
+    "ctaButtonText": "Invertir en BTC y ETH en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "satoshi-nakamoto-quien-es",
+    "title": "Satoshi Nakamoto: el mayor misterio de la historia de internet",
+    "keyword": "quién es Satoshi Nakamoto",
+    "category": "Personajes y noticias",
+    "excerpt": "Satoshi Nakamoto creó Bitcoin y desapareció. Nadie sabe quién es realmente. Repasamos lo que sabemos sobre el fundador anónimo de la mayor innovación monetaria del siglo XXI.",
+    "introduction": "Satoshi Nakamoto es el pseudónimo del creador (o creadores) de Bitcoin. En octubre de 2008 publicó el whitepaper 'Bitcoin: A Peer-to-Peer Electronic Cash System' en una lista de correo de criptografía. Mineó el primer bloque de Bitcoin en enero de 2009. Y en 2011, simplemente desapareció, nunca revelando su identidad. Sus wallets tienen más de 1 millón de BTC sin mover (un valor de más de 100.000 millones de dólares), y nadie sabe si están vivos, quiénes son o si alguna vez moverán esos fondos.",
+    "metaTitle": "¿Quién es Satoshi Nakamoto? El misterio del creador de Bitcoin | Crypthor",
+    "metaDescription": "Todo sobre Satoshi Nakamoto, el creador anónimo de Bitcoin. Lo que sabemos, las teorías sobre su identidad, sus bitcoins y por qué desapareció.",
+    "publishedAt": "2026-03-22T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Bitcoin (BTC)", "rating": 4.8, "price": "Consultar precio actual", "bestFor": "La creación de Satoshi: el activo digital más valioso de la historia", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Comprar Bitcoin, la herencia de Satoshi, con máxima seguridad", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mayor liquidez para el Bitcoin que Satoshi creó", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar Bitcoin con la seguridad que el protocolo de Satoshi permite", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo para comprar Bitcoin, el protocolo inmutable de Satoshi", "affiliateUrl": "https://www.kraken.com/" }
+    ],
+    "pros": [
+      "El anonimato de Satoshi es una de las propiedades más importantes de Bitcoin: no hay una persona que pueda ser presionada, comprada o asesinada para cambiar el protocolo",
+      "El millón de BTC de Satoshi sin mover durante 15 años es una señal de compromiso con el proyecto o una pérdida de acceso, ninguna de las cuales amenaza a Bitcoin",
+      "La decisión de Satoshi de desaparecer fue probablemente intencional para hacer Bitcoin más descentralizado: su presencia podría haber creado una dependencia peligrosa",
+      "El whitepaper de Satoshi es un documento técnico brillante que resolvió el 'doble gasto' en redes distribuidas de forma elegante y novedosa",
+      "El misterio de la identidad de Satoshi ha añadido una narrativa cultural única a Bitcoin que no tiene ningún otro activo financiero"
+    ],
+    "cons": [
+      "Si las wallets de Satoshi fueran comprometidas o él decidiera vender, el movimiento de 1 millón de BTC causaría un crash de mercado masivo",
+      "La incertidumbre sobre la identidad de Satoshi permite que personas como Craig Wright hagan reclamaciones falsas que confunden al mercado",
+      "La ausencia del creador significa que algunas decisiones de diseño originales de Bitcoin son difíciles de interpretar sin su contexto",
+      "El anonimato del creador es un obstáculo para la adopción en algunos contextos regulatorios que prefieren transparencia de gobernanza",
+      "La narrativa del creador misterioso puede dar a Bitcoin una imagen de 'dinero underground' que complica su adopción convencional"
+    ],
+    "faqs": [
+      {
+        "question": "¿Quién es realmente Satoshi Nakamoto?",
+        "answer": "No se sabe con certeza. Las teorías incluyen: un individuo (posiblemente japonés o un pseudónimo occidental), un pequeño grupo de criptógrafos (algunos especulan con Hal Finney, Nick Szabo, Adam Back u otros), o incluso una agencia de inteligencia. Craig Wright afirmó ser Satoshi pero los tribunales británicos determinaron en 2024 que es un fraude. Lo más probable es que sea una persona o un pequeño grupo que quiso permanecer anónimo."
+      },
+      {
+        "question": "¿Cuántos Bitcoin tiene Satoshi y cuánto valen?",
+        "answer": "Satoshi mineó aproximadamente 1,1 millones de BTC en los primeros meses de vida de Bitcoin. Estas wallets, conocidas como 'Satoshi wallets', están identificables por el patrón de mining de la época. A un precio de 100.000 dólares/BTC, eso equivale a aproximadamente 110.000 millones de dólares. Ninguno de estos BTC se ha movido desde 2011, lo que sugiere que o bien Satoshi no quiere venderlos o ha perdido acceso."
+      },
+      {
+        "question": "¿Qué pasaría si Satoshi vendiera sus Bitcoin?",
+        "answer": "La venta de incluso una fracción del Bitcoin de Satoshi sería detectada inmediatamente por la comunidad. Un movimiento de 1 millón de BTC causaría un crash de mercado significativo por el impacto psicológico y la presión vendedora real. Sin embargo, si Satoshi vendiera gradualmente cantidades pequeñas durante años, el impacto sería menor y más difícil de atribuir definitivamente a sus wallets."
+      },
+      {
+        "question": "¿Por qué desapareció Satoshi Nakamoto?",
+        "answer": "Las especulaciones más razonables: (1) Para hacer Bitcoin genuinamente descentralizado, ya que su presencia podría ser un punto de centralización; (2) Por razones de seguridad personal, ya que con tanto valor en juego, sería un objetivo de extorsión; (3) Porque el proyecto había alcanzado un punto donde ya no necesitaba su liderazgo activo. Sus últimas comunicaciones en 2011 sugieren que dejó el proyecto en manos de la comunidad deliberadamente."
+      }
+    ],
+    "ctaTitle": "Honra la creación de Satoshi: compra Bitcoin en Coinbase",
+    "ctaDescription": "El protocolo de Satoshi Nakamoto sigue funcionando 15 años después sin cambios fundamentales. Únete comprando Bitcoin en Coinbase, el exchange más regulado del mercado.",
+    "ctaButtonText": "Comprar Bitcoin",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "trump-y-las-criptomonedas",
+    "title": "Trump y las criptomonedas: de escéptico a mayor defensor presidencial",
+    "keyword": "Trump criptomonedas",
+    "category": "Personajes y noticias",
+    "excerpt": "Donald Trump pasó de llamar a Bitcoin un fraude a lanzar su propia colección de NFTs y prometer convertir a EEUU en la 'capital mundial del cripto'. Repasamos su evolución y su impacto en el mercado.",
+    "introduction": "La relación de Donald Trump con las criptomonedas ha sido un viaje radical: de declarar en 2019 que Bitcoin era 'una estafa' y que 'no es dinero' a lanzar su propia colección de NFTs en 2022, prometer hacer de EEUU la 'capital mundial del cripto' en su campaña de 2024, y firmar órdenes ejecutivas pro-cripto desde el primer día de su nuevo mandato en enero 2025. Su regreso a la presidencia ha sido uno de los mayores catalizadores del mercado cripto en 2024-2025.",
+    "metaTitle": "Trump y las criptomonedas 2026: de escéptico a promotor | Crypthor",
+    "metaDescription": "La relación de Trump con el mundo cripto: NFTs, promesas de campaña, regulación favorable y el impacto de su presidencia en el mercado de Bitcoin.",
+    "publishedAt": "2026-03-25T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Bitcoin (BTC)", "rating": 4.8, "price": "Consultar precio actual", "bestFor": "El activo que más se beneficia del entorno regulatorio pro-cripto de Trump", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Exchange que más se beneficia del cambio regulatorio bajo Trump en EEUU", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mayor liquidez para aprovechar el entorno cripto favorable bajo Trump", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo regulado para posicionarse en el ciclo favorable de Trump", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "MSTR (MicroStrategy)", "rating": 4.5, "price": "Cotización en Nasdaq", "bestFor": "Acción de Bitcoin que se beneficia directamente del entorno Trump pro-cripto", "affiliateUrl": "https://www.coinbase.com/" }
+    ],
+    "pros": [
+      "Trump prometió y está ejecutando una postura regulatoria pro-cripto: destituyó a Gary Gensler de la SEC el primer día de mandato y nombró a Paul Atkins",
+      "La idea de una 'Reserva Estratégica de Bitcoin' de EEUU, explorada por su administración, sería el mayor catalizador para Bitcoin de la historia",
+      "El ambiente de menor regulación y mayor claridad legal ha facilitado la expansión de exchanges y custodios cripto en EEUU",
+      "La campaña de Trump aceptó donaciones en cripto y fue la primera campaña presidencial exitosa en hacerlo a gran escala",
+      "Los NFTs de Trump, aunque criticados por muchos, introdujeron a millones de sus seguidores al concepto de activos digitales"
+    ],
+    "cons": [
+      "Los cambios regulatorios son revertibles con el siguiente gobierno: la política pro-cripto de Trump puede cambiar completamente con la próxima administración",
+      "Los NFTs de Trump fueron criticados como un uso oportunista de la tecnología blockchain sin valor real para el ecosistema",
+      "Su propio token TRUMP lanzado días antes de su inauguración creó controversia sobre conflictos de interés y acusaciones de manipulación de mercado",
+      "La mezcla de política y cripto puede polarizar el mercado: activos asociados a Trump pueden sufrir en escenarios de baja aprobación presidencial",
+      "La 'Reserva Estratégica de Bitcoin' sigue siendo una propuesta no implementada: entre la promesa y la realidad puede haber una gran diferencia"
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué ha hecho Trump por el mercado cripto desde su presidencia en 2025?",
+        "answer": "Desde enero 2025: (1) Destituyó a Gary Gensler de la SEC (favorable al cripto); (2) Firmó una orden ejecutiva estableciendo un grupo de trabajo para crear un marco regulatorio cripto; (3) Su administración exploró la creación de una Reserva Estratégica de Bitcoin para EEUU; (4) Nombró a David Sacks como 'Zar de IA y Cripto'; (5) Relanzó las negociaciones con exchanges como Coinbase y Kraken para crear un marco favorable."
+      },
+      {
+        "question": "¿El token TRUMP es una buena inversión?",
+        "answer": "El token TRUMP (lanzado días antes de la inauguración de su segundo mandato) fue una de las memecoins más polémicas del mercado. Subió masivamente en su lanzamiento y luego cayó significativamente. Es 100% especulativo: no tiene utilidad tecnológica real y su valor depende enteramente del interés en Trump. La mayoría de analistas lo clasifican como una memecoin política de alto riesgo."
+      },
+      {
+        "question": "¿Qué es la Reserva Estratégica de Bitcoin de EEUU?",
+        "answer": "Es la propuesta de que el gobierno de EEUU cree una reserva de Bitcoin como activo de reserva nacional, similar a cómo mantiene reservas de oro. La administración Trump ha explorado usar los BTC confiscados a criminales (aproximadamente 200.000 BTC) como base de esta reserva. Si se implementa formalmente, sería un catalizador histórico para el precio de Bitcoin y su legitimidad global."
+      },
+      {
+        "question": "¿El cripto tiene futuro en EEUU con Trump?",
+        "answer": "El entorno regulatorio bajo Trump es el más favorable al cripto de la historia de EEUU. Sin embargo, las políticas de un gobierno son temporales: la siguiente administración puede revertirlas. Para el ciclo actual (2024-2028), el entorno es positivo. Para horizontes más largos, la regulación cripto se verá influenciada por múltiples factores más allá de quién esté en la Casa Blanca."
+      }
+    ],
+    "ctaTitle": "Aprovecha el entorno pro-cripto con una cuenta en Coinbase",
+    "ctaDescription": "El entorno regulatorio en EEUU bajo Trump es el más favorable al cripto de la historia. Coinbase es el exchange que más se beneficia de este cambio.",
+    "ctaButtonText": "Abrir cuenta en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "regulacion-crypto-sec-gensler",
+    "title": "Regulación cripto y la SEC: de Gary Gensler a la nueva era",
+    "keyword": "regulación cripto SEC",
+    "category": "Personajes y noticias",
+    "excerpt": "La SEC bajo Gary Gensler fue el mayor adversario del cripto en EEUU. Con su salida y el nuevo liderazgo, la regulación cripto en EEUU entra en una nueva fase. Analizamos el impacto.",
+    "introduction": "Gary Gensler presidió la SEC de 2021 a enero 2025 con una postura abiertamente hostil hacia las criptomonedas. Bajo su liderazgo, la SEC demandó a Coinbase, Binance y docenas de proyectos cripto, declarando que la mayoría de tokens son valores (securities) no registrados. Su destitución el primer día del gobierno Trump y el nombramiento de Paul Atkins marcó un giro de 180 grados en la política regulatoria cripto de EEUU que ha tenido impacto global.",
+    "metaTitle": "Regulación cripto y SEC: del era Gensler a la nueva regulación | Crypthor",
+    "metaDescription": "Análisis de la regulación cripto en EEUU tras la era Gensler: el nuevo liderazgo de la SEC, impacto en Coinbase y Binance, y perspectivas regulatorias 2026.",
+    "publishedAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "El exchange más beneficiado por el cambio regulatorio en EEUU", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Exchange que negocia su posición regulatoria bajo el nuevo entorno de EEUU", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo con estabilidad regulatoria propia de MiCA independiente de SEC", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "Bitcoin (BTC)", "rating": 4.8, "price": "Consultar precio actual", "bestFor": "El activo cripto con mayor claridad regulatoria en todos los países", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Ethereum (ETH)", "rating": 4.7, "price": "Consultar precio actual", "bestFor": "ETH cuya clasificación como commodity (no security) fue confirmada", "affiliateUrl": "https://www.coinbase.com/" }
+    ],
+    "pros": [
+      "La salida de Gensler y el nuevo liderazgo de la SEC está resultando en el abandono de decenas de demandas contra proyectos cripto, dando claridad al sector",
+      "La SEC ha reconocido que Bitcoin y Ethereum son commodities (no valores), dando a estos activos la mayor claridad regulatoria del mercado",
+      "El nuevo marco regulatorio en desarrollo en EEUU puede estandarizar las reglas para exchanges, custodios y proyectos, facilitando la innovación responsable",
+      "Coinbase, el principal exchange regulado, vio sus acciones dispararse con la noticia de la salida de Gensler y el fin de la demanda de la SEC",
+      "La mayor claridad regulatoria en EEUU puede atraer proyectos cripto que habían migrado a Singapur, Dubai o Europa para establecerse de vuelta en EEUU"
+    ],
+    "cons": [
+      "Los cambios regulatorios son reversibles: la próxima administración podría adoptar una postura más restrictiva si los escándalos cripto (como FTX) se repiten",
+      "El alejamiento de la regulación estricta puede abrir la puerta a nuevos fraudes y estafas que dañen a inversores sin protecciones adecuadas",
+      "Europa con MiCA tiene su propio marco regulatorio independiente del cambio en EEUU: los proyectos necesitan cumplir con ambos",
+      "La incertidumbre sobre qué tokens exactamente son valores sigue sin resolverse completamente, incluso con el nuevo liderazgo de la SEC",
+      "El lobby cripto en EEUU tiene ahora mayor influencia, lo que puede resultar en regulación demasiado favorable que no protege suficientemente a los inversores"
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué hizo Gary Gensler contra el cripto?",
+        "answer": "Durante su mandato (2021-2025), Gensler: demandó a Coinbase por operar como exchange de valores no registrado, demandó a Binance y su CEO CZ, declaró que la mayoría de tokens son valores, bloqueó o retrasó la aprobación de ETFs de Bitcoin spot hasta que un tribunal le obligó, y lanzó más de 100 acciones de enforcement contra proyectos cripto. Su postura era que casi todos los tokens son valores y deben registrarse con la SEC."
+      },
+      {
+        "question": "¿Qué es el nuevo marco regulatorio cripto de EEUU?",
+        "answer": "La administración Trump ha encargado la creación de un marco legal comprensivo para las criptomonedas en EEUU. Los puntos clave en desarrollo incluyen: distinción clara entre valores y commodities en cripto, regulación de exchanges y custodios, marco legal para stablecoins, y claridad sobre qué actividades requieren licencias federales vs estatales. En 2025-2026, el Congreso está trabajando en legislación bipartidista al respecto."
+      },
+      {
+        "question": "¿Bitcoin y Ethereum son valores (securities) o commodities?",
+        "answer": "Bitcoin es universalmente reconocido como un commodity (como el oro), regulado por la CFTC, no la SEC. Ethereum, después del Merge a Proof of Stake, es considerado commodity por la CFTC y la SEC ha reconocido que los ETF spot de ETH no son valores. Esta claridad beneficia enormemente a ambos activos frente a altcoins que todavía pueden tener clasificaciones ambiguas."
+      },
+      {
+        "question": "¿Cómo afecta la regulación de EEUU al cripto en España?",
+        "answer": "La regulación de EEUU tiene impacto indirecto en España a través de: (1) los mercados globales (si EEUU toma medidas duras, el mercado global cae); (2) los exchanges que operan en España y en EEUU; (3) los proyectos que cotizan en exchanges disponibles en España. España y la UE se rigen principalmente por MiCA (Mercados en Criptoactivos), independiente de la regulación de la SEC."
+      }
+    ],
+    "ctaTitle": "Opera en el exchange más regulado del mercado: Coinbase",
+    "ctaDescription": "Coinbase es el exchange que más se beneficia del nuevo entorno regulatorio en EEUU. Regulado, transparente y disponible en España con soporte completo.",
+    "ctaButtonText": "Abrir cuenta en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "el-salvador-bitcoin-ley",
+    "title": "El Salvador y Bitcoin: balance de la ley de moneda de curso legal",
+    "keyword": "El Salvador Bitcoin ley",
+    "category": "Personajes y noticias",
+    "excerpt": "El Salvador fue el primer país en adoptar Bitcoin como moneda de curso legal en 2021. Analizamos qué ha ocurrido cuatro años después: éxitos, fracasos y lecciones para el mundo.",
+    "introduction": "En septiembre de 2021, El Salvador se convirtió en el primer país del mundo en adoptar Bitcoin como moneda de curso legal bajo la presidencia de Nayib Bukele. La decisión generó aplausos y críticas en iguales partes: el FMI advirtió de riesgos, los bitcoiners celebraron el hito, y el mundo entero observó el experimento. Cuatro años después, el balance es más matizado de lo que cualquiera de los dos campos preveía.",
+    "metaTitle": "El Salvador y Bitcoin: balance 4 años de la ley de BTC | Crypthor",
+    "metaDescription": "Análisis del experimento Bitcoin de El Salvador cuatro años después: turismo, remesas, acuerdo con FMI, y lecciones para otros países.",
+    "publishedAt": "2026-04-01T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Bitcoin (BTC)", "rating": 4.8, "price": "Consultar precio actual", "bestFor": "El activo que El Salvador adoptó y acumula como reserva soberana", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Exchange de BTC regulado para inversores que siguen el experimento El Salvador", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mayor liquidez para BTC el activo oficial de El Salvador", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar BTC como hace El Salvador pero con control individual", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Chivo Wallet", "rating": 3.5, "price": "Gratis", "bestFor": "La wallet oficial de El Salvador (con limitaciones conocidas)", "affiliateUrl": "https://www.chivowallet.com/" }
+    ],
+    "pros": [
+      "Las reservas de Bitcoin de El Salvador, acumuladas desde 2021, han generado plusvalías significativas con Bitcoin por encima de 100.000 dólares en 2024-2025",
+      "El turismo 'bitcoiner' hacia El Salvador ha aumentado, con visitantes específicamente atraídos por el experimento Bitcoin y la Ciudad Bitcoin en desarrollo",
+      "Las remesas, que representan el 25% del PIB de El Salvador, se han vuelto más eficientes y baratas usando la Lightning Network de Bitcoin",
+      "La experiencia de El Salvador ha servido de laboratorio para otros países que consideran adoptar Bitcoin o activos digitales a nivel soberano",
+      "Bukele usó la acumulación de Bitcoin para mejorar las finanzas públicas: el precio del BTC le ha dado plusvalías significativas en su balance soberano"
+    ],
+    "cons": [
+      "El FMI obligó a El Salvador a hacer opcional (no obligatorio) el Bitcoin como medio de pago para obtener un préstamo en 2024, retrocediendo en la implementación",
+      "La adopción masiva de Bitcoin por la población salvadoreña ha sido limitada: la mayoría prefiere el dólar para sus transacciones cotidianas",
+      "La wallet Chivo, lanzada por el gobierno, tuvo problemas técnicos y de seguridad significativos que dañaron la experiencia de usuario inicial",
+      "Los críticos señalan que el experimento beneficia principalmente a las élites cripto internacionales más que a la población local vulnerable",
+      "La volatilidad de Bitcoin sigue siendo un obstáculo para su uso como moneda cotidiana: nadie quiere que el precio de su comida varíe el 10% en un día"
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué es la Ley Bitcoin de El Salvador?",
+        "answer": "La Ley Bitcoin, aprobada en junio 2021 y en vigor desde septiembre 2021, declaró a Bitcoin como moneda de curso legal junto al dólar estadounidense. Obligaba a los comercios a aceptar Bitcoin como pago si el cliente lo desea. El gobierno distribuyó 30 dólares en Bitcoin a cada ciudadano usando la app Chivo Wallet. En 2024, tras el acuerdo con el FMI, la aceptación de Bitcoin se volvió voluntaria en lugar de obligatoria."
+      },
+      {
+        "question": "¿Cuánto Bitcoin tiene El Salvador?",
+        "answer": "El gobierno de El Salvador ha acumulado gradualmente Bitcoin, llegando a tener más de 5.000 BTC a principios de 2026. Con Bitcoin por encima de 100.000 dólares, sus reservas valen más de 500 millones de dólares, representando plusvalías significativas sobre el precio de compra promedio. Bukele ha prometido no vender y seguir acumulando."
+      },
+      {
+        "question": "¿Han mejorado las remesas en El Salvador con Bitcoin?",
+        "answer": "Parcialmente. Las remesas via Lightning Network de Bitcoin son más baratas que las transferencias tradicionales (0,5% vs 5-8% de comisión habitual). Sin embargo, la adopción de Lightning Network por parte de la diáspora salvadoreña ha sido modesta: muchos prefieren seguir usando Western Union o servicios similares por comodidad y familiaridad."
+      },
+      {
+        "question": "¿Qué es la Ciudad Bitcoin de El Salvador?",
+        "answer": "La Ciudad Bitcoin es un proyecto de ciudad totalmente nueva anunciado por Bukele, financiado con bonos del gobierno respaldados en Bitcoin, y diseñado para ser un hub tecnológico sin impuestos sobre la renta ni ganancias de capital. Estará ubicada al pie del volcán Conchagua y la energía geotérmica del volcán financiará el mining de Bitcoin. El proyecto está en fases muy tempranas de construcción en 2026."
+      }
+    ],
+    "ctaTitle": "Invierte en Bitcoin como hace El Salvador desde Coinbase",
+    "ctaDescription": "El experimento de El Salvador ha demostrado que Bitcoin puede usarse a nivel soberano. Tú puedes empezar con cualquier cantidad en Coinbase.",
+    "ctaButtonText": "Comprar Bitcoin en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "regulacion-crypto-europa-mica",
+    "title": "Regulación cripto en Europa: todo sobre MiCA en 2026",
+    "keyword": "regulación cripto Europa MiCA",
+    "category": "Personajes y noticias",
+    "excerpt": "MiCA (Markets in Crypto-Assets) es la primera regulación cripto comprensiva del mundo. Explicamos qué cambia para inversores y empresas cripto en Europa en 2026.",
+    "introduction": "El Reglamento MiCA (Markets in Crypto-Assets) de la Unión Europea entró en vigor de forma completa a finales de 2024, convirtiéndose en el primer marco regulatorio comprensivo de criptomonedas del mundo. Para los inversores europeos, MiCA trae tanto protecciones adicionales como nuevas restricciones. Para las empresas del sector, crea un entorno regulatorio más claro pero también más exigente. España, como miembro de la UE, aplica MiCA directamente.",
+    "metaTitle": "Regulación cripto MiCA Europa 2026: todo lo que debes saber | Crypthor",
+    "metaDescription": "Guía completa de la regulación MiCA en Europa para 2026. Qué cambia para inversores, qué exchanges están regulados en España y cómo afecta a tus inversiones.",
+    "publishedAt": "2026-04-05T00:00:00Z",
+    "updatedAt": "2026-06-19T00:00:00Z",
+    "readingTime": 10,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "El exchange con mejor cumplimiento de MiCA y más regulado en Europa", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo fundado en EEUU con excelente cumplimiento regulatorio UE", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mayor exchange con esfuerzos activos de cumplimiento MiCA en 2026", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Bit2Me", "rating": 4.2, "price": "1,49% básico", "bestFor": "Exchange español nativo con registro CNMV y cumplimiento MiCA completo", "affiliateUrl": "https://bit2me.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "La solución de autocustodia más regulada del mercado, compatible con MiCA", "affiliateUrl": "https://www.ledger.com/" }
+    ],
+    "pros": [
+      "MiCA da a los usuarios europeos mayor protección: los proveedores de servicios cripto deben estar registrados, tener capital mínimo y publicar información clara",
+      "La licencia MiCA tiene 'pasaporte europeo': un exchange con licencia en cualquier país UE puede operar en todos, creando un mercado único cripto",
+      "MiCA regula las stablecoins de forma específica: las 'Tokens de Dinero Electrónico' (EMT) deben tener reservas reales auditables, acabando con los modelos algorítmicos opacos",
+      "USDC de Circle y EURC ya cumplen con MiCA, siendo de las pocas stablecoins que pueden operar libremente en Europa bajo la nueva regulación",
+      "La regulación MiCA da mayor legitimidad al cripto ante inversores institucionales europeos que necesitaban un marco legal claro para entrar al mercado"
+    ],
+    "cons": [
+      "MiCA no regula DeFi ni NFTs de forma clara, dejando importantes segmentos del ecosistema sin marco legal definido",
+      "USDT de Tether ha tenido dificultades para cumplir con MiCA, lo que ha llevado a restricciones en su uso en algunos exchanges europeos",
+      "Los requisitos de MiCA son costosos de cumplir para empresas pequeñas, favoreciendo la consolidación del mercado en pocas empresas grandes",
+      "La UE tiene restricciones más estrictas sobre el marketing de cripto que otros países, limitando las opciones de inversión disponibles para europeos",
+      "El proceso de obtener licencia MiCA puede ser largo: algunos exchanges aún están en proceso de registro en 2026, creando incertidumbre transitoria"
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué es MiCA y cuándo entró en vigor?",
+        "answer": "MiCA (Markets in Crypto-Assets Regulation) es el Reglamento 2023/1114 de la Unión Europea que establece el primer marco regulatorio comprehensivo para criptoactivos del mundo. La parte relativa a stablecoins entró en vigor en junio 2024. La parte relativa a proveedores de servicios de criptoactivos (exchanges, custodios, asesores) entró plenamente en vigor en diciembre 2024."
+      },
+      {
+        "question": "¿Tengo que declarar mis criptomonedas en España bajo MiCA?",
+        "answer": "MiCA regula a las empresas que ofrecen servicios cripto, no directamente a los inversores particulares en materia fiscal. Las obligaciones fiscales de los particulares en España (declaración en el IRPF, modelo 721 para tenencias superiores a 50.000 euros) se mantienen bajo la normativa tributaria española, independientemente de MiCA. MiCA aumenta la información que los exchanges deben proporcionar a las autoridades fiscales."
+      },
+      {
+        "question": "¿Todos los exchanges disponibles en España cumplen con MiCA?",
+        "answer": "No todos. Los exchanges que deben registrarse en España ante la CNMV (o tener licencia MiCA de otro país UE para operar aquí) son los principales: Coinbase, Kraken, Binance y Bit2Me ya están en proceso o tienen registro. Sin embargo, algunos exchanges extranjeros pueden seguir operando durante el período de transición. Verifica siempre si el exchange que uses está registrado en la CNMV o tiene licencia MiCA."
+      },
+      {
+        "question": "¿Qué pasa con USDT bajo MiCA?",
+        "answer": "Tether (USDT) ha tenido dificultades para cumplir con los requisitos de MiCA para Tokens de Dinero Electrónico, especialmente en cuanto a auditorías de reservas y límites de transacciones. Varios exchanges europeos han reducido o eliminado los pares con USDT para cumplir con MiCA. Sin embargo, la situación es dinámica y puede evolucionar si Tether adapta su modelo a los requisitos europeos."
+      }
+    ],
+    "ctaTitle": "Opera con un exchange que cumple totalmente con MiCA",
+    "ctaDescription": "Coinbase tiene el mejor cumplimiento de MiCA en Europa. Invierte en cripto con las protecciones que la regulación europea garantiza.",
+    "ctaButtonText": "Abrir cuenta en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "mayor-hackeo-crypto-historia",
+    "title": "Los mayores hackeos de criptomonedas de la historia",
+    "keyword": "mayor hackeo crypto historia",
+    "category": "Personajes y noticias",
+    "excerpt": "Miles de millones de dólares en criptomonedas han sido robados en hackeos a lo largo de la historia del sector. Repasamos los más grandes y las lecciones de seguridad que debemos aprender.",
+    "introduction": "Los hackeos de criptomonedas son una de las realidades más duras del ecosistema: la irreversibilidad de las transacciones blockchain significa que las cripto robadas raramente se recuperan. Desde el histórico hack de Mt. Gox en 2014 hasta el récord del puente Ronin en 2022, la historia del cripto está marcada por robos espectaculares que han costado a inversores y proyectos miles de millones. Conocer estos eventos es esencial para entender los riesgos y protegerse.",
+    "metaTitle": "Los mayores hackeos de criptomonedas de la historia | Crypthor",
+    "metaDescription": "Repaso a los mayores hackeos de la historia cripto: Mt. Gox, Ronin Bridge, Poly Network y más. Cuánto se robó, cómo ocurrió y lecciones de seguridad.",
+    "publishedAt": "2026-04-10T00:00:00Z",
+    "updatedAt": "2026-06-19T00:00:00Z",
+    "readingTime": 10,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "La solución que hace imposible el hackeo remoto de tus cripto", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Exchange con el mejor historial de seguridad y sin hackeos significativos", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "13+ años sin hackeo significativo, el exchange más seguro por historial", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Fondo SAFU de 1.000M USD para compensar usuarios en caso de hackeo", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "2FA Hardware Key (YubiKey)", "rating": 4.8, "price": "~€50", "bestFor": "Segunda capa de seguridad para cuentas de exchange que elimina riesgo de SIM swapping", "affiliateUrl": "https://www.yubico.com/" }
+    ],
+    "pros": [
+      "Cada hackeo importante ha impulsado mejoras de seguridad en el ecosistema: el sector cripto ha aprendido y mejorado enormemente desde Mt. Gox",
+      "Los exchanges principales actuales (Coinbase, Kraken, Binance) tienen medidas de seguridad muy superiores a los de 2014-2018",
+      "La blockchain de Bitcoin nunca ha sido hackeada en 15 años: los hackeos ocurren en exchanges, smart contracts y bridges, no en el protocolo base",
+      "Los seguros de cripto y los fondos de reserva (como el SAFU de Binance) han mejorado la protección del usuario en los últimos años",
+      "El concepto de 'custodia propia' (hardware wallets) popularizado tras Mt. Gox sigue siendo la forma más segura de proteger activos"
+    ],
+    "cons": [
+      "Los hackeos de bridges y smart contracts siguen siendo frecuentes: 2022 fue el peor año con más de 3.000 millones de dólares robados solo en bridges",
+      "La irreversibilidad de las transacciones blockchain significa que los fondos robados raramente se recuperan, a diferencia de los fraudes con tarjeta de crédito",
+      "La sofisticación de los hackers (incluyendo grupos patrocinados por estados como Lazarus de Corea del Norte) supera la seguridad de muchos proyectos",
+      "El error humano (phishing, ingeniería social) sigue siendo la causa más común de hackeos individuales, y ninguna tecnología lo elimina completamente",
+      "Los usuarios de DeFi asumen automáticamente el riesgo de bugs en smart contracts: incluso auditorías múltiples no garantizan la ausencia de vulnerabilidades"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuál es el mayor hackeo de la historia cripto?",
+        "answer": "El mayor hackeo de la historia cripto en valor actual es el puente Ronin de Axie Infinity en marzo 2022: 625 millones de dólares robados en ETH y USDC. El grupo Lazarus de Corea del Norte es el responsable señalado. Otros grandes hackeos: Poly Network (2021, 611M$), Binance BNB Bridge (2022, 570M$), FTX (2022, 415M$ aunque parte recuperada) y Mt. Gox (2014, 450M$ al precio de entonces, mucho más a precios actuales)."
+      },
+      {
+        "question": "¿Por qué los puentes (bridges) son tan vulnerables?",
+        "answer": "Los bridges de blockchain conectan dos redes diferentes (ej: Ethereum y Solana) y requieren custodiar activos en contratos inteligentes en ambas cadenas. Son puntos de concentración de valor con mucha complejidad técnica. Si hay un bug en el smart contract o se comprometen las claves de los validadores del bridge, un atacante puede robar todos los activos bloqueados. Son el objetivo favorito de hackers sofisticados por esto."
+      },
+      {
+        "question": "¿Cómo proteger mis criptomonedas de hackeos?",
+        "answer": "Las mejores prácticas: (1) Usa una hardware wallet (Ledger Nano X) para almacenar cantidades significativas; (2) Usa 2FA con llave física (YubiKey) no solo SMS para cuentas de exchange; (3) Verifica siempre las URLs de los sitios que visitas; (4) Nunca hagas clic en links de emails o mensajes que prometan cripto gratis; (5) No conectes tu wallet a dApps desconocidas; (6) Mantén una cantidad mínima en exchanges solo para trading activo."
+      },
+      {
+        "question": "¿Se han recuperado los fondos de Mt. Gox?",
+        "answer": "Sí, parcialmente. Mt. Gox quebró en 2014 con 850.000 BTC robados. En 2024, el proceso de quiebra comenzó a distribuir los BTC recuperados (~142.000 BTC del total) a los acreedores, 10 años después. Los acreedores reciben BTC al precio actual (mucho más que el precio de 2014), aunque solo una fracción del total robado. El pago a acreedores de Mt. Gox fue uno de los eventos del mercado cripto de 2024."
+      }
+    ],
+    "ctaTitle": "Protege tu cripto con Ledger: imposible de hackear remotamente",
+    "ctaDescription": "La única forma de eliminar el riesgo de hackeo es la custodia propia. Ledger Nano X guarda tus claves privadas offline: ningún hacker puede acceder remotamente.",
+    "ctaButtonText": "Comprar Ledger Nano X",
+    "ctaAffiliateUrl": "https://www.ledger.com/"
+  },
+  {
+    "slug": "ftx-quiebra-que-paso",
+    "title": "FTX: qué pasó, cómo afectó al mercado y lecciones aprendidas",
+    "keyword": "FTX quiebra qué pasó",
+    "category": "Personajes y noticias",
+    "excerpt": "El colapso de FTX en noviembre de 2022 fue el evento más traumático de la historia cripto. Explicamos con detalle qué ocurrió, el impacto y cómo protegerse para el futuro.",
+    "introduction": "El 11 de noviembre de 2022, FTX, el segundo exchange de criptomonedas más grande del mundo, se declaró en bancarrota. En menos de una semana, el emporio de Sam Bankman-Fried se había derrumbado, revelando que los fondos de los clientes habían sido usados para cubrir las pérdidas de Alameda Research, su fondo de trading. El episodio causó uno de los mayores daños a la credibilidad del sector cripto de su historia.",
+    "metaTitle": "FTX quiebra: qué pasó, impacto y lecciones para inversores | Crypthor",
+    "metaDescription": "Explicación completa del colapso de FTX en 2022: causa, cronología, impacto en el mercado cripto y las lecciones que todo inversor debe aprender.",
+    "publishedAt": "2026-04-12T00:00:00Z",
+    "updatedAt": "2026-06-19T00:00:00Z",
+    "readingTime": 10,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "La lección de FTX implementada: tus claves, tus cripto, siempre", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "El exchange que sí tiene Proof of Reserves y auditorías externas verificables", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "13+ años sin hackeo, sin problemas de insolvencia, Proof of Reserves verificable", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Post-FTX publican Proof of Reserves; mayor exchange sobrevivió la crisis", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "USDC (Circle)", "rating": 4.6, "price": "~1 USD", "bestFor": "La stablecoin que no estaba en FTX y sobrevivió: reservas reales y auditadas", "affiliateUrl": "https://www.coinbase.com/" }
+    ],
+    "pros": [
+      "El colapso de FTX aceleró dramáticamente la demanda de mayor regulación y transparencia en el sector cripto, beneficiando al ecosistema a largo plazo",
+      "El Proof of Reserves se convirtió en estándar de la industria tras FTX: ahora los usuarios pueden verificar que su exchange tiene los fondos que dice tener",
+      "La condena de Sam Bankman-Fried a 25 años de prisión establece que el fraude en cripto tiene consecuencias legales tan severas como en finanzas tradicionales",
+      "El proceso de quiebra de FTX ha recuperado y está devolviendo fondos a acreedores, incluyendo el 100%+ para muchos a precios de noviembre 2022",
+      "El episodio eliminó del mercado a proyectos frágiles que dependían de la liquidez de FTX/Alameda, dejando un ecosistema más sólido"
+    ],
+    "cons": [
+      "Decenas de miles de personas perdieron todos sus ahorros en FTX, con impacto devastador especialmente en aquellos que habían invertido cantidades significativas",
+      "El colapso de FTX y su efecto contagio (Three Arrows Capital, Celsius, Voyager) destruyó más de 200.000 millones de dólares de valor de mercado en semanas",
+      "La imagen del cripto quedó dañada globalmente, dificultando la adopción institucional durante 1-2 años tras el colapso",
+      "Muchos proyectos DeFi y de VC que tenían fondos en FTX o exposición a Alameda sufrieron pérdidas irreparables",
+      "La politización de SBF (uno de los mayores donantes políticos en EEUU) antes del colapso generó desconfianza sobre la relación entre dinero cripto y política"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cómo se descubrió el fraude de FTX?",
+        "answer": "En noviembre 2022, CoinDesk publicó un artículo mostrando el balance de Alameda Research que revelaba que una parte enorme de sus activos eran tokens FTT (el token propio de FTX), no activos independientes. Esto indicaba que FTX y Alameda estaban entrelazados de forma preocupante. CZ (CEO de Binance) anunció que vendería todos sus FTT, lo que desencadenó el pánico y la corrida de clientes que colapsó FTX en 72 horas."
+      },
+      {
+        "question": "¿Por qué tantos inversores sofisticados no lo vieron venir?",
+        "answer": "FTX tenía inversores de primer nivel como Sequoia Capital, Softbank, Ontario Teachers' Pension Plan y Temasek. Todos ellos perdieron sus inversiones. Las razones por las que no lo vieron: las auditorías eran superficiales, FTX operaba con baja transparencia, SBF tenía una narrativa de 'altruismo efectivo' muy atractiva, y la mezcla de FTX/Alameda no era pública. La lección: incluso inversores sofisticados pueden ser engañados."
+      },
+      {
+        "question": "¿Cuándo se devuelven los fondos a los clientes de FTX?",
+        "answer": "El proceso de quiebra bajo John Ray III comenzó las distribuciones en 2024. Los acreedores con reclamaciones pequeñas (<50.000 dólares) fueron los primeros en recibir el 100%+ de sus reclamaciones en dólares al precio de noviembre 2022. Las reclamaciones más grandes se están procesando de forma escalonada. El proceso completo puede extenderse hasta 2025-2026 para todos los acreedores."
+      },
+      {
+        "question": "¿Cómo sé si mi exchange actual es seguro?",
+        "answer": "Verificaciones básicas de seguridad de un exchange: (1) ¿Publica Proof of Reserves auditado? (Binance, Kraken, Coinbase sí); (2) ¿Está regulado en tu jurisdicción? (registro CNMV en España, licencia MiCA en UE); (3) ¿Tiene un historial de años sin problemas de insolvencia o hackeos graves?; (4) ¿Sus ejecutivos son identificables y con reputación verificable?; (5) ¿Tiene un fondo de reserva para emergencias (como el SAFU de Binance)?."
+      }
+    ],
+    "ctaTitle": "La lección de FTX: nunca dejes tus cripto en un exchange sin necesidad",
+    "ctaDescription": "Ledger Nano X elimina el riesgo de FTX: con tus claves privadas, ningún exchange puede tocar tus fondos. Para cantidades significativas, la custodia propia es imprescindible.",
+    "ctaButtonText": "Comprar Ledger Nano X",
+    "ctaAffiliateUrl": "https://www.ledger.com/"
+  },
+  {
+    "slug": "noticias-cripto-junio-2026",
+    "title": "Noticias cripto más importantes de junio 2026",
+    "keyword": "noticias cripto junio 2026",
+    "category": "Personajes y noticias",
+    "excerpt": "Resumen de las noticias y eventos más relevantes del ecosistema cripto en junio de 2026: movimientos de precio, regulación, tecnología y personajes.",
+    "introduction": "El mercado cripto en junio de 2026 continúa el ciclo post-halving con consolidación en niveles históricamente altos. La regulación MiCA en Europa está madurando, la adopción institucional a través de ETFs sigue creciendo, y el ecosistema DeFi muestra señales de madurez con proyectos con ingresos reales. Este resumen mensual cubre los eventos más importantes del mes para inversores y seguidores del sector.",
+    "metaTitle": "Noticias cripto junio 2026: resumen mensual | Crypthor",
+    "metaDescription": "Resumen de las noticias más importantes del mundo cripto en junio 2026. Bitcoin, Ethereum, regulación MiCA, ETFs y los eventos que marcan el mercado este mes.",
+    "publishedAt": "2026-06-01T00:00:00Z",
+    "updatedAt": "2026-06-19T00:00:00Z",
+    "readingTime": 8,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "El exchange más regulado para operar en el contexto actual de mercado", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mayor liquidez para aprovechar los movimientos de mercado del mes", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo para operar bajo la regulación MiCA vigente", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Seguridad de custodia para los activos acumulados en el ciclo actual", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "CoinMarketCap", "rating": 4.5, "price": "Gratis", "bestFor": "Seguir precios, noticias y datos del mercado cripto en tiempo real", "affiliateUrl": "https://coinmarketcap.com/" }
+    ],
+    "pros": [
+      "Bitcoin consolida en niveles históricamente altos en junio 2026, con los flujos de ETFs institucionales proporcionando soporte estructural al precio",
+      "La adopción de Ethereum aumenta con el crecimiento de sus L2 (Base, Arbitrum, Optimism) que hacen el DeFi accesible para usuarios masivos",
+      "MiCA está dando mayor protección a los inversores europeos con exchanges registrados y stablecoins auditadas operando bajo el nuevo marco",
+      "El ecosistema de IA cripto (Render, Bittensor) sigue creciendo con nuevos casos de uso que demuestran demanda real de cómputo descentralizado",
+      "La comunidad DeFi madura con protocolos que generan ingresos reales (Uniswap, Aave, Lido) ofreciendo alternativas a las finanzas tradicionales"
+    ],
+    "cons": [
+      "El mercado cripto en junio 2026 muestra correlación alta con la política de la Fed: cualquier señal de mantenimiento de tipos afecta negativamente",
+      "Las altcoins de menor capitalización siguen siendo volátiles y muchas no han recuperado sus máximos de ciclos anteriores",
+      "La regulación MiCA está generando costes de cumplimiento que algunos exchanges menores no pueden asumir, reduciendo la competencia en Europa",
+      "Los ataques de phishing y estafas siguen siendo frecuentes: junio 2026 no es diferente en este aspecto al resto del año",
+      "El debate sobre la scalability de Bitcoin continúa sin una solución de capa 2 que haya alcanzado adopción masiva equivalente a los L2 de Ethereum"
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué ha pasado con el precio de Bitcoin en junio 2026?",
+        "answer": "Bitcoin en junio 2026 se encuentra en una fase de consolidación post-ciclo alcista. Los flujos de los ETFs institucionales proporcionan soporte técnico, mientras que las expectativas sobre la política de tipos de la Fed influyen en los movimientos diarios. Para precios en tiempo real, consulta CoinMarketCap, Coinbase o tu exchange habitual."
+      },
+      {
+        "question": "¿Qué novedades hay en la regulación cripto en Europa en junio 2026?",
+        "answer": "MiCA está en plena implementación: los exchanges principales han obtenido o están en proceso de obtener sus licencias en países de la UE. USDC y EURC de Circle operan como EMT reguladas. La ESMA (Autoridad Europea de Valores y Mercados) está publicando guías técnicas adicionales sobre la implementación de MiCA. España, a través de la CNMV, está procesando los registros de los proveedores de servicios cripto."
+      },
+      {
+        "question": "¿Cuáles son las altcoins con mejor comportamiento en junio 2026?",
+        "answer": "El comportamiento varía semana a semana. Para ver las altcoins con mejor y peor rendimiento en tiempo real, consulta la sección 'Gainers and Losers' de CoinMarketCap o el ranking de CoinGecko. En junio 2026, los sectores con mayor actividad incluyen IA cripto (Render, TAO), DeFi establecido (UNI, AAVE) y L2 de Ethereum (ARB, OP)."
+      },
+      {
+        "question": "¿Es buen momento para invertir en cripto en junio 2026?",
+        "answer": "No existe el 'momento perfecto' para invertir. Los indicadores de ciclo (MVRV, Fear & Greed) pueden ayudar a contextualizar el estado actual del mercado. La estrategia más recomendada sigue siendo el DCA: inversiones periódicas independientemente del precio. Para saber el estado actual de los indicadores de ciclo, visita Lookintobitcoin.com o Glassnode."
+      }
+    ],
+    "ctaTitle": "Opera en el mercado de junio 2026 desde Coinbase",
+    "ctaDescription": "Coinbase es el exchange más regulado y seguro para operar en el mercado cripto actual. Crea tu cuenta en minutos y accede a Bitcoin, Ethereum y cientos de altcoins.",
+    "ctaButtonText": "Empezar en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  }
+]

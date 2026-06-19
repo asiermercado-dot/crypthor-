@@ -1,0 +1,572 @@
+[
+  {
+    "slug": "bolsa-y-criptomonedas-relacion",
+    "title": "La relación entre la bolsa y las criptomonedas en 2026",
+    "keyword": "relación bolsa criptomonedas",
+    "category": "Mercado y bolsa",
+    "excerpt": "Bitcoin y las criptomonedas se mueven cada vez más en sincronía con los mercados tradicionales. Analizamos la correlación entre la bolsa y el cripto y qué implica para los inversores.",
+    "introduction": "La narrativa inicial de Bitcoin como 'activo no correlacionado' que protege las carteras en caídas de bolsa no ha resistido del todo la prueba del tiempo. En 2022, cuando la Fed subió tipos, tanto el S&P 500 como Bitcoin cayeron juntos. Sin embargo, la correlación no es perfecta ni constante: Bitcoin ha mostrado comportamientos independientes en determinados períodos, especialmente relacionados con sus propios ciclos de halving. En 2026, entender esta relación es fundamental para gestionar una cartera mixta.",
+    "metaTitle": "Relación entre bolsa y criptomonedas 2026: correlación y análisis | Crypthor",
+    "metaDescription": "Análisis de la correlación entre la bolsa y Bitcoin en 2026. Cómo los mercados tradicionales afectan a las criptomonedas y estrategias para inversores mixtos.",
+    "publishedAt": "2026-02-20T00:00:00Z",
+    "updatedAt": "2026-06-17T00:00:00Z",
+    "readingTime": 10,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Exchange de cripto con mayor transparencia regulatoria para inversores de bolsa", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mayor variedad y mejores precios para complementar cartera de bolsa", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo regulado para inversores que combinan bolsa y cripto", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "eToro", "rating": 4.3, "price": "Variable", "bestFor": "Plataforma única que permite invertir en bolsa y cripto desde la misma cuenta", "affiliateUrl": "https://www.etoro.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodia segura de la parte cripto de tu cartera a largo plazo", "affiliateUrl": "https://www.ledger.com/" }
+    ],
+    "pros": [
+      "La correlación variable entre cripto y bolsa ofrece oportunidades de diversificación cuando ambos mercados se desacoplan temporalmente",
+      "En fases de mercado alcista en bolsa, el flujo de capital hacia activos de riesgo suele beneficiar también a Bitcoin y las altcoins",
+      "Los inversores institucionales que entienden la correlación pueden usar cripto como complemento a carteras tradicionales con gestión de riesgo sofisticada",
+      "Bitcoin ha demostrado desacoplarse de la bolsa en ciclos relacionados con su propio mecanismo de halving, ofreciendo rendimientos independientes",
+      "La llegada de ETFs de Bitcoin facilita su inclusión en carteras institucionales y de pensiones junto con acciones y bonos tradicionales"
+    ],
+    "cons": [
+      "En crisis de mercado profundas (2020 COVID, 2022 Fed), Bitcoin y cripto cayeron junto con la bolsa, sin cumplir la función de refugio",
+      "La correlación de Bitcoin con Nasdaq Tech ha aumentado en los últimos años, reduciendo su utilidad como activo de diversificación pura",
+      "Los inversores de bolsa que añaden cripto a su cartera pueden amplificar las caídas: en 2022 perdieron tanto en acciones como en cripto simultáneamente",
+      "La mayor participación institucional en cripto (ETFs, fondos de pensiones) puede aumentar la correlación con bolsa con el tiempo",
+      "Las altcoins tienen correlación aún mayor con el Bitcoin que con la bolsa: son menos útiles para diversificación entre activos"
+    ],
+    "faqs": [
+      {
+        "question": "¿Bitcoin sube cuando la bolsa sube?",
+        "answer": "No siempre, pero hay correlación positiva con el índice Nasdaq Tech en muchos períodos. Cuando el mercado está en modo 'risk-on' (apetito de riesgo alto), tanto la bolsa tech como Bitcoin tienden a subir. En modo 'risk-off' (huida hacia la calidad), ambos pueden caer. Sin embargo, Bitcoin también tiene ciclos propios (halving) que pueden desacoplarlo de la bolsa temporalmente."
+      },
+      {
+        "question": "¿Es buena idea añadir cripto a una cartera de bolsa?",
+        "answer": "Puede ser. Un porcentaje pequeño de Bitcoin (5-10%) en una cartera diversificada de bolsa ha mejorado históricamente el rendimiento ajustado por riesgo en varios backtests. El mayor riesgo es la correlación positiva en caídas de mercado: en 2022, no hubo efecto de diversificación. La clave es que la exposición a cripto sea pequeña y que el horizonte temporal sea largo."
+      },
+      {
+        "question": "¿Por qué Bitcoin cayó cuando la Fed subió tipos en 2022?",
+        "answer": "Los tipos de interés afectan a todos los activos de riesgo. Cuando la Fed sube tipos, los bonos del gobierno ofrecen rendimientos atractivos sin riesgo, haciendo que el capital salga de activos especulativos hacia estos. Bitcoin, como activo de alto riesgo, sufrió el mismo efecto que las acciones de crecimiento de alto precio/beneficio: la subida de tipos reduce el valor presente de sus flujos futuros."
+      },
+      {
+        "question": "¿Qué indica el índice de dominancia de Bitcoin para el mercado cripto?",
+        "answer": "La dominancia de Bitcoin (su % del total de capitalización cripto) indica el estado del ciclo de mercado. Alta dominancia (>60%) suele indicar que el capital fluye hacia el activo más seguro en cripto. Baja dominancia (<45%) suele indicar 'altcoin season': los inversores rotan hacia altcoins buscando mayor retorno, típicamente en fases alcistas maduras."
+      }
+    ],
+    "ctaTitle": "Añade cripto a tu cartera de inversión desde Coinbase",
+    "ctaDescription": "Coinbase es el exchange más regulado y familiar para inversores de bolsa que quieren añadir Bitcoin o Ethereum a su cartera. Registro en 5 minutos.",
+    "ctaButtonText": "Abrir cuenta en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "acciones-relacionadas-bitcoin-2026",
+    "title": "Las mejores acciones relacionadas con Bitcoin para 2026",
+    "keyword": "acciones relacionadas con Bitcoin",
+    "category": "Mercado y bolsa",
+    "excerpt": "No solo puedes comprar Bitcoin directamente: existen acciones cotizadas que ofrecen exposición indirecta al precio de BTC. Analizamos las más interesantes para 2026.",
+    "introduction": "Para inversores que no quieren gestionar wallets cripto o prefieren operar dentro del sistema financiero tradicional, las acciones con exposición a Bitcoin ofrecen una alternativa atractiva. Estas incluyen empresas mineras de Bitcoin, exchanges cotizados en bolsa, empresas con Bitcoin en su balance y ETFs especializados. Cada una tiene un perfil de riesgo diferente y una correlación distinta con el precio de BTC.",
+    "metaTitle": "Mejores acciones relacionadas con Bitcoin 2026 | Crypthor",
+    "metaDescription": "Las mejores acciones de Bitcoin para 2026: MicroStrategy, Coinbase, Marathon Digital, Riot Platforms y ETFs de Bitcoin. Análisis completo.",
+    "publishedAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-06-17T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "MicroStrategy (MSTR)", "rating": 4.5, "price": "Cotización en Nasdaq", "bestFor": "La acción más correlacionada con BTC, con efecto de apalancamiento", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Coinbase (COIN)", "rating": 4.4, "price": "Cotización en Nasdaq", "bestFor": "Exchange cripto regulado cotizado, expuesto al volumen de mercado", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Marathon Digital (MARA)", "rating": 4.2, "price": "Cotización en Nasdaq", "bestFor": "Empresa minera de Bitcoin con la mayor flota de mineros de EEUU", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Riot Platforms (RIOT)", "rating": 4.2, "price": "Cotización en Nasdaq", "bestFor": "Minera de Bitcoin con infraestructura de bajo coste energético", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "ETF iShares Bitcoin Trust (IBIT)", "rating": 4.7, "price": "0,25% comisión gestión/año", "bestFor": "El ETF de Bitcoin de BlackRock con mayor liquidez del mercado", "affiliateUrl": "https://www.coinbase.com/" }
+    ],
+    "pros": [
+      "Las acciones de empresas Bitcoin se pueden comprar desde un bróker de bolsa tradicional sin necesidad de crear cuentas en exchanges cripto",
+      "MicroStrategy actúa como un 'Bitcoin apalancado': históricamente ha ampliado tanto las subidas como las bajadas de BTC por su deuda corporativa",
+      "Los ETFs de Bitcoin (IBIT de BlackRock, FBTC de Fidelity) ofrecen exposición limpia al precio de BTC sin gestionar claves privadas",
+      "Las acciones mineras (MARA, RIOT) ofrecen exposición adicional a la eficiencia operativa: cuando el precio de BTC sube, sus márgenes crecen exponencialmente",
+      "Coinbase (COIN) es un proxy del mercado cripto en general: se beneficia de mayor volumen de trading en cualquier activo cripto, no solo Bitcoin"
+    ],
+    "cons": [
+      "Las acciones de mineras de Bitcoin pueden caer más que el propio BTC en ciclos bajistas por el efecto de apalancamiento operativo y deuda",
+      "MicroStrategy cotiza con una prima sobre el NAV de su Bitcoin que puede desaparecer si el sentimiento de mercado cambia",
+      "Las acciones cripto en bolsa están sujetas a regulación de mercados de valores, lo que puede limitar su liquidez fuera de horario de bolsa",
+      "Los ETFs de Bitcoin tienen comisión de gestión anual (0,25-0,50%) que los hace menos eficientes que poseer BTC directamente a largo plazo",
+      "Ninguna acción o ETF da la misma exposición pura a Bitcoin que poseer BTC directamente en una wallet propia"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuál es la diferencia entre comprar Bitcoin directamente y comprar IBIT (el ETF de BlackRock)?",
+        "answer": "Al comprar BTC directamente, posees el activo real y puedes retirarlo a tu wallet. Con IBIT (ETF), posees participaciones de un fondo que tiene Bitcoin: no tienes las claves privadas y pagas el 0,25% anual de comisión de gestión. La ventaja del ETF es que puedes comprarlo desde cualquier bróker de bolsa (sin cuenta cripto) y tiene mayor regulación protectora."
+      },
+      {
+        "question": "¿Por qué MicroStrategy sube más que Bitcoin?",
+        "answer": "MicroStrategy tiene miles de Bitcoins en su balance financiados parcialmente con deuda corporativa. Cuando BTC sube, el valor neto de su Bitcoin crece exponencialmente más que su deuda, amplificando la ganancia para accionistas. Este efecto de 'apalancamiento Bitcoin' hace que MSTR sea más volátil que BTC al alza y a la baja."
+      },
+      {
+        "question": "¿Las acciones mineras de Bitcoin son buena inversión?",
+        "answer": "Dependen fuertemente del ciclo de mercado. En mercados alcistas, las mineras pueden superar a Bitcoin gracias al efecto de apalancamiento operativo. En ciclos bajistas, pueden perder el 90-95% de su valor ya que sus costes operativos (electricidad, mantenimiento) siguen existiendo mientras sus ingresos caen. Son inversiones de alto riesgo para inversores que quieren exposición amplificada a Bitcoin."
+      },
+      {
+        "question": "¿Puedo comprar acciones de Coinbase (COIN) desde España?",
+        "answer": "Sí. Coinbase cotiza en Nasdaq (COIN) y puedes comprarla desde brokers de bolsa disponibles en España como Interactive Brokers, DEGIRO, Trade Republic o XTB. Ten en cuenta que los dividendos o ganancias de acciones extranjeras tributan en el IRPF y hay obligaciones de información si superas ciertos umbrales."
+      }
+    ],
+    "ctaTitle": "Empieza con cripto directamente en Coinbase",
+    "ctaDescription": "Si prefieres exposición directa a Bitcoin, Coinbase es el exchange más regulado y familiar para inversores de bolsa. Sin comisiones de ETF y control total de tus activos.",
+    "ctaButtonText": "Comprar Bitcoin en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "microstrategy-accion-bitcoin",
+    "title": "MicroStrategy (MSTR): la acción Bitcoin de Nasdaq explicada",
+    "keyword": "MicroStrategy acción Bitcoin",
+    "category": "Mercado y bolsa",
+    "excerpt": "MicroStrategy transformó su negocio de software en un vehículo de acumulación de Bitcoin. Analizamos si MSTR es una buena apuesta para inversores que quieren exposición amplificada a BTC.",
+    "introduction": "MicroStrategy, bajo el liderazgo de Michael Saylor, realizó la primera compra corporativa de Bitcoin en agosto de 2020 y desde entonces se ha convertido en la empresa con mayor cantidad de Bitcoin en balance del mundo (más de 200.000 BTC en 2026). La compañía ha pivotado su modelo de negocio: de empresa de software de inteligencia empresarial a 'Bitcoin Treasury Company'. MSTR es ahora el proxy apalancado de Bitcoin más accesible desde los mercados bursátiles tradicionales.",
+    "metaTitle": "MicroStrategy (MSTR) acción Bitcoin 2026: análisis | Crypthor",
+    "metaDescription": "Análisis de MicroStrategy (MSTR) como inversión en 2026. La empresa con más Bitcoin en balance explicada: riesgos, potencial y comparativa con Bitcoin directo.",
+    "publishedAt": "2026-02-25T00:00:00Z",
+    "updatedAt": "2026-06-17T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "MicroStrategy (MSTR)", "rating": 4.5, "price": "Cotización en Nasdaq", "bestFor": "Exposición amplificada a Bitcoin desde cuenta de bróker tradicional", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Bitcoin (BTC) directo", "rating": 4.8, "price": "Comisión exchange", "bestFor": "Exposición directa sin prima de mercado ni deuda corporativa", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "iShares Bitcoin Trust (IBIT)", "rating": 4.7, "price": "0,25% gestión/año", "bestFor": "Exposición directa al precio de BTC sin apalancamiento", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Marathon Digital (MARA)", "rating": 4.2, "price": "Cotización en Nasdaq", "bestFor": "Exposición a Bitcoin más ingresos de minería", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Coinbase (COIN)", "rating": 4.4, "price": "Cotización en Nasdaq", "bestFor": "Proxy del mercado cripto en general con ingresos de exchange", "affiliateUrl": "https://www.coinbase.com/" }
+    ],
+    "pros": [
+      "MSTR cotiza en Nasdaq y es accesible desde cualquier bróker de bolsa tradicional sin necesidad de cuenta en exchange de cripto",
+      "MicroStrategy ha demostrado ser un vehículo efectivo de exposición apalancada a Bitcoin: en ciclos alcistas supera la rentabilidad de BTC directamente",
+      "Michael Saylor es el mayor evangelista de Bitcoin con acceso institucional y ha convertido la empresa en referencia de la estrategia de reserva corporativa",
+      "La empresa sigue acumulando Bitcoin de forma agresiva, con una estrategia de financiación que aumenta la exposición en cada ciclo alcista",
+      "MSTR permite acceso a Bitcoin desde cuentas de pensiones y vehículos de inversión que no permiten criptomonedas directamente"
+    ],
+    "cons": [
+      "MSTR cotiza con una prima sobre el NAV (valor neto de su Bitcoin) que puede ser del 50-150%, lo que significa que pagas más que lo que vale el Bitcoin subyacente",
+      "La deuda corporativa que financia las compras de Bitcoin puede convertirse en un riesgo de insolvencia si BTC cae drásticamente y permanece bajo por años",
+      "En ciclos bajistas profundos, MSTR puede caer el 80-90% más que Bitcoin por el efecto de la deuda y la prima desapareciendo",
+      "El negocio original de software de MicroStrategy es relativamente pequeño: la valoración depende casi 100% del Bitcoin en balance",
+      "Michael Saylor tiene una concentración enorme de poder en la empresa, lo que crea riesgo de personalidad clave"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuánto Bitcoin tiene MicroStrategy?",
+        "answer": "En 2026, MicroStrategy tiene más de 200.000 BTC en su balance, lo que la convierte en la empresa privada con mayor tenencia de Bitcoin del mundo. La compañía ha financiado estas compras mediante la emisión de deuda convertible (bonos) y aumentos de capital, con el objetivo explícito de acumular tanto Bitcoin como sea posible."
+      },
+      {
+        "question": "¿Por qué MSTR sube y baja más que Bitcoin?",
+        "answer": "MSTR actúa como un Bitcoin con apalancamiento. Cuando BTC sube, el valor de su Bitcoin crece más que su deuda, amplificando la ganancia. Cuando BTC cae, la deuda permanece pero el Bitcoin vale menos, amplificando la pérdida. Además, MSTR cotiza con una prima sobre el NAV de su Bitcoin que puede expandirse (más alcista que BTC) o contraerse (más bajista) según el sentimiento."
+      },
+      {
+        "question": "¿Es MicroStrategy más arriesgado que comprar Bitcoin directamente?",
+        "answer": "Sí. MSTR añade al riesgo del precio de Bitcoin el riesgo de la estructura de deuda corporativa, el riesgo regulatorio de mercado de valores, el riesgo de dilución accionarial por ampliaciones de capital y el riesgo de la prima de mercado que puede contraerse. Para exposición 'limpia' a Bitcoin, los ETFs como IBIT o comprar BTC directamente son menos arriesgados."
+      },
+      {
+        "question": "¿Hay empresas europeas equivalentes a MicroStrategy?",
+        "answer": "En Europa hay varias empresas con Bitcoin en balance pero a menor escala. La más conocida es Metaplanet en Japón (cotizada en Tokyo) que ha adoptado la misma estrategia. En Europa, algunos fondos de inversión cotizados (ETP) de Bitcoin como los de ETC Group o 21Shares replican la exposición al BTC sin el riesgo de la estructura corporativa de MSTR."
+      }
+    ],
+    "ctaTitle": "Prefiere BTC directo a la acción: cómpralo en Coinbase",
+    "ctaDescription": "Comprar Bitcoin directamente en Coinbase es más transparente que MSTR: sin prima de mercado, sin riesgo de deuda corporativa y con las claves bajo tu control.",
+    "ctaButtonText": "Comprar Bitcoin en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "coinbase-accion-nasdaq",
+    "title": "Coinbase (COIN): análisis de la acción en Nasdaq para 2026",
+    "keyword": "Coinbase acción Nasdaq",
+    "category": "Mercado y bolsa",
+    "excerpt": "Coinbase es el único exchange de criptomonedas cotizado en Nasdaq. Analizamos si COIN es una buena inversión en 2026 para los que quieren exposición al mercado cripto desde bolsa.",
+    "introduction": "Coinbase salió a bolsa en abril de 2021 mediante listing directo en Nasdaq con una valoración de 86.000 millones de dólares, siendo uno de los debuts bursátiles más esperados del año. Como el único exchange cripto de primer nivel cotizado en Estados Unidos, COIN ofrece exposición única al crecimiento del ecosistema cripto regulado, sin las complejidades de gestionar activos cripto directamente. Su modelo de negocio depende directamente del volumen de trading en el mercado cripto.",
+    "metaTitle": "Coinbase (COIN) acción Nasdaq 2026: análisis de inversión | Crypthor",
+    "metaDescription": "Análisis de la acción de Coinbase (COIN) en Nasdaq para 2026. Modelo de negocio, ingresos, comparativa y perspectivas para inversores de bolsa.",
+    "publishedAt": "2026-02-28T00:00:00Z",
+    "updatedAt": "2026-06-17T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Coinbase (COIN)", "rating": 4.4, "price": "Cotización en Nasdaq", "bestFor": "Proxy del mercado cripto regulado con diversificación de ingresos", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "MicroStrategy (MSTR)", "rating": 4.5, "price": "Cotización en Nasdaq", "bestFor": "Exposición apalancada directamente al precio de Bitcoin", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Marathon Digital (MARA)", "rating": 4.2, "price": "Cotización en Nasdaq", "bestFor": "Exposición a Bitcoin vía minería con potencial de apalancamiento", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Riot Platforms (RIOT)", "rating": 4.2, "price": "Cotización en Nasdaq", "bestFor": "Minera de Bitcoin más eficiente operativamente que MARA", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Bitcoin directo (BTC)", "rating": 4.8, "price": "Comisión exchange", "bestFor": "Exposición más directa al activo sin intermediario cotizado", "affiliateUrl": "https://www.coinbase.com/" }
+    ],
+    "pros": [
+      "Coinbase es la empresa cripto con mayor regulación en EEUU: es miembro del S&P 500 y está sometida a los estándares de divulgación más exigentes",
+      "Coinbase genera ingresos diversificados: trading, staking, custody, Coinbase One subscription y servicios institucionales a través de Coinbase Prime",
+      "COIN se beneficia de cualquier criptomoneda que genere volumen de trading, no solo Bitcoin: es un proxy del mercado cripto en general",
+      "La Base (L2 de Coinbase) genera crecientes ingresos de transacciones y posiciona a Coinbase en el epicentro del ecosistema Ethereum",
+      "Coinbase tiene el balance más sólido entre las empresas cripto cotizadas, con grandes reservas de caja que le permiten sobrevivir ciclos bajistas"
+    ],
+    "cons": [
+      "Los ingresos de Coinbase son altamente cíclicos: en 2022 (mercado bajista) los ingresos cayeron más del 60% y la empresa tuvo pérdidas significativas",
+      "La competencia de exchanges como Binance, Kraken y otros presiona constantemente las comisiones de trading que son la principal fuente de ingresos",
+      "COIN tiene alta correlación con el mercado cripto: cuando BTC cae, COIN cae tanto o más, reduciendo su utilidad como diversificador",
+      "La empresa tiene una estructura de gobernanza con acciones de clase B que dan a Brian Armstrong un poder de voto desproporcionado",
+      "La regulación de la SEC ha sido un riesgo constante para Coinbase, aunque la situación ha mejorado con la nueva administración en EEUU"
+    ],
+    "faqs": [
+      {
+        "question": "¿COIN es una buena inversión en ciclos alcistas de cripto?",
+        "answer": "Históricamente, COIN ha tenido alta correlación con Bitcoin en mercados alcistas, con potencial de mayores rendimientos. En el ciclo alcista de 2023-2024, COIN multiplicó por más de 5x desde mínimos. Sin embargo, en ciclos bajistas puede ser devastadora: cayó un 90% desde máximos de 2021. Es una inversión de alto riesgo/retorno ideal para convicción en cripto sin querer gestionar activos directamente."
+      },
+      {
+        "question": "¿Coinbase puede desaparecer si hay otro ciclo bajista?",
+        "answer": "Coinbase es una de las pocas empresas cripto con un balance suficientemente sólido para sobrevivir ciclos bajistas prolongados. En 2022 tuvo pérdidas pero sobrevivió recortando costes agresivamente. Las probabilidades de quiebra son bajas en comparación con exchanges más pequeños, aunque no se pueden descartar en un escenario extremo de regulación adversa o mercado bajista prolongado."
+      },
+      {
+        "question": "¿Cómo tributan los dividendos de COIN en España?",
+        "answer": "Coinbase no paga dividendos actualmente. Si obtuvieras ganancias de capital por venta de acciones COIN, tributarían en el IRPF como ganancias patrimoniales: 19% hasta 6.000€, 21% entre 6.000-50.000€, 23% entre 50.000-200.000€, y 27% por encima. Las acciones extranjeras tienen retención en origen que normalmente se puede deducir del IRPF español."
+      },
+      {
+        "question": "¿Puedo comprar COIN en brokers españoles?",
+        "answer": "Sí. Coinbase (COIN) cotiza en Nasdaq y está disponible en brokers accesibles desde España como Interactive Brokers, DEGIRO, Trade Republic, XTB y Scalable Capital. También está disponible como CFD en algunos brokers aunque los CFDs tienen riesgo adicional de apalancamiento y costes mayores."
+      }
+    ],
+    "ctaTitle": "Usa Coinbase como exchange y considera COIN como inversión",
+    "ctaDescription": "Coinbase es tanto el exchange más regulado para comprar cripto como una empresa cotizada en Nasdaq. Crea tu cuenta de exchange hoy.",
+    "ctaButtonText": "Abrir cuenta en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "etf-bitcoin-que-es",
+    "title": "¿Qué es un ETF de Bitcoin y cómo funciona?",
+    "keyword": "ETF Bitcoin qué es",
+    "category": "Mercado y bolsa",
+    "excerpt": "Los ETFs de Bitcoin permiten invertir en BTC desde una cuenta de bolsa convencional. Explicamos cómo funcionan, cuáles son los principales y si son la mejor forma de invertir en Bitcoin.",
+    "introduction": "La aprobación de los primeros ETFs de Bitcoin spot en EEUU en enero de 2024 fue uno de los hitos más importantes de la historia del cripto: permitió a millones de inversores institucionales y minoristas acceder a Bitcoin a través de cuentas de corretaje tradicionales, sin necesidad de wallets ni exchanges cripto. En menos de un año, el ETF de Bitcoin de BlackRock (IBIT) se convirtió en el ETF de lanzamiento más exitoso de la historia.",
+    "metaTitle": "ETF de Bitcoin: qué es, cómo funciona y cuáles son los mejores | Crypthor",
+    "metaDescription": "Todo sobre los ETFs de Bitcoin en 2026: qué son, cómo funcionan, cuáles son los mejores (IBIT, FBTC) y si son mejor opción que comprar BTC directamente.",
+    "publishedAt": "2026-03-05T00:00:00Z",
+    "updatedAt": "2026-06-17T00:00:00Z",
+    "readingTime": 10,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "iShares Bitcoin Trust (IBIT)", "rating": 4.8, "price": "0,25% comisión anual", "bestFor": "El ETF de BTC más grande y líquido del mercado, de BlackRock", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Fidelity Wise Origin (FBTC)", "rating": 4.7, "price": "0,25% comisión anual", "bestFor": "ETF de BTC de Fidelity, la gestora de referencia para pensiones", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "ARK 21Shares (ARKB)", "rating": 4.6, "price": "0,21% comisión anual", "bestFor": "ETF de BTC con comisión más baja del grupo y gestión de ARK Invest", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "ETC Group Bitcoin ETP (BTCE)", "rating": 4.5, "price": "2% comisión anual", "bestFor": "ETP físico de Bitcoin disponible en bolsas europeas", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Bitcoin directo (Coinbase)", "rating": 4.8, "price": "1,49% por operación", "bestFor": "Sin comisión anual, con propiedad real del BTC y claves privadas", "affiliateUrl": "https://www.coinbase.com/" }
+    ],
+    "pros": [
+      "Los ETFs de Bitcoin permiten acceso desde cualquier cuenta de bróker convencional sin aprender sobre wallets, claves privadas o exchanges cripto",
+      "Los ETFs están regulados por la SEC y otros reguladores, ofreciendo protecciones legales para inversores que no existen con cripto directamente",
+      "IBIT de BlackRock captó más de 20.000 millones de dólares en los primeros meses, siendo el ETF de lanzamiento más exitoso de la historia",
+      "Los ETFs de Bitcoin permiten inversión en BTC desde cuentas de pensiones (IRAs en EEUU, planes de pensiones en Europa cuando disponibles)",
+      "Los ETFs son más eficientes para algunos inversores institucionales por razones de compliance y contabilidad que no permiten custodia directa de cripto"
+    ],
+    "cons": [
+      "Los ETFs cobran una comisión anual de gestión (0,21-0,50%) que se acumula significativamente en inversiones a largo plazo",
+      "Con un ETF no posees Bitcoin directamente: no tienes claves privadas, no puedes enviarlo a otra wallet y dependes del custodio del fondo",
+      "Los ETFs replican el precio de BTC pero no ofrecen staking, yield ni ningún beneficio adicional del ecosistema blockchain",
+      "En España y la mayoría de Europa, los ETFs americanos de Bitcoin (IBIT, FBTC) no están disponibles directamente para inversores minoristas por regulación MiFID II",
+      "Los ETP europeos tienen comisiones más altas que los ETFs americanos (típicamente 1-2% vs 0,25%) reduciendo su eficiencia"
+    ],
+    "faqs": [
+      {
+        "question": "¿Puedo comprar el ETF de Bitcoin de BlackRock (IBIT) desde España?",
+        "answer": "Los inversores minoristas españoles tienen acceso restringido a ETFs americanos por la regulación MiFID II, que requiere un documento KID (Key Information Document) en Europa que IBIT no tiene. Sin embargo, puedes acceder a ETPs equivalentes europeos (de ETC Group, 21Shares o WisdomTree) que están disponibles en brokers europeos como Interactive Brokers o DEGIRO."
+      },
+      {
+        "question": "¿Es mejor un ETF de Bitcoin o comprar BTC directamente?",
+        "answer": "Depende del perfil del inversor. Para principiantes que no quieren gestionar wallets: el ETP europeo desde un bróker convencional es más sencillo. Para inversores con conocimientos cripto que buscan máxima eficiencia: comprar BTC directamente en un exchange y custodiarlo en hardware wallet elimina la comisión anual y da control total. Para inversores institucionales: los ETFs son preferibles por razones de compliance."
+      },
+      {
+        "question": "¿Hay ETFs de Ethereum también?",
+        "answer": "Sí. Los ETFs de Ethereum spot fueron aprobados en EEUU en mayo 2024 y comenzaron a cotizar en julio 2024. BlackRock, Fidelity y otras gestoras lanzaron productos equivalentes. En Europa, los ETPs de Ethereum llevan más tiempo disponibles. Sin embargo, los ETFs de Ethereum no incluyen el rendimiento del staking, siendo menos eficientes que tener ETH directamente."
+      },
+      {
+        "question": "¿Los ETFs de Bitcoin tributan igual que comprar BTC directamente en España?",
+        "answer": "Los ETPs europeos de Bitcoin tributarían como fondos de inversión o como activos financieros según su estructura legal. En España, la tributación de las ganancias de capital en productos financieros es similar: IRPF como ganancia patrimonial. Sin embargo, los detalles dependen de la estructura jurídica exacta del producto. Consulta con un asesor fiscal para tu caso específico."
+      }
+    ],
+    "ctaTitle": "Compra Bitcoin directamente: sin comisión anual",
+    "ctaDescription": "Comprar Bitcoin directamente en Coinbase es más eficiente que un ETF: sin comisión anual de gestión y con propiedad real del activo. Crea tu cuenta en 5 minutos.",
+    "ctaButtonText": "Comprar BTC sin comisión anual",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "mejores-etf-cripto-2026",
+    "title": "Los mejores ETFs de criptomonedas para 2026",
+    "keyword": "mejores ETF cripto 2026",
+    "category": "Mercado y bolsa",
+    "excerpt": "Los ETFs cripto han proliferado en 2024-2026 ofreciendo acceso a Bitcoin, Ethereum y más desde cuentas de bolsa. Comparamos los mejores ETFs y ETPs de cripto disponibles en 2026.",
+    "introduction": "La aprobación de ETFs de Bitcoin y Ethereum spot en EEUU en 2024 abrió una nueva era de acceso institucional a las criptomonedas. En Europa, los ETPs (Exchange Traded Products) llevan más tiempo disponibles aunque con comisiones más altas. En 2026, el ecosistema de productos de inversión en cripto cotizados en bolsa es más variado que nunca, con opciones para diferentes perfiles de inversión.",
+    "metaTitle": "Mejores ETFs de criptomonedas en 2026: comparativa completa | Crypthor",
+    "metaDescription": "Comparativa de los mejores ETFs y ETPs de criptomonedas disponibles en 2026. IBIT, FBTC, ETPs europeos y más: comisiones, accesibilidad y comparativa.",
+    "publishedAt": "2026-03-08T00:00:00Z",
+    "updatedAt": "2026-06-17T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "IBIT (BlackRock Bitcoin)", "rating": 4.8, "price": "0,25%/año", "bestFor": "El ETF de BTC más grande y líquido del mercado (EEUU)", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "BTCE (ETC Group)", "rating": 4.5, "price": "2%/año", "bestFor": "ETP de BTC físico en bolsas europeas para inversores UE", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "21Shares Bitcoin ETP (ABTC)", "rating": 4.5, "price": "1,49%/año", "bestFor": "ETP europeo de BTC con buena liquidez en Deutsche Börse", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "WisdomTree Bitcoin ETP", "rating": 4.4, "price": "0,35%/año", "bestFor": "ETP europeo con la comisión más baja entre los disponibles en Europa", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Grayscale Bitcoin Trust (GBTC)", "rating": 4.3, "price": "1,5%/año", "bestFor": "El vehículo cripto institucional más antiguo, ahora como ETF", "affiliateUrl": "https://www.coinbase.com/" }
+    ],
+    "pros": [
+      "Los ETPs europeos están disponibles en bolsas reguladas de toda Europa y son accesibles para inversores minoristas sin restricciones MiFID II",
+      "WisdomTree ofrece ETPs de Bitcoin con una de las comisiones más bajas disponibles en Europa (0,35%), acercándose a los niveles americanos",
+      "Los ETFs y ETPs de Bitcoin físico respaldado por BTC real garantizan que el producto replica el precio sin derivados o futuros",
+      "La liquidez de IBIT supera los 1.000 millones de dólares diarios, siendo uno de los ETFs con mayor volumen de la historia",
+      "Los ETPs europeos son accesibles desde brokers como Interactive Brokers, DEGIRO, Scalable Capital y Trade Republic"
+    ],
+    "cons": [
+      "Las comisiones de ETPs europeos (0,35-2%) son significativamente más altas que los ETFs americanos (0,25%), penalizando a inversores europeos",
+      "Ningún ETF o ETP de Ethereum en EEUU incluye el rendimiento del staking (3-5% APY), siendo menos eficientes que tener ETH directamente",
+      "La variedad de ETPs en Europa sigue siendo limitada: principalmente Bitcoin y Ethereum, sin ETPs de otras criptomonedas con suficiente liquidez",
+      "Los ETPs y ETFs cripto tienen correlación casi perfecta con el activo subyacente: ofrecen acceso más cómodo pero no diversificación adicional",
+      "Los ETPs europeos requieren verificación en el bróker y no están disponibles en todas las cuentas de valores de todos los bancos españoles"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuál es el mejor ETP de Bitcoin disponible para inversores españoles?",
+        "answer": "Para inversores minoristas españoles, las mejores opciones son: WisdomTree Bitcoin ETP (0,35% comisión, la más baja disponible en Europa, cotiza en Deutsche Börse y disponible en Interactive Brokers y DEGIRO) y los productos de 21Shares en Euronext. Verifica que tu bróker tenga acceso a la bolsa donde cotiza el ETP que eliges."
+      },
+      {
+        "question": "¿Hay ETPs de Ethereum en Europa?",
+        "answer": "Sí. Hay ETPs de Ethereum disponibles en Europa de proveedores como ETC Group (ETHE), 21Shares (AETH) y WisdomTree (WETH). Son similares a los ETPs de Bitcoin en estructura pero replican el precio de ETH. Al igual que en EEUU, no incluyen los rendimientos del staking de Ethereum."
+      },
+      {
+        "question": "¿Puedo incluir ETPs cripto en un plan de pensiones en España?",
+        "answer": "En general no, porque los planes de pensiones en España tienen restricciones sobre los activos elegibles. Sin embargo, esto está evolucionando con la regulación MiCA. Algunas cuentas de ahorro individuales (fondos de inversión) permiten acceder a fondos con exposición indirecta a cripto. Consulta con tu entidad financiera las opciones disponibles."
+      },
+      {
+        "question": "¿Cuándo es mejor un ETP que comprar BTC directamente?",
+        "answer": "Un ETP es mejor cuando: no quieres gestionar wallets ni claves privadas, inviertes desde una cuenta de bróker regulada con protección MiFID, quieres incluir la exposición en una cartera de inversión gestionada por una entidad financiera, o si la cantidad es pequeña y el coste de aprender a gestionar cripto no vale la pena. Para cantidades mayores y largo plazo, BTC directo en hardware wallet es más eficiente."
+      }
+    ],
+    "ctaTitle": "Considera comprar BTC directamente: más eficiente que un ETP",
+    "ctaDescription": "Para inversores con disposición a aprender, comprar BTC en Coinbase elimina la comisión anual del ETP y da propiedad directa del activo. Más rentable a largo plazo.",
+    "ctaButtonText": "Comprar BTC en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "blackrock-bitcoin-etf",
+    "title": "El ETF de Bitcoin de BlackRock (IBIT): todo lo que necesitas saber",
+    "keyword": "BlackRock Bitcoin ETF",
+    "category": "Mercado y bolsa",
+    "excerpt": "IBIT de BlackRock se convirtió en el ETF de lanzamiento más exitoso de la historia. Explicamos qué es, cómo comprar, sus implicaciones para el precio de Bitcoin y si deberías invertir.",
+    "introduction": "El 11 de enero de 2024, la SEC aprobó los primeros ETFs de Bitcoin spot en EEUU, y el iShares Bitcoin Trust (IBIT) de BlackRock se convirtió en el protagonista: captó más de 10.000 millones de dólares en sus primeras semanas y más de 50.000 millones en su primer año, siendo el ETF de lanzamiento más rápido en llegar a esas cifras en la historia. El hecho de que la mayor gestora de activos del mundo (con más de 10 billones bajo gestión) haya lanzado un ETF de Bitcoin es un hito sin precedentes para la adopción institucional.",
+    "metaTitle": "ETF de Bitcoin de BlackRock (IBIT): guía completa 2026 | Crypthor",
+    "metaDescription": "Todo sobre el ETF de Bitcoin de BlackRock (IBIT) en 2026: cómo funciona, cómo comprar, comisiones, comparativa y su impacto en el precio de Bitcoin.",
+    "publishedAt": "2026-03-10T00:00:00Z",
+    "updatedAt": "2026-06-17T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "IBIT (BlackRock)", "rating": 4.8, "price": "0,25%/año", "bestFor": "Mayor liquidez y respaldo institucional del mercado ETF Bitcoin", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "FBTC (Fidelity)", "rating": 4.7, "price": "0,25%/año", "bestFor": "Segunda opción más grande, con Fidelity como custodio propio", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "ARKB (ARK/21Shares)", "rating": 4.6, "price": "0,21%/año", "bestFor": "Comisión más baja entre los principales ETFs de BTC en EEUU", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "GBTC (Grayscale)", "rating": 4.3, "price": "1,5%/año", "bestFor": "El producto cripto institucional más antiguo, ahora como ETF real", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Bitcoin directo (Coinbase)", "rating": 4.8, "price": "1,49% por operación", "bestFor": "Sin comisión anual, posesión real del activo con claves privadas", "affiliateUrl": "https://www.coinbase.com/" }
+    ],
+    "pros": [
+      "IBIT tiene el mayor AUM y la mayor liquidez de todos los ETFs de Bitcoin: fácil compra y venta en cualquier momento del horario bursátil",
+      "BlackRock tiene el mejor historial de gestión de ETFs del mundo y la infraestructura más sofisticada para custodia segura de Bitcoin",
+      "El éxito masivo de IBIT demuestra que hay billones de dólares de capital institucional esperando para entrar en Bitcoin de forma regulada",
+      "IBIT permite comprar Bitcoin desde cuentas de IRA, 401k y planes de pensiones en EEUU que no permiten cripto directamente",
+      "La llegada de BlackRock al cripto ha aumentado la credibilidad del activo frente a reguladores e inversores institucionales escépticos"
+    ],
+    "cons": [
+      "La comisión del 0,25% anual se acumula significativamente en inversiones a largo plazo: sobre 10 años es un 2,5% del total invertido",
+      "IBIT no está disponible para inversores minoristas europeos por restricciones MiFID II: solo accesible a través de cuentas institucionales o alternativas europeas",
+      "No posees Bitcoin directamente con IBIT: el custodio (Coinbase Custody) tiene el Bitcoin real y tú tienes una participación del fondo",
+      "IBIT no genera staking ni ningún rendimiento adicional al precio de BTC: es exposición pura al precio sin beneficios del ecosistema",
+      "Si BlackRock u otro componente del fondo tuviera problemas (hackeo del custodio, problemas regulatorios), el fondo podría verse afectado"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cómo ha impactado el ETF de BlackRock en el precio de Bitcoin?",
+        "answer": "La aprobación del IBIT en enero 2024 fue seguida de un rally significativo de Bitcoin hasta superar los 70.000 dólares, su nuevo máximo histórico en ese momento. Los flujos diarios de capital hacia IBIT (a veces más de 500 millones de dólares al día) han creado una demanda estructural nueva para Bitcoin que no existía antes, siendo un catalizador para el nuevo ciclo alcista."
+      },
+      {
+        "question": "¿IBIT o FBTC: cuál es mejor?",
+        "answer": "Ambos tienen la misma comisión (0,25% anual) y replican el precio de Bitcoin con respaldo físico. IBIT de BlackRock tiene mayor volumen y AUM, lo que significa mayor liquidez. FBTC de Fidelity tiene la ventaja de que Fidelity actúa como su propio custodio (en lugar de usar Coinbase Custody), reduciendo el riesgo de custodio tercero. Para la mayoría de inversores, la diferencia es mínima."
+      },
+      {
+        "question": "¿Por qué Coinbase es el custodio de IBIT?",
+        "answer": "Coinbase Custody es el mayor custodio institucional de criptomonedas en EEUU y fue elegido por BlackRock, Fidelity (parcialmente) y la mayoría de otros emisores de ETF de Bitcoin. Coinbase Custody tiene licencias específicas para custodia institucional, seguros y sistemas de seguridad de primer nivel. El hecho de que BlackRock eligiera Coinbase fue un gran respaldo para la empresa."
+      },
+      {
+        "question": "¿Habrá ETFs de Bitcoin disponibles para inversores españoles pronto?",
+        "answer": "Es posible pero no inmediato. La regulación MiCA de la UE está evolucionando y puede abrir el camino para ETFs de cripto directamente accesibles a inversores minoristas europeos. Mientras tanto, los ETPs europeos (de 21Shares, ETC Group, WisdomTree) son la alternativa disponible. BlackRock también lanzó un ETP de Bitcoin en Europa disponible en bolsas europeas."
+      }
+    ],
+    "ctaTitle": "Si prefieres poseer BTC real, hazlo en Coinbase",
+    "ctaDescription": "El custodio del ETF de BlackRock es Coinbase Custody, la misma empresa. Compra Bitcoin directamente en Coinbase y sé dueño real del activo sin comisión anual.",
+    "ctaButtonText": "Comprar BTC directamente",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "sp500-vs-bitcoin",
+    "title": "S&P 500 vs Bitcoin: ¿cuál ha dado mejores resultados?",
+    "keyword": "S&P 500 vs Bitcoin",
+    "category": "Mercado y bolsa",
+    "excerpt": "Bitcoin ha superado al S&P 500 en prácticamente todos los plazos de más de 4 años desde su creación. Comparamos la rentabilidad, riesgo y características de cada activo.",
+    "introduction": "El S&P 500 es el índice de referencia de la renta variable americana, con una rentabilidad anualizada histórica del 10% aproximadamente. Bitcoin ha superado masivamente ese retorno en plazos superiores a cuatro años, pero con una volatilidad que pocos inversores pueden tolerar psicológicamente. La comparativa entre ambos activos es cada vez más relevante a medida que instituciones de todo el mundo se preguntan cuánto Bitcoin incluir en sus carteras.",
+    "metaTitle": "S&P 500 vs Bitcoin 2026: comparativa de rentabilidad y riesgo | Crypthor",
+    "metaDescription": "Comparativa completa de S&P 500 vs Bitcoin: rentabilidad histórica, volatilidad, correlación y cómo incluir ambos en una cartera diversificada.",
+    "publishedAt": "2026-03-15T00:00:00Z",
+    "updatedAt": "2026-06-17T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Bitcoin (BTC)", "rating": 4.8, "price": "Consultar precio actual", "bestFor": "Mayor rentabilidad histórica a largo plazo, escasez garantizada", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "S&P 500 ETF (VOO/SPY)", "rating": 4.7, "price": "0,03-0,09%/año", "bestFor": "Mayor estabilidad, dividendos y menor volatilidad relativa", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Coinbase (COIN)", "rating": 4.4, "price": "Cotización en Nasdaq", "bestFor": "Exposición al crecimiento del ecosistema cripto desde bolsa", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "MicroStrategy (MSTR)", "rating": 4.5, "price": "Cotización en Nasdaq", "bestFor": "Bitcoin apalancado desde cuenta de bróker tradicional", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Cartera 90% S&P + 10% BTC", "rating": 4.9, "price": "Depende de instrumentos", "bestFor": "La combinación con mejor ratio riesgo/retorno histórico según backtests", "affiliateUrl": "https://www.coinbase.com/" }
+    ],
+    "pros": [
+      "Bitcoin ha superado al S&P 500 en rentabilidad en todos los períodos de 4 años desde su creación, siendo el activo de mayor retorno de la historia reciente",
+      "Estudios académicos muestran que añadir un 5-10% de Bitcoin a una cartera de S&P 500 ha mejorado el retorno ajustado por riesgo históricamente",
+      "El S&P 500 ofrece dividendos que Bitcoin no paga: una fuente de rentabilidad adicional que los inversores de acciones aprecian para el flujo de caja",
+      "La menor volatilidad del S&P 500 permite dormir más tranquilo: caídas del 30-40% vs caídas del 80%+ de Bitcoin en ciclos bajistas",
+      "La combinación de ambos en una cartera puede reducir el riesgo por la correlación imperfecta entre los dos activos"
+    ],
+    "cons": [
+      "Bitcoin tiene volatilidad extrema: caídas del 80% son comunes y psicológicamente devastadoras para la mayoría de inversores",
+      "El S&P 500 tiene un historial de más de 100 años y miles de datos; Bitcoin tiene solo 15 años y dos ciclos completos de datos",
+      "Bitcoin no genera flujo de caja (dividendos o cupones) y solo se puede valorar por la diferencia de precio de compra y venta",
+      "La comparativa histórica puede inducir a error: el mejor rendimiento pasado de Bitcoin no garantiza su continuación en el futuro",
+      "Muchos inversores en Bitcoin no consiguieron los retornos de los backtests por comprar en máximos y vender en mínimos por el pánico"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuánto ha rendido Bitcoin vs S&P 500 en los últimos 5 años?",
+        "answer": "La comparativa varía enormemente según el período exacto. En líneas generales, Bitcoin ha superado ampliamente al S&P 500 en períodos de 4+ años desde prácticamente cualquier punto de entrada. Sin embargo, en períodos más cortos como 2021-2022, el S&P 500 superó a Bitcoin por el crash cripto. La volatilidad de Bitcoin hace que el timing sea crucial."
+      },
+      {
+        "question": "¿Debería sustituir mi inversión en S&P 500 por Bitcoin?",
+        "answer": "No, la recomendación mayoritaria es complementar, no sustituir. La estrategia más estudiada académicamente es tener un núcleo de S&P 500 u otras acciones diversificadas y añadir un pequeño porcentaje (5-15%) de Bitcoin. Esto captura parte del potencial de Bitcoin sin la volatilidad extrema de tenerlo en un 100% de tu cartera."
+      },
+      {
+        "question": "¿Es Bitcoin mejor que el oro como refugio de valor?",
+        "answer": "Bitcoin ha superado ampliamente al oro en retorno. Pero el oro ha demostrado históricamente ser un mejor refugio en crisis de bolsa: en 2020 y 2022, el oro cayó mucho menos que Bitcoin. La narrativa de 'oro digital' para Bitcoin está cobrando fuerza con los ETFs institucionales, pero el comportamiento como refugio sigue siendo discutido."
+      },
+      {
+        "question": "¿Cuánto Bitcoin debería añadir a mi cartera de S&P 500?",
+        "answer": "Los estudios de optimización de cartera más citados sugieren que un 5-10% de Bitcoin ha sido el punto óptimo históricamente para maximizar el retorno ajustado por riesgo de Sharpe. Por encima del 20%, el aumento de volatilidad supera el beneficio de diversificación. Para inversores conservadores, el 2-5% puede ser suficiente exposición."
+      }
+    ],
+    "ctaTitle": "Añade Bitcoin a tu cartera con Coinbase",
+    "ctaDescription": "Coinbase te permite añadir Bitcoin a tu cartera de inversión de forma sencilla, complementando tus acciones con el activo de mayor rendimiento histórico de los últimos 15 años.",
+    "ctaButtonText": "Comprar BTC en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "cuando-sube-bitcoin",
+    "title": "¿Cuándo sube Bitcoin? Factores y patrones históricos",
+    "keyword": "cuándo sube Bitcoin",
+    "category": "Mercado y bolsa",
+    "excerpt": "Hay patrones históricos claros que explican cuándo tiende a subir Bitcoin: halvings, flujos de capital, política monetaria y ciclos de mercado. Analizamos todos los factores.",
+    "introduction": "Bitcoin no sube de forma aleatoria. Hay factores estructurales (el halving cada 4 años), macroeconómicos (política monetaria de la Fed, inflación) y de mercado (flujos institucionales, dominancia de Bitcoin) que históricamente han sido buenos predictores de períodos alcistas. Comprender estos factores no garantiza predecir el futuro, pero ayuda a tomar decisiones de inversión más informadas.",
+    "metaTitle": "¿Cuándo sube Bitcoin? Factores y patrones históricos | Crypthor",
+    "metaDescription": "Análisis de los factores que históricamente hacen subir a Bitcoin: halvings, política monetaria, ciclos de mercado y flujos institucionales.",
+    "publishedAt": "2026-03-20T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Comprar Bitcoin antes de posibles subidas con máxima seguridad", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Trading activo de Bitcoin con las comisiones más bajas", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo regulado para comprar y mantener BTC", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar BTC offline durante períodos de acumulación largo plazo", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Fear & Greed Index", "rating": 4.5, "price": "Gratis", "bestFor": "Indicador de sentimiento para identificar oportunidades de compra", "affiliateUrl": "https://coinmarketcap.com/charts/fear-and-greed-index/" }
+    ],
+    "pros": [
+      "El patrón post-halving es el predictor más consistente: en los 12-18 meses posteriores a cada halving, Bitcoin ha registrado nuevos máximos históricos",
+      "La reducción de tipos de interés por parte de la Fed históricamente ha sido positiva para Bitcoin al aumentar el apetito de riesgo",
+      "Los flujos de entrada masivos en los ETFs institucionales de Bitcoin crean demanda estructural que puede sostener subidas prolongadas",
+      "El ciclo de 4 años de Bitcoin (correlacionado con el halving) ha permitido a inversores pacientes entrar en fases bajistas y salir en alcistas",
+      "El índice Fear & Greed en niveles de 'miedo extremo' históricamente ha coincidido con los mejores momentos de compra"
+    ],
+    "cons": [
+      "Los patrones históricos de Bitcoin pueden no repetirse: el mercado madura y el comportamiento pasado no garantiza el futuro",
+      "Intentar hacer timing del mercado es extremadamente difícil incluso para profesionales: la mayoría de inversores rinden peor que HODL simple",
+      "Factores impredecibles (regulación adversa, hackeos masivos, crisis global) pueden interrumpir cualquier patrón alcista establecido",
+      "La 'altcoin season' suele llegar tarde en el ciclo: quien espera para entrar en altcoins cuando Bitcoin ya está en máximos suele comprar caro",
+      "La velocidad de los ciclos puede cambiar: si más capital institucional entra vía ETFs, los ciclos pueden comprimirse o extenderse impredeciblemente"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuánto tiempo tarda Bitcoin en subir después del halving?",
+        "answer": "Históricamente: el ciclo de 2020 (halving mayo 2020) llevó a Bitcoin a nuevos máximos en noviembre 2020, unos 6 meses después. El ciclo de 2016 tardó unos 12 meses. El ciclo de 2012 tardó unos 12 meses. El promedio es de 6-12 meses. El halving de abril 2024 siguió el patrón, con nuevos máximos en 2024."
+      },
+      {
+        "question": "¿La política de la Fed afecta al precio de Bitcoin?",
+        "answer": "Sí, de forma significativa. La QE (quantitative easing) y tipos bajos favorecen activos de riesgo incluyendo Bitcoin, ya que los inversores buscan mayor retorno. La QT (quantitative tightening) y tipos altos generan venta de activos de riesgo. En 2022, la subida agresiva de tipos de la Fed contribuyó al crash de Bitcoin del 75%. Las expectativas de recortes de tipos son generalmente alcistas para BTC."
+      },
+      {
+        "question": "¿Existe algún indicador fiable para predecir subidas de Bitcoin?",
+        "answer": "No existe un indicador perfecto, pero los más estudiados incluyen: el Stock-to-Flow model (basado en escasez), el Puell Multiple (rentabilidad de mineros), el MVRV Ratio (precio vs valor realizado), el Rainbow Chart (bandas de precio histórico) y el Fear & Greed Index. Ninguno predice con certeza pero combinados pueden informar la estrategia."
+      },
+      {
+        "question": "¿Cuál es la mejor estrategia para beneficiarse de las subidas de Bitcoin?",
+        "answer": "La evidencia histórica sugiere que la estrategia DCA (compras periódicas fijas independientemente del precio) supera a la mayoría de intentos de timing activo para el inversor medio. Comprar y mantener (HODLing) durante al menos un ciclo completo de 4 años también ha resultado en rentabilidad positiva en prácticamente todos los períodos históricos."
+      }
+    ],
+    "ctaTitle": "Acumula Bitcoin con la estrategia DCA en Coinbase",
+    "ctaDescription": "Coinbase permite programar compras automáticas semanales o mensuales de Bitcoin, implementando la estrategia DCA de forma sencilla y sin necesidad de timing.",
+    "ctaButtonText": "Empezar DCA de Bitcoin en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "criptomonedas-vs-oro-2026",
+    "title": "Criptomonedas vs oro 2026: ¿qué es mejor como reserva de valor?",
+    "keyword": "criptomonedas vs oro",
+    "category": "Mercado y bolsa",
+    "excerpt": "El oro ha sido la reserva de valor por excelencia durante milenios. Bitcoin aspira a convertirse en el 'oro digital'. Comparamos ambos activos como protección frente a la inflación y la incertidumbre.",
+    "introduction": "Durante siglos, el oro ha sido el activo de reserva por excelencia: escaso, duradero, reconocido universalmente y resistente a la inflación. Bitcoin es su potencial sucesor digital: más portable, más divisible, más fácilmente auditable y con escasez matemáticamente garantizada. La comparativa entre ambos es una de las más relevantes para inversores conservadores que buscan proteger su patrimonio en 2026.",
+    "metaTitle": "Criptomonedas vs oro 2026: ¿qué es mejor reserva de valor? | Crypthor",
+    "metaDescription": "Comparativa completa de Bitcoin vs oro en 2026 como reservas de valor. Rentabilidad histórica, volatilidad, accesibilidad y perspectivas para inversores.",
+    "publishedAt": "2026-03-22T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Bitcoin (BTC)", "rating": 4.8, "price": "Consultar precio actual", "bestFor": "Mayor rentabilidad histórica a largo plazo, más portable y divisible", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Oro físico", "rating": 4.5, "price": "Comisión bróker + custodia", "bestFor": "Historial de miles de años como reserva de valor y menor volatilidad", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "ETF de Oro (GLD/IAU)", "rating": 4.4, "price": "0,25-0,40%/año", "bestFor": "Exposición al oro sin custodia física, desde bróker de bolsa", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Cartera 50% BTC + 50% Oro", "rating": 4.7, "price": "Depende de instrumentos", "bestFor": "Combina volatilidad de BTC con estabilidad del oro en ciclos bajistas", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodia de BTC offline equivalente al oro físico en caja fuerte", "affiliateUrl": "https://www.ledger.com/" }
+    ],
+    "pros": [
+      "Bitcoin ha superado al oro en rentabilidad en todos los períodos de 4+ años desde su creación, siendo mucho más rentable históricamente",
+      "Bitcoin es significativamente más portable que el oro: un Ledger Nano X del tamaño de una llave puede contener millones de dólares en BTC",
+      "La escasez de Bitcoin (21 millones de unidades máximas) es matemáticamente verificable; la oferta de oro es estimada y puede sorprender al alza",
+      "El oro ha demostrado ser mejor refugio a corto plazo en crisis: en 2020 y 2022, el oro cayó mucho menos que Bitcoin en los momentos de pánico",
+      "El oro tiene un historial de 5.000 años como reserva de valor y reconocimiento universal que Bitcoin todavía está construyendo"
+    ],
+    "cons": [
+      "La volatilidad de Bitcoin es 5-10 veces mayor que la del oro: no es adecuado para inversores conservadores que no toleran drawdowns del 80%",
+      "Bitcoin tiene solo 15 años de historia vs miles de años del oro: es prematuro declarar que Bitcoin supere al oro como reserva de valor",
+      "La custodia de Bitcoin requiere conocimientos técnicos o confianza en un tercero; el oro físico en caja fuerte es más intuitivo",
+      "En crisis financieras sistémicas, Bitcoin puede caer junto con los activos de riesgo mientras el oro sube como refugio convencional",
+      "La regulación puede limitar el uso de Bitcoin en algunos países, mientras que el oro es un activo aceptado en todos los sistemas legales"
+    ],
+    "faqs": [
+      {
+        "question": "¿Bitcoin reemplazará al oro como reserva de valor?",
+        "answer": "Es uno de los debates más apasionantes del sector financiero. Muchos economistas y gestores de fondos como Larry Fink de BlackRock creen que Bitcoin puede complementar o eventualmente superar al oro como reserva de valor digital. Sin embargo, el oro tiene ventajas de reconocimiento universal y liquidez que Bitcoin todavía no iguala. Ambos pueden coexistir."
+      },
+      {
+        "question": "¿Cuánto destinar a Bitcoin y cuánto a oro en una cartera de preservación de capital?",
+        "answer": "Una cartera de preservación de capital conservadora podría incluir: 5-15% en Bitcoin (para capturar el potencial de apreciación con riesgo acotado) y 5-15% en oro (para estabilidad y refugio en crisis). El resto en activos más estables: bonos de calidad, renta variable diversificada. Ajusta según tu tolerancia al riesgo específica."
+      },
+      {
+        "question": "¿El oro es mejor que Bitcoin durante la inflación?",
+        "answer": "El historial del oro como protección frente a la inflación es más largo y consistente. Durante la inflación de 2021-2022, el oro subió mientras Bitcoin también subió inicialmente pero luego cayó. Bitcoin como protección contra la inflación es una narrativa que todavía se está construyendo y no está tan probada como la del oro, que tiene décadas de datos de inflaciones moderadas y altas."
+      },
+      {
+        "question": "¿Es más seguro guardar oro o Bitcoin?",
+        "answer": "El oro físico en una caja fuerte tiene riesgos de robo físico pero no de hackeo digital. Bitcoin tiene riesgos de pérdida de claves privadas o hackeo si no se gestiona bien, pero no puede ser robado físicamente sin las claves. Con un Ledger Nano X bien configurado y la seed phrase guardada correctamente, Bitcoin puede ser tan seguro o más que el oro físico."
+      }
+    ],
+    "ctaTitle": "Diversifica con Bitcoin en tu cartera de preservación",
+    "ctaDescription": "Coinbase te permite añadir Bitcoin a tu cartera de forma sencilla. Para máxima seguridad de tu BTC a largo plazo, combínalo con un Ledger Nano X.",
+    "ctaButtonText": "Comprar Bitcoin en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  }
+]

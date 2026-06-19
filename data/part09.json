@@ -1,0 +1,572 @@
+[
+  {
+    "slug": "fear-and-greed-index-crypto",
+    "title": "Fear and Greed Index cripto: guía completa para inversores",
+    "keyword": "Fear and Greed Index crypto",
+    "category": "Bull run y ciclos",
+    "excerpt": "El índice de miedo y codicia del mercado cripto es uno de los indicadores de sentimiento más seguidos. Explicamos cómo funciona y cómo usarlo para tomar mejores decisiones de inversión.",
+    "introduction": "El Fear and Greed Index (índice de miedo y codicia) es un indicador que mide el sentimiento del mercado cripto en una escala del 0 (miedo extremo) al 100 (codicia extrema). La idea detrás del indicador es sencilla pero poderosa: cuando el mercado está en miedo extremo, los inversores suelen estar sobrevendiendo; cuando está en codicia extrema, suelen estar sobrecomprando. Warren Buffett lo resumió con su famosa frase adaptada al cripto: 'sé codicioso cuando otros tienen miedo, y temeroso cuando otros son codiciosos'.",
+    "metaTitle": "Fear and Greed Index cripto: guía completa 2026 | Crypthor",
+    "metaDescription": "Guía completa del Fear and Greed Index cripto. Cómo funciona, cómo interpretarlo y cómo usarlo para tomar mejores decisiones de inversión en Bitcoin.",
+    "publishedAt": "2026-02-10T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 8,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "CoinMarketCap F&G", "rating": 4.5, "price": "Gratis", "bestFor": "El Fear & Greed Index más consultado con datos diarios gratuitos", "affiliateUrl": "https://coinmarketcap.com/" },
+      { "productName": "Alternative.me F&G", "rating": 4.4, "price": "Gratis", "bestFor": "Versión alternativa con API gratuita para desarrolladores", "affiliateUrl": "https://alternative.me/crypto/fear-and-greed-index/" },
+      { "productName": "Glassnode", "rating": 4.7, "price": "Freemium", "bestFor": "Indicadores on-chain avanzados que complementan el F&G para análisis profundo", "affiliateUrl": "https://glassnode.com/" },
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Ejecutar compras cuando el F&G está en miedo extremo con máxima seguridad", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Trading contrario basado en F&G con las mejores comisiones del mercado", "affiliateUrl": "https://www.binance.com/" }
+    ],
+    "pros": [
+      "El F&G Index en 'miedo extremo' (<20) históricamente ha coincidido con los mejores momentos de compra de largo plazo de Bitcoin",
+      "Es un indicador gratuito y accesible: cualquier inversor puede consultarlo en segundos desde CoinMarketCap o alternative.me",
+      "La estrategia de 'comprar en miedo' puede automatizarse con DCA programado para comprar más cuando el índice está bajo",
+      "El F&G es un indicador contrario: cuando todos tienen miedo es cuando hay más 'valor' en el mercado según la lógica de inversión contrariana",
+      "La versión histórica del índice permite analizar cómo se correlacionó con el precio de Bitcoin en ciclos anteriores"
+    ],
+    "cons": [
+      "El F&G no predice cuándo terminará el miedo: puede estar en 'miedo extremo' durante semanas o meses mientras el precio sigue cayendo",
+      "En mercados bajistas prolongados, comprar en 'miedo extremo' puede resultar en 'atrapar un cuchillo que cae' si el ciclo no ha tocado fondo",
+      "El índice es retroactivo y subjetivo: diferentes metodologías pueden dar lecturas distintas para el mismo momento de mercado",
+      "La estrategia contraria requiere mucha disciplina psicológica: es difícil comprar cuando todos tienen miedo y las noticias son negativas",
+      "El índice puede estar en 'codicia extrema' durante meses en mercados alcistas fuertes, sin que sea señal inmediata de techo"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cómo se calcula el Fear and Greed Index?",
+        "answer": "El índice de CoinMarketCap combina varios factores: Volatilidad (25%): caídas de precio recientes vs histórico; Momentum del mercado (25%): comparación del precio actual con medias móviles; Redes sociales (15%): menciones y engagement en Twitter/Reddit; Dominancia de Bitcoin (10%): cuando BTC domina, el mercado es más temeroso; Tendencias de Google (10%): volumen de búsquedas de términos cripto; Encuestas (15%): opinión de usuarios."
+      },
+      {
+        "question": "¿Cuándo comprar según el Fear and Greed Index?",
+        "answer": "La estrategia contraria clásica es: comprar cuando el índice está por debajo de 25 (miedo extremo o miedo) y reducir posiciones o vender cuando está por encima de 75 (codicia o codicia extrema). Sin embargo, esto no es una señal perfecta de timing: es mejor usarlo como confirmación de estrategia DCA, aumentando las compras periódicas cuando el índice es bajo."
+      },
+      {
+        "question": "¿El Fear and Greed Index es fiable?",
+        "answer": "Es un indicador de sentimiento útil pero no infalible. En el ciclo de 2022, el F&G estuvo en 'miedo extremo' durante meses mientras el precio seguía cayendo: comprar en el primer momento de 'miedo extremo' hubiera significado comprar antes del fondo. Se usa mejor como uno de varios indicadores, no como señal única de entrada o salida."
+      },
+      {
+        "question": "¿Hay un Fear and Greed Index para altcoins?",
+        "answer": "El Fear and Greed Index estándar mide el mercado cripto en general con foco en Bitcoin. Para altcoins específicas, no hay un índice equivalente con la misma adopción. Sin embargo, la evolución del F&G general de cripto suele afectar a todo el mercado, y el F&G de Bitcoin es una buena aproximación del sentimiento general del mercado cripto."
+      }
+    ],
+    "ctaTitle": "Compra Bitcoin cuando el mercado tiene miedo, en Coinbase",
+    "ctaDescription": "Cuando el Fear & Greed Index está en miedo extremo es históricamente el mejor momento de acumular Bitcoin. Coinbase es el exchange más seguro para ejecutarlo.",
+    "ctaButtonText": "Comprar BTC en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "como-sobrevivir-bear-market",
+    "title": "Cómo sobrevivir (y prosperar) en un bear market cripto",
+    "keyword": "cómo sobrevivir bear market cripto",
+    "category": "Bull run y ciclos",
+    "excerpt": "Los mercados bajistas cripto son devastadores para los inversores sin estrategia. Compartimos las estrategias probadas para sobrevivir y incluso sacar partido de los bear markets.",
+    "introduction": "El bear market cripto es el período más desafiante para los inversores: el precio cae el 70-90%, las noticias son devastadoras, los proyectos quiebran y la mayoría de las personas que compraron en el bull run han perdido grandes sumas. Pero para quienes tienen la estrategia correcta y la fortaleza psicológica, el bear market es también el período de mayor oportunidad de acumulación a los mejores precios del ciclo.",
+    "metaTitle": "Cómo sobrevivir un bear market cripto: guía completa | Crypthor",
+    "metaDescription": "Estrategias probadas para sobrevivir el bear market cripto: gestión de riesgo, acumulación, DCA y cómo mantener la cabeza fría cuando el mercado cae.",
+    "publishedAt": "2026-02-15T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 10,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar activos de forma segura offline durante el bear market largo", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Exchange más seguro para DCA de BTC durante el bear market", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Comisiones bajas para acumulación periódica en mercado bajista", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo regulado para esperar el ciclo con staking de ETH", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "USDC/USDT stablecoins", "rating": 4.5, "price": "~1 USD", "bestFor": "Preservar capital en dólares digitales mientras esperas el próximo ciclo", "affiliateUrl": "https://www.coinbase.com/" }
+    ],
+    "pros": [
+      "El bear market es el mejor momento para acumular activos de calidad a precios de descuento: los mejores compradores históricos fueron en mercados bajistas",
+      "La estrategia DCA (compras periódicas) durante el bear market ha resultado en los mejores precios de entrada de cualquier estrategia de inversión cripto",
+      "Convertir parte del portfolio a stablecoins en máximos del ciclo y recomprar en mínimos del bear market es la estrategia de mayor retorno histórico",
+      "El bear market elimina proyectos débiles y estafas, haciendo más fácil identificar los supervivientes con fundamentos reales para el próximo ciclo",
+      "El tiempo durante el bear market es ideal para aprender: analizar proyectos con detenimiento sin la presión del FOMO del bull run"
+    ],
+    "cons": [
+      "Nadie sabe cuándo termina el bear market: el 'bottom' solo se confirma en retrospectiva, y comprar 'en el fondo' puede resultar en comprar antes del suelo real",
+      "Los bear markets pueden durar más de lo esperado: el de 2018-2019 duró 14 meses; el de 2022 duró hasta principios de 2023",
+      "La presión psicológica de ver tu portfolio perder el 70-80% puede llevar a tomar decisiones irracionales como vender en el momento de máxima pérdida",
+      "Algunos proyectos que parecían sólidos en el bull run no sobreviven el bear market: elegir mal los supervivientes puede resultar en pérdida total",
+      "El staking y el DeFi en bear market tienen sus propios riesgos: protocolos que han sobrevivido bull runs pueden colapsar en la presión del bajista"
+    ],
+    "faqs": [
+      {
+        "question": "¿Debo vender todo en un bear market?",
+        "answer": "Depende de tu situación. Si necesitas el dinero a corto plazo (menos de 1-2 años), vender tiene sentido para no quedar atrapado. Si tu horizonte es largo (4+ años) y tienes convicción en Bitcoin y las principales cripto, vender en el bear market suele ser el mayor error: históricamente, quien mantuvo sus posiciones en bear markets anteriores acabó muy bien posicionado en el siguiente bull run."
+      },
+      {
+        "question": "¿Cómo evitar el pánico en el bear market?",
+        "answer": "Estrategias prácticas: solo invierte lo que puedas permitirte perder (si perder ese dinero no cambia tu vida, el pánico es más manejable); diversifica (no todo en una sola cripto); usa la estrategia DCA automática para eliminar las decisiones emocionales; y evita consultar el portfolio más de una vez por semana. La transparencia sobre el tiempo que puede durar un bear market también ayuda a calibrar las expectativas."
+      },
+      {
+        "question": "¿Cuál es la mejor estrategia durante el bear market?",
+        "answer": "La evidencia histórica sugiere: (1) no vender Bitcoin ni Ethereum durante el bear market si tienes horizonte largo; (2) continuar el DCA mensual reducido o mantenerlo; (3) convertir parte de altcoins a BTC o stablecoins para reducir la beta del portfolio; (4) hacer staking de lo que mantengas para generar rendimiento mientras esperas; (5) investigar proyectos para el próximo ciclo sin presión de tiempo."
+      },
+      {
+        "question": "¿Cuánto puede durar un bear market cripto?",
+        "answer": "Los bear markets de Bitcoin han durado entre 12 y 18 meses desde el ATH hasta el suelo: el de 2018 tardó unos 12 meses en tocar fondo; el de 2022 tardó unos 10 meses. La recuperación completa (volver al ATH anterior) ha tardado entre 18 y 36 meses. Prepararse psicológicamente para 2 años de mercado bajista es una expectativa razonable."
+      }
+    ],
+    "ctaTitle": "En el bear market, custodiar bien es prioritario: usa Ledger",
+    "ctaDescription": "Durante el bear market, proteger tus activos es tan importante como acumular. Ledger Nano X custodia tu Bitcoin offline de forma segura mientras esperas el próximo ciclo.",
+    "ctaButtonText": "Comprar Ledger Nano X",
+    "ctaAffiliateUrl": "https://www.ledger.com/"
+  },
+  {
+    "slug": "estrategias-bull-run-crypto",
+    "title": "Las mejores estrategias para el bull run de cripto en 2026",
+    "keyword": "estrategias bull run crypto",
+    "category": "Bull run y ciclos",
+    "excerpt": "El bull run puede hacer tu fortuna o arruinarte si no tienes estrategia. Analizamos las estrategias de inversión más efectivas para maximizar retornos durante el mercado alcista.",
+    "introduction": "El bull run cripto es el período más emocionante y también el más peligroso para los inversores. La euforia lleva a muchos a comprar en máximos, apalancarse excesivamente y no tener una estrategia de salida. Los inversores que han navegado exitosamente múltiples bull runs tienen en común una cosa: tenían una estrategia definida antes de que comenzara y la siguieron con disciplina durante la euforia.",
+    "metaTitle": "Estrategias de inversión para el bull run cripto 2026 | Crypthor",
+    "metaDescription": "Las mejores estrategias para el bull run cripto: rotación de activos, DCA, toma de beneficios y cuándo vender. Guía para maximizar retornos con riesgo controlado.",
+    "publishedAt": "2026-02-20T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 10,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Ejecutar la estrategia de bull run con el exchange más regulado del mercado", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Menor coste de trading para rotación de activos y toma de beneficios", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo regulado para gestión de cartera durante el ciclo alcista", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar activos HODL durante el bull run fuera del exchange", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "USDC (stablecoin)", "rating": 4.6, "price": "~1 USD", "bestFor": "Preservar beneficios en estable sin salir del ecosistema cripto", "affiliateUrl": "https://www.coinbase.com/" }
+    ],
+    "pros": [
+      "La estrategia de toma de beneficios escalonada (vender un 10-20% en diferentes objetivos de precio) asegura ganancias sin necesidad de acertar el techo exacto",
+      "La rotación BTC → ETH → altcoins en las fases del bull run ha sido históricamente la estrategia con mayor retorno total",
+      "Convertir una parte de las ganancias a stablecoins durante el bull run crea un 'colchón' para comprar en el siguiente bear market sin necesidad de poner dinero nuevo",
+      "Mantener un 50% en Bitcoin durante el bull run reduce el riesgo de que las altcoins elijan colapsar justo antes de que puedas vender",
+      "El DCA de salida (vender periódicamente al alza) funciona tan bien como el DCA de entrada: reduce el riesgo de timing al tomar beneficios"
+    ],
+    "cons": [
+      "Tomar beneficios demasiado pronto significa perder parte de las ganancias si el ciclo continúa subiendo más allá de las expectativas",
+      "La rotación hacia altcoins en fases avanzadas del bull run puede coincidir con el techo del mercado, comprando caro y vendiendo aún más caro",
+      "Los impuestos sobre ganancias en cada operación de rotación se acumulan: en España, pagar el 19-27% de impuestos reduce el capital disponible para reinvertir",
+      "El apalancamiento (futuros, margin trading) amplifica tanto los beneficios como las pérdidas: muchos traders pierden todo su capital en el bull run por esto",
+      "La psicología del bull run es difícil de controlar: la euforia lleva a riesgos excesivos que arruinan estrategias perfectamente diseñadas"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuándo debo empezar a vender en el bull run?",
+        "answer": "No hay respuesta perfecta, pero estrategias probadas: vender el 25% cuando tu cartera doble, otro 25% cuando triplique, y así sucesivamente. Otra opción: establecer objetivos de precio antes de que el bull run comience (ej: vendo el 30% a $150k BTC, el 30% a $200k) y ejecutarlos sin ceder a la tentación de 'esperar un poco más'. La disciplina previa es clave."
+      },
+      {
+        "question": "¿Qué es la rotación de activos en el bull run y cómo hacerla?",
+        "answer": "La rotación consiste en mover ganancias de Bitcoin hacia Ethereum cuando BTC llega a un objetivo, y luego de ETH hacia altcoins selectas cuando ETH llega a su objetivo. La lógica: BTC lidera el ciclo, ETH le sigue con mayor retorno porcentual, y las mejores altcoins superan a ETH en la fase final del bull run. El riesgo es calcular mal los timings y quedarse en altcoins cuando el ciclo termina."
+      },
+      {
+        "question": "¿Debo usar apalancamiento en el bull run?",
+        "answer": "Para la gran mayoría de inversores retail, no. El apalancamiento amplifica las pérdidas tan rápido como las ganancias: un 10% de caída con 10x de apalancamiento liquida toda la posición. Las estadísticas son claras: la mayoría de traders apalancados pierden dinero incluso en mercados alcistas por las liquidaciones en correcciones. El apalancamiento es para profesionales con gestión de riesgo sofisticada."
+      },
+      {
+        "question": "¿Cómo pago menos impuestos en el bull run?",
+        "answer": "Las ganancias de cripto en España tributan entre el 19-27% como ganancia patrimonial. Estrategias legales para optimizar: (1) mantener activos más de un año (aunque en España la tributación de ganancias de capital no cambia con el tiempo de tenencia, a diferencia de EEUU); (2) compensar ganancias con pérdidas de otros activos; (3) planificar ventas para diferentes ejercicios fiscales; (4) consultar con un asesor fiscal especializado en cripto."
+      }
+    ],
+    "ctaTitle": "Ejecuta tu estrategia de bull run desde Binance",
+    "ctaDescription": "Binance ofrece las mejores comisiones para la rotación de activos y la toma de beneficios durante el bull run. Define tu estrategia antes y ejecútala con disciplina.",
+    "ctaButtonText": "Abrir cuenta en Binance",
+    "ctaAffiliateUrl": "https://www.binance.com/"
+  },
+  {
+    "slug": "dca-estrategia-bitcoin",
+    "title": "DCA en Bitcoin: la estrategia de inversión que supera al trading",
+    "keyword": "DCA estrategia Bitcoin",
+    "category": "Bull run y ciclos",
+    "excerpt": "El Dollar Cost Averaging (DCA) es la estrategia de compras periódicas que supera al market timing activo en prácticamente todos los períodos históricos. Explicamos cómo implementarla.",
+    "introduction": "El Dollar Cost Averaging (DCA) es la estrategia de invertir una cantidad fija en Bitcoin o cualquier activo a intervalos regulares (semanales, quincenales, mensuales), independientemente del precio en ese momento. Esta estrategia elimina la necesidad de acertar el timing del mercado, reduce el riesgo de comprar en máximos y, históricamente, ha superado a la mayoría de estrategias de trading activo en el contexto de Bitcoin a largo plazo.",
+    "metaTitle": "DCA en Bitcoin: la estrategia de inversión más eficiente | Crypthor",
+    "metaDescription": "Guía completa del DCA (Dollar Cost Averaging) en Bitcoin: cómo funciona, cómo implementarlo, backtests históricos y cómo configurarlo en Coinbase y Binance.",
+    "publishedAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Coinbase DCA", "rating": 4.6, "price": "1,49% por compra automática", "bestFor": "La forma más sencilla de hacer DCA automático con configuración en 5 minutos", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance Auto-Invest", "rating": 4.7, "price": "0,10% por compra automática", "bestFor": "DCA automático con las mejores comisiones y mayor variedad de activos", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Kraken DCA", "rating": 4.5, "price": "0,26% por compra", "bestFor": "DCA en exchange europeo regulado con soporte en español", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar BTC acumulado con DCA offline con máxima seguridad", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "DCA Bitcoin Calculator", "rating": 4.5, "price": "Gratis", "bestFor": "Calcular el retorno histórico de cualquier estrategia DCA", "affiliateUrl": "https://dcabtc.com/" }
+    ],
+    "pros": [
+      "El DCA elimina el stress del timing: no necesitas analizar el mercado ni intentar predecir si Bitcoin va a subir o bajar mañana",
+      "Estudios de backtesting muestran que el DCA en Bitcoin desde 2014 ha generado retornos positivos para prácticamente cualquier período de inversión de 4+ años",
+      "En mercados bajistas, el DCA automáticamente compra más cantidad cuando el precio baja: un bear market se convierte en una oportunidad de acumulación",
+      "Los principales exchanges (Coinbase, Binance) permiten configurar el DCA automático para que se ejecute sin intervención manual",
+      "El DCA reduce la influencia de las emociones en las decisiones de inversión: la estrategia está predefinida y se ejecuta automáticamente"
+    ],
+    "cons": [
+      "En mercados alcistas fuertes, el DCA genera menores retornos que una inversión total inmediata (lump sum) porque compras progresivamente a precios más altos",
+      "El DCA no elimina el riesgo de Bitcoin: si Bitcoin cae el 80% y no puedes esperar el siguiente ciclo, seguirás con pérdidas aunque hayas hecho DCA",
+      "Las comisiones de las compras automáticas periódicas se acumulan: en Coinbase (1,49% por compra), 52 compras anuales suponen un 77% de comisiones sobre el capital invertido al año",
+      "El DCA en exchanges centralizados implica mantener el BTC en el exchange entre compras o transferirlo manualmente a wallet: ni lo uno ni lo otro es óptimo sin costo",
+      "El DCA en altcoins de calidad dudosa puede resultar en pérdida sostenida: la estrategia es más robusta aplicada a Bitcoin o activos de mayor capitalización"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuánto DCA debería hacer semanalmente?",
+        "answer": "La cantidad correcta de DCA es la que puedes invertir periódicamente sin que afecte a tus necesidades básicas ni a tu fondo de emergencia. Una regla orientativa: destina al DCA de Bitcoin un 5-10% de tus ingresos mensuales, nunca más de lo que puedas 'olvidar' durante 4 años sin necesitarlo. Empieza con cantidades pequeñas (20-50 euros/semana) y ajusta cuando te sientas cómodo."
+      },
+      {
+        "question": "¿Es mejor hacer DCA semanal o mensual?",
+        "answer": "Los backtests muestran diferencias mínimas entre DCA semanal y mensual en retornos a largo plazo. El DCA mensual tiene menos comisiones (12 transacciones al año vs 52). El DCA semanal tiene mejor precio promedio en mercados muy volátiles. Para la mayoría de inversores, el DCA mensual es el mejor equilibrio entre eficiencia de comisiones y suavizado de precio."
+      },
+      {
+        "question": "¿Cómo configuro el DCA automático en Coinbase?",
+        "answer": "En la app de Coinbase: (1) ve a 'Comprar/Vender'; (2) selecciona Bitcoin; (3) introduce la cantidad; (4) en 'Frecuencia' elige 'Semanalmente' o 'Mensualmente'; (5) confirma el pago. Coinbase debitará automáticamente tu tarjeta o cuenta bancaria en las fechas programadas. Ten en cuenta que la comisión es el 1,49% por compra en la versión básica."
+      },
+      {
+        "question": "¿DCA o lump sum: cuál es mejor?",
+        "answer": "Los estudios académicos muestran que en mercados con tendencia alcista de largo plazo (como ha sido Bitcoin), la inversión de un único bloque (lump sum) supera al DCA en un 66-70% de los períodos estudiados. Sin embargo, el DCA es psicológicamente más manejable y reduce el riesgo de comprar en el peor momento. Para la mayoría de inversores sin experiencia, DCA es la mejor estrategia por razones de gestión emocional."
+      }
+    ],
+    "ctaTitle": "Configura tu DCA automático en Coinbase hoy",
+    "ctaDescription": "Coinbase permite configurar compras automáticas de Bitcoin semanales o mensuales en menos de 5 minutos. La forma más sencilla y eficiente de aplicar la estrategia DCA.",
+    "ctaButtonText": "Configurar DCA en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "cuando-vender-bitcoin",
+    "title": "¿Cuándo vender Bitcoin? Guía para tomar beneficios sin arrepentirte",
+    "keyword": "cuándo vender Bitcoin",
+    "category": "Bull run y ciclos",
+    "excerpt": "Saber cuándo vender Bitcoin es tan importante como saber cuándo comprar. Analizamos las estrategias de toma de beneficios que funcionan para no vender demasiado pronto ni demasiado tarde.",
+    "introduction": "El mayor error de los inversores en el bull run de 2021 fue no tener una estrategia de salida predefinida. La euforia y el FOMO ('podría subir más') llevaron a muchos a mantener sus posiciones cuando Bitcoin cayó de 69.000 a 15.000 dólares. Saber cuándo y cómo vender Bitcoin es tan importante como haber comprado: los mejores inversores definen su estrategia de salida antes de que llegue el mercado alcista.",
+    "metaTitle": "¿Cuándo vender Bitcoin? Estrategias de toma de beneficios | Crypthor",
+    "metaDescription": "Guía completa para saber cuándo vender Bitcoin: indicadores de techo, estrategias de toma de beneficios escalonada y cómo no caer en el FOMO.",
+    "publishedAt": "2026-02-25T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Vender BTC de forma sencilla con el exchange más regulado del mercado", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Menor coste de venta y mayor liquidez para grandes cantidades", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Órdenes límite maker para vender BTC con la mejor comisión posible", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "USDC/USDT", "rating": 4.5, "price": "~1 USD", "bestFor": "Preservar beneficios en stablecoins sin salir del ecosistema cripto", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Glassnode MVRV", "rating": 4.6, "price": "Freemium", "bestFor": "Indicador on-chain para identificar posibles techos del ciclo", "affiliateUrl": "https://glassnode.com/" }
+    ],
+    "pros": [
+      "La venta escalonada en objetivos predefinidos elimina la necesidad de acertar el techo exacto y asegura ganancias en diferentes niveles",
+      "Convertir parte de los beneficios a stablecoins preserva el poder adquisitivo sin salir del ecosistema cripto, facilitando recomprar en el próximo bear market",
+      "Los indicadores de ciclo como el MVRV Ratio o el índice Rainbow Chart proporcionan señales objetivas cuando Bitcoin puede estar sobrecomprado",
+      "La disciplina de vender aunque el mercado siga subiendo es la diferencia entre inversores exitosos y quienes 'devuelven' todos sus beneficios",
+      "Pagar impuestos sobre las ganancias al vender, aunque doloroso, es la confirmación de que has ganado dinero: es mejor que esperar demasiado"
+    ],
+    "cons": [
+      "Vender demasiado pronto puede resultar en perderse ganancias adicionales significativas si el ciclo continúa más allá de tus objetivos",
+      "Las ganancias de Bitcoin tributan en el IRPF en España al 19-27%: vender implica pagar impuestos que reducen el capital disponible para reinvertir",
+      "La presión psicológica de ver que el precio sigue subiendo después de vender es una de las experiencias más difíciles para los inversores",
+      "Convertir a stablecoins conlleva riesgo del emisor: la quiebra de un emisor de stablecoin podría impactar a fondos preservados en ellas",
+      "Determinar el 'techo' correcto del ciclo es imposible: los mejores inversores históricos tampoco han vendido perfectamente en máximos"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuáles son las señales de que Bitcoin está cerca de un techo?",
+        "answer": "Señales históricas de techo de ciclo: (1) MVRV Ratio por encima de 3,5; (2) Fear & Greed Index en codicia extrema (>80) durante semanas; (3) Cobertura mediática masiva con pronósticos de precios absurdamente altos; (4) Personas sin conocimientos de cripto preguntando cómo comprar; (5) Nuevos máximos históricos con volumen decreciente. Ninguna señal es perfecta, pero la combinación de varias es relevante."
+      },
+      {
+        "question": "¿Qué porcentaje de mi Bitcoin debo vender?",
+        "answer": "Una estrategia común: reservar el 30-50% de tu posición como 'HODL permanente' que nunca vendes, y gestionar el resto activamente tomando beneficios. De la parte activa, vender en tramos según objetivos de precio. Así, si el mercado cae bruscamente, tienes una posición permanente que captura el próximo ciclo; si subes más de lo esperado, tomaste suficientes beneficios."
+      },
+      {
+        "question": "¿Es mejor vender en euros o convertir a USDC?",
+        "answer": "Ambas opciones tienen beneficios. Vender a euros: dinero en cuenta bancaria, máxima liquidez, sin riesgo de stablecoin. Convertir a USDC: permaneces en el ecosistema cripto, puedes ganar rendimientos DeFi con el capital, y recomprar Bitcoin más fácilmente en el próximo bear market sin transferencias bancarias. La opción USDC es más conveniente si planeas reinvertir; la opción euros es más segura si no."
+      },
+      {
+        "question": "¿Cuánto tributo cuando vendo Bitcoin en España?",
+        "answer": "Las ganancias de cripto en España tributan como ganancias patrimoniales en el IRPF: 19% hasta 6.000€ de ganancia, 21% entre 6.000-50.000€, 23% entre 50.000-200.000€, y 27% por encima de 200.000€. Debes declararlo en la Renta aunque no hayas retirado el dinero a tu cuenta bancaria: el hecho imponible es el cambio de cripto a fiat o cripto a cripto con ganancia."
+      }
+    ],
+    "ctaTitle": "Cuando decidas vender, hazlo en Coinbase o Binance",
+    "ctaDescription": "Coinbase es la opción más sencilla para vender Bitcoin. Binance tiene las mejores comisiones para cantidades mayores. Define tu estrategia de salida ahora, antes del bull run.",
+    "ctaButtonText": "Preparar cuenta en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "elon-musk-y-las-criptomonedas",
+    "title": "Elon Musk y las criptomonedas: influencia, controversias y legado",
+    "keyword": "Elon Musk criptomonedas",
+    "category": "Personajes y noticias",
+    "excerpt": "Elon Musk es la figura más influyente del mercado cripto fuera del ecosistema blockchain. Repasamos sus movimientos más impactantes y el legado de su relación con el mundo cripto.",
+    "introduction": "Ninguna persona fuera del ecosistema cripto ha tenido mayor impacto en el precio de Bitcoin y Dogecoin que Elon Musk. Sus tweets han movido mercados en millones de millones de dólares, sus decisiones corporativas han generado frenéticos rallies y crashs, y sus posiciones han evolucionado desde el escepticismo inicial hasta convertirse en uno de los grandes defensores del cripto. Su historia con las criptomonedas es una de las más apasionantes y controvertidas del sector.",
+    "metaTitle": "Elon Musk y las criptomonedas: historia e influencia | Crypthor",
+    "metaDescription": "Repaso completo de la relación de Elon Musk con el mundo cripto: Bitcoin, Dogecoin, controversias, impacto en precios y posición actual en 2026.",
+    "publishedAt": "2026-03-01T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Dogecoin (DOGE)", "rating": 4.0, "price": "Consultar precio actual", "bestFor": "La memecoin favorita de Musk con mayor respaldo práctico de sus empresas", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Bitcoin (BTC)", "rating": 4.8, "price": "Consultar precio actual", "bestFor": "Tesla tiene BTC en balance; Musk ha sido defensor intermitente de BTC", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mayor liquidez para trading de DOGE y BTC durante movimientos de Musk", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Exchange más regulado para comprar activos impulsados por declaraciones de Musk", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo regulado con excelente soporte para BTC y DOGE", "affiliateUrl": "https://www.kraken.com/" }
+    ],
+    "pros": [
+      "Tesla y SpaceX han dado legitimidad empresarial a Bitcoin al tener BTC en su balance y aceptarlo como pago, impactando positivamente la narrativa de adopción",
+      "La aceptación de Dogecoin como pago en Tesla, SpaceX y Boring Company es el caso de uso real más grande de una memecoin en la historia",
+      "El apoyo de Musk a Bitcoin en conversaciones sobre inflación y política monetaria ha contribuido a la narrativa de BTC como reserva de valor",
+      "X (Twitter) bajo Musk está avanzando en la integración de pagos cripto, lo que podría suponer una adopción masiva de DOGE u otros activos",
+      "La visibilidad que Musk ha dado al cripto ha atraído a millones de nuevos inversores al ecosistema, aumentando la liquidez global"
+    ],
+    "cons": [
+      "La volatilidad creada por sus tweets es dañina para la credibilidad del mercado cripto: un solo post puede mover el precio de Dogecoin el 20-30% en horas",
+      "La dependencia de un solo individuo para el precio de DOGE es un riesgo estructural: si Musk pierde interés en cripto, el impacto podría ser devastador",
+      "Sus declaraciones inconsistentes (defender Bitcoin, luego criticarlo por el consumo energético) generan incertidumbre y manipulación de mercado",
+      "Sus posiciones en DOGE y BTC crean conflicto de interés cuando hace declaraciones públicas sobre estas cripto",
+      "En 2022, la FTC investigó si los tweets de Musk sobre cripto constituían manipulación de mercado, aunque sin consecuencias legales significativas"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuánto Bitcoin tiene Elon Musk?",
+        "answer": "Musk confirmó en 2021 que tiene personalmente Bitcoin, Ethereum y Dogecoin, pero nunca ha revelado las cantidades exactas. Tesla reveló en 2021 que compró 1.500 millones de dólares en Bitcoin para su balance corporativo, parte de los cuales vendió posteriormente. SpaceX también tiene Bitcoin en su balance, aunque las cantidades no son públicas."
+      },
+      {
+        "question": "¿Por qué Musk dejó de aceptar Bitcoin para Tesla?",
+        "answer": "En mayo 2021, Tesla anunció que dejaría de aceptar Bitcoin como pago por sus vehículos citando el impacto ambiental del mining de Bitcoin. Esta decisión causó una caída del 15% en el precio de BTC en un día. Musk indicó que reconsideraría cuando el 50% de la energía del mining de Bitcoin fuera renovable. En 2026, la cuestión sigue siendo relevante aunque las minas de BTC renovables han aumentado."
+      },
+      {
+        "question": "¿Tiene Musk influencia real sobre el precio de Bitcoin?",
+        "answer": "Su influencia es real pero ha disminuido con el tiempo. En 2021, un tweet de Musk podía mover el precio de Bitcoin el 10-20%. Con la llegada de capital institucional vía ETFs y la mayor madurez del mercado, el peso relativo de Musk es menor. Sin embargo, sus declaraciones sobre Dogecoin siguen teniendo un impacto desproporcionado por la alta concentración de retail en ese activo."
+      },
+      {
+        "question": "¿Qué pasará con Dogecoin si Musk pierde interés?",
+        "answer": "Si Musk se distancia de Dogecoin, probablemente su precio caería significativamente. DOGE tiene pocos catalizadores propios más allá del respaldo de Musk y la comunidad general del mercado cripto. Sin embargo, DOGE ha sobrevivido múltiples períodos de poco interés de Musk antes de recuperarse, lo que sugiere que la comunidad tiene algo de vida propia."
+      }
+    ],
+    "ctaTitle": "Invierte en DOGE o BTC desde Binance, no por Musk",
+    "ctaDescription": "Las decisiones de inversión deben basarse en fundamentos, no en tweets. Binance tiene la mejor liquidez para DOGE y BTC. Invierte con estrategia.",
+    "ctaButtonText": "Explorar en Binance",
+    "ctaAffiliateUrl": "https://www.binance.com/"
+  },
+  {
+    "slug": "michael-saylor-bitcoin",
+    "title": "Michael Saylor y Bitcoin: el mayor acumulador institucional del mundo",
+    "keyword": "Michael Saylor Bitcoin",
+    "category": "Personajes y noticias",
+    "excerpt": "Michael Saylor transformó MicroStrategy en el mayor holder institucional de Bitcoin del mundo. Repasamos su filosofía, estrategia y por qué es la figura más influyente del Bitcoin institucional.",
+    "introduction": "Michael Saylor es probablemente el mayor evangelista de Bitcoin en el mundo corporativo. Como CEO de MicroStrategy, tomó la decisión histórica de convertir el balance de la empresa en un vehículo de acumulación de Bitcoin en agosto de 2020, iniciando una estrategia que ha resultado en la tenencia de más de 200.000 BTC. Su filosofía sobre Bitcoin como 'único activo digital de reserva de valor en la historia de la humanidad' lo ha convertido en una figura polarizante pero inescapable del ecosistema cripto.",
+    "metaTitle": "Michael Saylor y Bitcoin: historia, estrategia e influencia | Crypthor",
+    "metaDescription": "La historia de Michael Saylor y su apuesta por Bitcoin a través de MicroStrategy. Filosofía, estrategia de acumulación e impacto en la adopción institucional.",
+    "publishedAt": "2026-03-05T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "MicroStrategy (MSTR)", "rating": 4.5, "price": "Cotización en Nasdaq", "bestFor": "La forma de seguir la estrategia de Saylor desde bolsa tradicional", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Bitcoin (BTC) directo", "rating": 4.8, "price": "Comisión exchange", "bestFor": "La misma tesis de Saylor sin la prima corporativa de MSTR", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Comprar BTC como hace Saylor, con custodia directa y máxima seguridad", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar tu Bitcoin igual que Saylor custodia el de MicroStrategy", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo regulado para implementar tu propia versión de la estrategia Saylor", "affiliateUrl": "https://www.kraken.com/" }
+    ],
+    "pros": [
+      "La estrategia de Saylor ha resultado en rendimientos extraordinarios para MicroStrategy: la empresa ha superado ampliamente al S&P 500 desde 2020",
+      "Su labor educativa sobre Bitcoin (miles de horas de entrevistas, conferencias y contenido gratuito) ha influido en la adopción institucional de Bitcoin globalmente",
+      "Saylor ha mostrado que una empresa cotizada puede usar Bitcoin como reserva de tesorería, abriendo el camino para que otras empresas hagan lo mismo",
+      "Sus argumentos técnicos y filosóficos sobre Bitcoin (la conferencia 'Bitcoin: The Digital Energy Network' es especialmente citada) han educado a inversores institucionales",
+      "Ha convertido la compra de Bitcoin en un movimiento corporativo legítimo, reduciendo el estigma que muchos consejos de administración tenían hacia el activo"
+    ],
+    "cons": [
+      "La posición extrema de Saylor ('todo tu capital en Bitcoin, siempre') no es adecuada para la mayoría de inversores por su alta concentración y riesgo",
+      "La deuda corporativa que ha usado para acumular Bitcoin crea un riesgo real de insolvencia si Bitcoin cae drásticamente y permanece bajo por años",
+      "Su papel de gran evangelista tiene conflicto de interés: Saylor tiene todo su patrimonio personal en Bitcoin y se beneficia de que el precio suba",
+      "Ha predicho precios de Bitcoin que no se han materializado en los plazos indicados, aunque su tesis de largo plazo puede seguir siendo correcta",
+      "La concentración de un único activo (Bitcoin) en su estrategia va en contra de los principios básicos de diversificación de la inversión institucional"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuándo y por qué Michael Saylor decidió comprar Bitcoin?",
+        "answer": "En agosto de 2020, en medio de la pandemia y la política expansiva de la Fed, Saylor decidió convertir la reserva de tesorería de MicroStrategy (250 millones de dólares en efectivo) en Bitcoin. Su razonamiento: el dólar iba a perder valor por la inflación monetaria, y Bitcoin era el único activo de oferta fija que podía preservar el poder adquisitivo de la empresa. Desde entonces no ha parado de acumular."
+      },
+      {
+        "question": "¿Cuánto ha ganado MicroStrategy con su estrategia Bitcoin?",
+        "answer": "A principios de 2026, MicroStrategy tiene más de 200.000 BTC comprados a un precio promedio de aproximadamente 35.000-40.000 dólares por BTC. Con Bitcoin por encima de 100.000 dólares, las ganancias no realizadas superan los 12.000-15.000 millones de dólares. La acción MSTR ha multiplicado por más de 10x desde que inició la estrategia en 2020."
+      },
+      {
+        "question": "¿La estrategia de Saylor es aplicable para inversores particulares?",
+        "answer": "La esencia sí: 'convierte tu capital improductivo en Bitcoin de forma sostenida'. Pero la escala y el método deben adaptarse: para un particular, significa destinar un porcentaje fijo de ahorros al DCA de Bitcoin, nunca usando deuda para comprar. La parte de deuda de la estrategia de Saylor (bonos convertibles para comprar BTC) es adecuada para una empresa pero peligrosa para un particular."
+      },
+      {
+        "question": "¿Es Michael Saylor confiable o es un promotor interesado?",
+        "answer": "Ambas cosas son ciertas simultáneamente. Saylor tiene un conflicto de interés claro: tiene todo su patrimonio en Bitcoin y se beneficia de que el precio suba. Al mismo tiempo, sus argumentos técnicos y filosóficos sobre Bitcoin son intelectualmente rigurosos y merecen ser evaluados por sus méritos, no descartados solo por el conflicto de interés. Como con cualquier fuente, escucha sus argumentos y evalúa su lógica independientemente."
+      }
+    ],
+    "ctaTitle": "Implementa tu propia versión de la estrategia Saylor en Coinbase",
+    "ctaDescription": "La estrategia de Saylor adaptada para particulares: DCA periódico de Bitcoin sin deuda. Coinbase permite configurarlo automáticamente en 5 minutos.",
+    "ctaButtonText": "Empezar en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "vitalik-buterin-ethereum",
+    "title": "Vitalik Buterin: el genio detrás de Ethereum",
+    "keyword": "Vitalik Buterin Ethereum",
+    "category": "Personajes y noticias",
+    "excerpt": "Vitalik Buterin propuso Ethereum con 19 años y lo construyó hasta convertirlo en la segunda mayor red blockchain del mundo. Repasamos su historia, visión y rol actual.",
+    "introduction": "Vitalik Buterin nació en Rusia en 1994, creció en Canadá y propuso Ethereum en un whitepaper en 2013 con tan solo 19 años. Su idea era radicalmente simple y ambiciosa a la vez: usar la tecnología de blockchain de Bitcoin para construir una plataforma programable de contratos inteligentes que pudiera albergar cualquier tipo de aplicación descentralizada. Doce años después, Ethereum es la segunda criptomoneda por capitalización y la plataforma de contratos inteligentes más usada del mundo.",
+    "metaTitle": "Vitalik Buterin: historia, visión y rol en Ethereum 2026 | Crypthor",
+    "metaDescription": "La historia completa de Vitalik Buterin, co-fundador de Ethereum. Su visión, contribuciones técnicas, fortuna y rol actual en el ecosistema ETH.",
+    "publishedAt": "2026-03-08T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Ethereum (ETH)", "rating": 4.7, "price": "Consultar precio actual", "bestFor": "La creación de Vitalik: plataforma DeFi líder con staking y contratos inteligentes", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Comprar ETH con soporte en español y staking integrado", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mayor liquidez y mejores comisiones para comprar Ethereum", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo regulado con staking de ETH y alta seguridad", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar ETH offline con la seguridad de una hardware wallet", "affiliateUrl": "https://www.ledger.com/" }
+    ],
+    "pros": [
+      "Vitalik es una de las mentes técnicas más brillantes del ecosistema cripto, con contribuciones fundamentales al diseño de Ethereum en todos sus aspectos",
+      "Su liderazgo técnico ha guiado la transición de Ethereum de Proof of Work a Proof of Stake ('The Merge') sin interrupciones de red, un logro técnico extraordinario",
+      "A diferencia de muchos líderes cripto, Vitalik es conocido por su honestidad intelectual: reconoce los problemas de Ethereum y los aborda públicamente",
+      "Sus investigaciones en ZK proofs, EIP-4844 (proto-danksharding) y el roadmap 'Surge, Scourge, Verge, Purge, Splurge' definen la hoja de ruta tecnológica de Ethereum",
+      "Vitalik donó personalmente miles de millones de dólares en cripto a causas benéficas, incluyendo durante la pandemia y para Ucrania"
+    ],
+    "cons": [
+      "La dependencia de Ethereum en el liderazgo técnico y la visión de Vitalik es un punto de centralización que preocupa a algunos miembros de la comunidad",
+      "El proceso de actualización de Ethereum es más lento y consensuado que el de competidores como Solana, lo que puede hacer que quede detrás en algunas innovaciones",
+      "Vitalik tiene poder de influencia significativo sobre Ethereum a través de la Ethereum Foundation, lo que no es completamente alineado con la descentralización ideal",
+      "Sus posiciones políticas y económicas expresadas en su blog personal (Vitalik.ca) generan debate y pueden no ser compartidas por todos en la comunidad",
+      "La complejidad técnica de Ethereum hace que la hoja de ruta sea difícil de comunicar a inversores no técnicos, limitando ciertos tipos de adopción"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuánto vale la fortuna de Vitalik Buterin?",
+        "answer": "La fortuna de Vitalik es difícil de estimar exactamente porque gran parte está en Ethereum. Su dirección principal conocida tiene más de 240.000 ETH (~600 millones de dólares a precios actuales). También tiene otras wallets conocidas y participaciones en proyectos del ecosistema. Vitalik ha donado miles de millones en cripto a lo largo de los años, especialmente su participación en el proyecto Shiba Inu, que vendió para donación."
+      },
+      {
+        "question": "¿Por qué Vitalik no domina Ethereum si fue su fundador?",
+        "answer": "El diseño de Ethereum fue concebido desde el principio como descentralizado. Vitalik tiene influencia técnica y moral, pero no control unilateral del protocolo: las actualizaciones requieren consenso entre clientes (Geth, Nethermind, Besu), validadores, usuarios y aplicaciones. Vitalik tiene poder de propuesta y persuasión, pero no puede cambiar el protocolo por sí mismo."
+      },
+      {
+        "question": "¿Qué es el 'roadmap' de Ethereum de Vitalik?",
+        "answer": "Vitalik ha definido el roadmap de Ethereum post-Merge con las fases: Surge (escalabilidad via L2 y sharding), Scourge (resistencia a la centralización de MEV), Verge (verificación de estado más eficiente con Verkle trees), Purge (simplificación del protocolo eliminando datos históricos) y Splurge (ajustes finales). Cada fase tiene multiples EIPs y puede tardar años en implementarse."
+      },
+      {
+        "question": "¿Vitalik puede 'apagar' Ethereum?",
+        "answer": "No. Ethereum es un protocolo descentralizado ejecutado por miles de nodos en todo el mundo. Nadie, ni siquiera Vitalik Buterin, puede 'apagarlo'. Podría proponer cambios al protocolo que la comunidad podría aceptar o rechazar, pero incluso si lo intentara, la comunidad podría hacer un fork del código original. La descentralización de Ethereum es una de sus propiedades más importantes."
+      }
+    ],
+    "ctaTitle": "Invierte en la creación de Vitalik desde Coinbase",
+    "ctaDescription": "Coinbase es el exchange más regulado para comprar Ethereum, la plataforma de contratos inteligentes de Vitalik Buterin. Activa el staking y empieza a generar rendimientos.",
+    "ctaButtonText": "Comprar ETH en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "cz-binance-changpeng-zhao",
+    "title": "CZ (Changpeng Zhao): la historia del fundador de Binance",
+    "keyword": "CZ Binance Changpeng Zhao",
+    "category": "Personajes y noticias",
+    "excerpt": "Changpeng Zhao fundó Binance en 2017 y lo convirtió en el mayor exchange de criptomonedas del mundo. Repasamos su historia, caída y el legado de su era en Binance.",
+    "introduction": "Changpeng Zhao, conocido universalmente como CZ, es una de las figuras más influyentes y controvertidas del ecosistema cripto. Fundó Binance en 2017 con un whitepaper de 45 páginas y apenas 50 empleados, y lo convirtió en el exchange con mayor volumen del mundo en menos de un año. Su historia culminó en noviembre de 2023 cuando se declaró culpable de violar leyes anti-lavado de dinero en EEUU, pagando una multa de 4.300 millones de dólares y pasando cuatro meses en prisión.",
+    "metaTitle": "CZ Binance: historia del fundador de Changpeng Zhao | Crypthor",
+    "metaDescription": "La historia completa de CZ (Changpeng Zhao), fundador de Binance. De la nada al mayor exchange del mundo, y su caída por la DEJ y la DOJ de EEUU.",
+    "publishedAt": "2026-03-12T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "El exchange que CZ construyó: el mayor del mundo tras su salida", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Alternativa regulada con mejor historial legal que Binance bajo CZ", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo con el mejor historial de cumplimiento regulatorio", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "OKX", "rating": 4.5, "price": "0,08% maker", "bestFor": "El competidor asiático de Binance con comisiones competitivas", "affiliateUrl": "https://www.okx.com/" },
+      { "productName": "Bybit", "rating": 4.5, "price": "0,10% spot", "bestFor": "La alternativa más cercana a Binance en producto y comisiones", "affiliateUrl": "https://www.bybit.com/" }
+    ],
+    "pros": [
+      "CZ construyó Binance desde cero hasta el exchange más grande del mundo en menos de 2 años, uno de los crecimientos empresariales más rápidos de la historia",
+      "El modelo de token BNB (Binance Coin) fue un modelo de negocio innovador que creó lealtad de usuario y redujo comisiones simultáneamente",
+      "Binance bajo CZ democratizó el acceso a altcoins para millones de inversores globales al listar cientos de tokens no disponibles en otros exchanges",
+      "Binance Charity Foundation distribuyó millones de dólares en ayuda humanitaria, incluyendo durante la crisis de Ucrania",
+      "Su declaración de culpabilidad en EEUU y la multa de 4.300 millones permitió a Binance continuar operando bajo nueva supervisión, salvando la empresa"
+    ],
+    "cons": [
+      "El acuerdo con el DOJ reveló que Binance bajo CZ permitió transacciones con países sancionados y facilitó actividades de lavado de dinero",
+      "CZ pasó cuatro meses en prisión en EEUU en 2024, siendo el primer CEO de un gran exchange cripto encarcelado por violaciones regulatorias",
+      "La era de CZ en Binance generó una cultura de crecimiento rápido que antepuso el volumen al cumplimiento regulatorio, resultando en multas históricas",
+      "La rivalidad de CZ con Sam Bankman-Fried de FTX y su tweet sobre vender FTT fue directamente responsable de la corrida bancaria que colapsó FTX",
+      "La salida de CZ como CEO de Binance creó incertidumbre sobre el futuro del exchange, aunque Richard Teng lo ha estabilizado"
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué pasó con CZ (Changpeng Zhao)?",
+        "answer": "En noviembre 2023, CZ se declaró culpable de violar leyes anti-lavado de dinero en EEUU. Binance pagó 4.300 millones de dólares en multas. CZ pagó personalmente 50 millones de dólares, renunció como CEO de Binance y pasó cuatro meses en prisión (de abril a septiembre de 2024). Tras su liberación, continúa activo en el ecosistema cripto como ángel inversor."
+      },
+      {
+        "question": "¿Binance sigue siendo seguro después del caso de CZ?",
+        "answer": "Binance sigue siendo el exchange con mayor volumen del mundo bajo la dirección de Richard Teng (nuevo CEO). El acuerdo con el DOJ incluyó un supervisor de cumplimiento independiente por 5 años, lo que paradójicamente hace a Binance más transparente y regulado que antes. Sin embargo, el historial regulatorio pasado es una consideración para inversores más conservadores."
+      },
+      {
+        "question": "¿Cuánto vale CZ después de las multas?",
+        "answer": "Forbes estimó la fortuna de CZ en su pico en más de 65.000 millones de dólares, lo que lo convirtió brevemente en una de las personas más ricas del mundo en 2022. Tras las caídas del mercado y las multas, su patrimonio es significativamente menor, aunque sigue siendo una de las personas más ricas del sector cripto con su participación en Binance y otras inversiones."
+      },
+      {
+        "question": "¿Quién dirige Binance ahora?",
+        "answer": "Binance es dirigido por Richard Teng desde la dimisión de CZ en noviembre 2023. Teng era anteriormente el jefe de mercados regionales de Binance y tiene un perfil más regulatorio y diplomático que CZ. Bajo su liderazgo, Binance ha trabajado activamente para obtener licencias en múltiples jurisdicciones y mejorar su posición de cumplimiento."
+      }
+    ],
+    "ctaTitle": "Usa Binance con confianza, ahora más regulado que nunca",
+    "ctaDescription": "Binance bajo Richard Teng tiene supervisión independiente del DOJ y licencias en más jurisdicciones que antes. Sigue siendo el exchange con mejores comisiones del mercado.",
+    "ctaButtonText": "Explorar Binance",
+    "ctaAffiliateUrl": "https://www.binance.com/"
+  },
+  {
+    "slug": "brian-armstrong-coinbase",
+    "title": "Brian Armstrong: el CEO que llevó Coinbase al Nasdaq",
+    "keyword": "Brian Armstrong Coinbase",
+    "category": "Personajes y noticias",
+    "excerpt": "Brian Armstrong fundó Coinbase en 2012 y la convirtió en el primer exchange cripto en cotizar en Nasdaq. Repasamos su historia, visión y el rol de Coinbase en la adopción institucional.",
+    "introduction": "Brian Armstrong fundó Coinbase en 2012 junto con Fred Ehrsam con la misión de 'crear un sistema financiero abierto para el mundo'. Partiendo de una startup en San Francisco, construyó el exchange más regulado de EEUU y lo llevó a cotizar en Nasdaq en abril de 2021. Su filosofía ha sido consistente: construir para el largo plazo, priorizar la regulación sobre el crecimiento rápido, y no comprometerse en cuestiones de cumplimiento legal. Esta postura lo ha distinguido radicalmente de competidores como Binance o FTX.",
+    "metaTitle": "Brian Armstrong: CEO de Coinbase, historia y visión | Crypthor",
+    "metaDescription": "La historia de Brian Armstrong, fundador y CEO de Coinbase. De la startup de 2012 al Nasdaq, su filosofía regulatoria y visión del futuro del cripto.",
+    "publishedAt": "2026-03-15T00:00:00Z",
+    "updatedAt": "2026-06-18T00:00:00Z",
+    "readingTime": 8,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "El exchange que Armstrong construyó: el más regulado de EEUU y UE", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Base (L2 de Coinbase)", "rating": 4.5, "price": "Sin token propio", "bestFor": "El L2 de Ethereum de Coinbase: la apuesta de Armstrong por la descentralización", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "USDC (Circle/Coinbase)", "rating": 4.6, "price": "~1 USD", "bestFor": "La stablecoin que Coinbase co-emite con Circle bajo la visión de Armstrong", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Coinbase One", "rating": 4.5, "price": "~$29.99/mes", "bestFor": "Suscripción de Coinbase para trading sin comisiones en el exchange", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "El equivalente europeo en regulación y historial de seguridad a Coinbase", "affiliateUrl": "https://www.kraken.com/" }
+    ],
+    "pros": [
+      "Armstrong priorizó la regulación desde el principio: Coinbase fue el primer exchange en obtener la BitLicense de Nueva York en 2015 y no ha tenido problemas legales significativos",
+      "Llevar Coinbase a Nasdaq fue un logro histórico que legitimó las criptomonedas ante el mundo de la inversión institucional",
+      "Armstrong ha sido un defensor activo de la claridad regulatoria en Washington, incluyendo cabildeo para una legislación cripto favorable",
+      "La creación de Base (L2 de Coinbase) es la apuesta de Armstrong por el futuro descentralizado: construir infraestructura que existe más allá de Coinbase",
+      "Su postura de 'no tomar posiciones políticas como empresa' (el famoso memo de 2020) ha reducido fricciones internas y controversias políticas"
+    ],
+    "cons": [
+      "Las comisiones de Coinbase son las más altas entre los exchanges principales, lo que reduce su atractivo para traders activos",
+      "La acción COIN ha tenido un comportamiento muy volátil, cayendo el 90% desde su IPO hasta los mínimos de 2022",
+      "Coinbase ha tenido conflictos con la SEC sobre si ciertos tokens listados en su exchange son valores (securities), lo que generó incertidumbre regulatoria",
+      "El negocio de Coinbase es altamente dependiente del ciclo cripto: en mercados bajistas, sus ingresos caen dramáticamente",
+      "Su política de no tomar posiciones políticas fue vista por algunos empleados como una forma de silenciar el activismo interno"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cómo fundó Brian Armstrong Coinbase?",
+        "answer": "Brian Armstrong era ingeniero de software en Airbnb en 2012 cuando descubrió el whitepaper de Bitcoin y decidió que la blockchain cambiaría el sistema financiero. Junto con Fred Ehrsam (ex-trader de Goldman Sachs), fundó Coinbase con la financiación de Y Combinator. La empresa creció de un servicio simple de compra de BTC a una plataforma global con decenas de millones de usuarios."
+      },
+      {
+        "question": "¿Cuánto vale Brian Armstrong?",
+        "answer": "Forbes estima la fortuna de Brian Armstrong en más de 5.000-10.000 millones de dólares según el precio de COIN y su participación en Coinbase. Armstrong tiene un porcentaje significativo de las acciones de la empresa. Ha donado cientos de millones de dólares a causas de longevidad y salud a través de su fundación personal."
+      },
+      {
+        "question": "¿Qué es Base y por qué Armstrong la creó?",
+        "answer": "Base es la L2 de Ethereum creada por Coinbase. Armstrong la creó para dos objetivos: (1) reducir los costes de transacción para los usuarios de Coinbase al usar infraestructura L2, y (2) contribuir a la descentralización del ecosistema Ethereum construyendo infraestructura pública. Base no tiene token propio, lo que es inusual y refleja la filosofía de Armstrong de construir sin necesitar que los usuarios compren un token."
+      },
+      {
+        "question": "¿Cómo es la relación de Coinbase con la SEC?",
+        "answer": "Coinbase tuvo un conflicto prolongado con la SEC bajo Gary Gensler sobre si ciertos tokens listados son securities. La SEC demandó a Coinbase en 2023. Bajo la nueva administración en EEUU en 2025, las relaciones entre la industria cripto y la SEC mejoraron significativamente, con Armstrong teniendo reuniones con reguladores para ayudar a diseñar un marco regulatorio más claro."
+      }
+    ],
+    "ctaTitle": "Usa Coinbase: el exchange que Armstrong construyó para el largo plazo",
+    "ctaDescription": "Coinbase es el exchange con mejor historial de regulación y seguridad. La visión de Armstrong de 'crear un sistema financiero abierto' empieza aquí.",
+    "ctaButtonText": "Crear cuenta en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  }
+]

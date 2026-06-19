@@ -1,0 +1,572 @@
+[
+  {
+    "slug": "como-usar-binance",
+    "title": "Cómo usar Binance en 2026: guía completa para principiantes",
+    "keyword": "cómo usar Binance",
+    "category": "Guías básicas",
+    "excerpt": "Binance es el exchange con más volumen del mundo. En esta guía te explicamos cómo registrarte, verificar tu cuenta, depositar fondos y comprar tus primeras criptomonedas en Binance.",
+    "introduction": "Binance es el exchange de criptomonedas más grande del mundo por volumen de negociación y ofrece más de 350 criptomonedas con las comisiones más bajas del sector. Aunque su interfaz puede parecer compleja al principio, el proceso de compra básico es muy sencillo y en esta guía te lo explicamos paso a paso. Para usuarios que buscan optimizar costes, Binance es la plataforma de referencia.",
+    "metaTitle": "Cómo usar Binance en 2026: guía paso a paso para principiantes | Crypthor",
+    "metaDescription": "Aprende a usar Binance en 2026. Guía completa para registrarte, verificar tu cuenta y comprar criptomonedas con las comisiones más bajas del mercado.",
+    "publishedAt": "2026-02-08T00:00:00Z",
+    "updatedAt": "2026-06-06T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mayor variedad cripto y comisiones más bajas", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Más fácil de usar, soporte dedicado en español", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Muy regulado en Europa, buena seguridad", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "Bybit", "rating": 4.5, "price": "0,10% spot", "bestFor": "Futuros y derivados, buena alternativa a Binance", "affiliateUrl": "https://www.bybit.com/" },
+      { "productName": "OKX", "rating": 4.5, "price": "0,08% maker", "bestFor": "Web3 wallet y comisiones maker muy competitivas", "affiliateUrl": "https://www.okx.com/" }
+    ],
+    "pros": [
+      "Binance ofrece comisiones de tan solo el 0,10% en spot, y un 25% de descuento adicional si usas BNB para pagar las fees",
+      "La plataforma soporta más de 350 criptomonedas, incluidas decenas de altcoins que no están en otros exchanges",
+      "Binance tiene una app móvil muy completa con función de compra rápida, trading avanzado y gestión de cartera",
+      "El programa Binance Earn permite generar rendimientos pasivos con staking flexible, productos de ahorro y más",
+      "Binance P2P permite comprar cripto directamente con transferencia bancaria sin comisiones de plataforma"
+    ],
+    "cons": [
+      "Binance ha tenido problemas regulatorios en varios países, incluida una multa de 4.300 millones de dólares en EEUU en 2023",
+      "La interfaz de trading avanzado puede resultar abrumadora para usuarios sin experiencia previa",
+      "Binance no tiene la misma transparencia corporativa que Coinbase, que cotiza en bolsa y publica sus cuentas públicamente",
+      "Los retiros de grandes cantidades pueden ser revisados y retrasados por el sistema de compliance de Binance",
+      "El soporte al cliente de Binance en español puede ser más lento que el de Coinbase en períodos de alta demanda"
+    ],
+    "faqs": [
+      {
+        "question": "¿Es Binance legal en España?",
+        "answer": "Sí. Binance opera en España como proveedor de servicios de activos virtuales (PSAV) registrado en el Banco de España. Sin embargo, en 2023 enfrentó importantes multas regulatorias en EEUU. Para residentes en España, Binance es legal y cumple con la normativa europea MiCA."
+      },
+      {
+        "question": "¿Cómo ingreso dinero en Binance desde España?",
+        "answer": "Las opciones principales son: transferencia SEPA (sin comisión, 1-2 días), tarjeta de crédito/débito (comisión del 1,8-3%), y Bizum (disponible en España con comisión variable). La transferencia SEPA es la más económica para cantidades grandes."
+      },
+      {
+        "question": "¿Puedo usar Binance para hacer trading de futuros?",
+        "answer": "Sí. Binance tiene una de las plataformas de futuros más completas del mercado, con contratos perpetuos, futuros trimestrales y opciones sobre Bitcoin, Ethereum y decenas de altcoins. Sin embargo, el trading con apalancamiento es muy arriesgado y no se recomienda para principiantes."
+      },
+      {
+        "question": "¿Binance es seguro para guardar mis cripto?",
+        "answer": "Binance implementa almacenamiento en frío, 2FA, listas blancas de direcciones y un fondo de seguro (SAFU) de 1.000 millones de dólares. No obstante, ningún exchange es 100% seguro: para cantidades significativas, siempre es mejor retirar a una wallet hardware Ledger o Trezor."
+      }
+    ],
+    "ctaTitle": "Abre tu cuenta en Binance",
+    "ctaDescription": "Binance es la plataforma con las comisiones más bajas y más criptomonedas disponibles. Regístrate gratis y ahorra en cada operación.",
+    "ctaButtonText": "Crear cuenta en Binance",
+    "ctaAffiliateUrl": "https://www.binance.com/"
+  },
+  {
+    "slug": "como-usar-kraken",
+    "title": "Cómo usar Kraken en 2026: el exchange más seguro de Europa",
+    "keyword": "cómo usar Kraken",
+    "category": "Guías básicas",
+    "excerpt": "Kraken es uno de los exchanges más antiguos y seguros del mundo. Te explicamos cómo registrarte, verificar tu identidad y empezar a comprar criptomonedas en esta plataforma.",
+    "introduction": "Kraken fue fundado en 2011 y es uno de los exchanges de criptomonedas más veteranos y respetados del mundo. Con sede en EEUU y licencias en Europa, destaca por su historial de seguridad (nunca ha sido hackeado), su compromiso con la regulación y su soporte al cliente de calidad. Es la opción favorita de inversores europeos que priorizan la seguridad por encima de las comisiones más bajas.",
+    "metaTitle": "Cómo usar Kraken en 2026: guía completa y segura | Crypthor",
+    "metaDescription": "Guía paso a paso para usar Kraken en 2026. Aprende a registrarte, verificar tu cuenta y comprar criptomonedas en el exchange más seguro del mercado.",
+    "publishedAt": "2026-02-10T00:00:00Z",
+    "updatedAt": "2026-06-07T00:00:00Z",
+    "readingTime": 8,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker / 0,16% taker", "bestFor": "Máxima seguridad y cumplimiento regulatorio en Europa", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Más fácil de usar para principiantes absolutos", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Más criptomonedas y comisiones más bajas", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Bitstamp", "rating": 4.2, "price": "0,50% básico", "bestFor": "Exchange europeo veterano con sede en Luxemburgo", "affiliateUrl": "https://www.bitstamp.net/" },
+      { "productName": "Gemini", "rating": 4.3, "price": "1,49% en app", "bestFor": "Custodia institucional y cumplimiento SOC 2", "affiliateUrl": "https://www.gemini.com/" }
+    ],
+    "pros": [
+      "Kraken nunca ha sufrido un hackeo significativo en sus más de 13 años de operación, lo que lo convierte en el exchange más seguro con historial probado",
+      "Kraken ofrece staking de ETH, DOT, ADA, SOL y otras criptomonedas con rendimientos competitivos directamente en la plataforma",
+      "La plataforma de trading avanzado Kraken Pro ofrece comisiones desde el 0,00% maker para traders de alto volumen",
+      "Kraken tiene licencia de dinero electrónico en la UE y licencias estatales en EEUU, con alto grado de cumplimiento regulatorio",
+      "El soporte al cliente de Kraken es considerado de los más rápidos y útiles del sector"
+    ],
+    "cons": [
+      "Las comisiones estándar de Kraken (0,26% maker) son más altas que las de Binance (0,10%) para operaciones básicas",
+      "La selección de altcoins en Kraken es menor que en Binance: ofrece alrededor de 200 criptomonedas vs las 350+ de Binance",
+      "La interfaz de Kraken, aunque completa, puede resultar menos intuitiva para principiantes que la de Coinbase",
+      "Los depósitos por transferencia SEPA pueden tardar 1-3 días en acreditarse en momentos de alta demanda",
+      "Kraken no ofrece una tarjeta de débito cripto propia como Coinbase o Binance en todos los países europeos"
+    ],
+    "faqs": [
+      {
+        "question": "¿Por qué Kraken es considerado el exchange más seguro?",
+        "answer": "Kraken tiene más de 13 años de operación sin ningún hackeo significativo, un logro extraordinario en el sector. Además, reserva la mayoría de los fondos en almacenamiento frío, realiza pruebas de reservas regulares y mantiene un estricto programa de seguridad interna y externa."
+      },
+      {
+        "question": "¿Cómo funciona el staking en Kraken?",
+        "answer": "Kraken ofrece staking flexible (puedes desbloquear cuando quieras) y staking bloqueado (con rendimientos más altos pero con períodos de espera) para ETH, SOL, ADA, DOT y otras criptomonedas. Los rendimientos varían entre el 3% y el 12% anual dependiendo del activo."
+      },
+      {
+        "question": "¿Cuánto tarda la verificación KYC en Kraken?",
+        "answer": "La verificación básica (Tier 1) puede completarse en minutos. La verificación intermedia (Tier 2), necesaria para límites mayores, suele tardar entre 1 y 5 días hábiles dependiendo de la carga de trabajo. Con la verificación completa puedes depositar y retirar sin límite."
+      },
+      {
+        "question": "¿Puedo usar Kraken Pro para trading avanzado?",
+        "answer": "Sí. Kraken Pro (antes Kraken Futures y Kraken Trade) es la interfaz avanzada con gráficos en tiempo real, múltiples tipos de órdenes y comisiones reducidas para traders de alto volumen. Está disponible en web y app móvil sin coste adicional."
+      }
+    ],
+    "ctaTitle": "Abre tu cuenta segura en Kraken",
+    "ctaDescription": "Kraken combina seguridad probada con staking de las principales criptomonedas. El exchange preferido por inversores europeos serios.",
+    "ctaButtonText": "Crear cuenta en Kraken",
+    "ctaAffiliateUrl": "https://www.kraken.com/"
+  },
+  {
+    "slug": "como-guardar-crypto-seguro",
+    "title": "Cómo guardar criptomonedas de forma segura en 2026",
+    "keyword": "cómo guardar criptomonedas de forma segura",
+    "category": "Guías básicas",
+    "excerpt": "Guardar tus cripto en un exchange no es la opción más segura. Aprende las mejores prácticas para proteger tus activos digitales con wallets hardware, software y buenas costumbres de seguridad.",
+    "introduction": "El principio fundamental de la seguridad en cripto es simple: si no tienes las claves privadas, no tienes las monedas. Los exchanges pueden ser hackeados, pueden congelar fondos o incluso quebrar. Guardar tus criptomonedas en una wallet hardware offline es la forma más segura para el largo plazo. En esta guía te enseñamos las mejores prácticas para proteger tus activos digitales.",
+    "metaTitle": "Cómo guardar criptomonedas de forma segura en 2026 | Crypthor",
+    "metaDescription": "Aprende las mejores prácticas para guardar criptomonedas de forma segura en 2026. Wallets hardware, software y consejos de seguridad esenciales.",
+    "publishedAt": "2026-02-12T00:00:00Z",
+    "updatedAt": "2026-06-08T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "La wallet hardware más vendida del mundo, compatible con 5.500+ cripto", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano S Plus", "rating": 4.6, "price": "€79", "bestFor": "Seguridad hardware a precio asequible sin Bluetooth", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Trezor Model T", "rating": 4.7, "price": "€179", "bestFor": "100% open source con pantalla táctil integrada", "affiliateUrl": "https://trezor.io/" },
+      { "productName": "Trezor One", "rating": 4.3, "price": "€69", "bestFor": "La wallet hardware más económica del mercado", "affiliateUrl": "https://trezor.io/" },
+      { "productName": "BitBox02", "rating": 4.5, "price": "€149", "bestFor": "Diseño minimalista y fácil de usar, fabricado en Suiza", "affiliateUrl": "https://shiftcrypto.ch/" }
+    ],
+    "pros": [
+      "Una wallet hardware mantiene tus claves privadas completamente offline, siendo inmune a hackeos remotos y malware",
+      "Ledger y Trezor soportan miles de criptomonedas, por lo que una sola wallet cubre toda tu cartera diversificada",
+      "La frase semilla de 24 palabras te permite recuperar todos tus activos en cualquier dispositivo compatible en caso de pérdida",
+      "Guardar cripto en hardware wallet elimina el riesgo de que un exchange congele o pierda tus fondos",
+      "Las wallets hardware modernas como Ledger Nano X tienen conexión Bluetooth para usarlas cómodamente con el móvil"
+    ],
+    "cons": [
+      "Una wallet hardware cuesta entre 69 y 179 euros, lo que puede no justificarse para cantidades menores de 500 euros",
+      "Perder la frase semilla sin ningún respaldo significa la pérdida total e irreversible de los fondos",
+      "Las wallets hardware requieren una configuración inicial que puede ser complicada para usuarios sin conocimientos técnicos",
+      "Comprar wallets hardware de segunda mano o en marketplaces no oficiales conlleva riesgo de dispositivos manipulados",
+      "Actualizar el firmware de la wallet puede resultar complicado y requiere conexión a internet, lo que crea una ventana temporal de exposición"
+    ],
+    "faqs": [
+      {
+        "question": "¿Dónde debo guardar mi frase semilla de 24 palabras?",
+        "answer": "La frase semilla debe guardarse en papel (nunca en formato digital) en un lugar seguro como una caja fuerte. Muchos usuarios también hacen grabado en acero inoxidable para protegerla de incendios o inundaciones. Nunca fotografíes ni almacenes tu seed phrase en tu teléfono, ordenador o la nube."
+      },
+      {
+        "question": "¿Ledger o Trezor: cuál es mejor?",
+        "answer": "Ambas son excelentes opciones. Ledger tiene mayor compatibilidad con criptomonedas (5.500+) y usa chips seguros certificados. Trezor es completamente open source, lo que permite auditorías independientes. Si usas mucha DeFi, Ledger integra mejor con MetaMask. Si priorizas la transparencia del código, Trezor es tu elección."
+      },
+      {
+        "question": "¿Es suficiente activar el 2FA en el exchange para estar seguro?",
+        "answer": "El 2FA mejora significativamente la seguridad de tu cuenta en el exchange, pero no protege contra hackeos del exchange en sí ni contra quiebras. Para máxima seguridad, retira tus cripto a una wallet hardware propia. El exchange debería usarse solo para trading activo, no como almacenamiento a largo plazo."
+      },
+      {
+        "question": "¿Qué hago si me hackean el exchange?",
+        "answer": "Si detectas actividad sospechosa en tu cuenta, actúa rápido: cambia la contraseña, revoca el acceso de todas las API keys activas, y contacta al soporte del exchange. Si los fondos ya han sido robados del exchange (no de tu wallet propia), el exchange tiene mecanismos de seguro limitados. Este es el principal argumento para tener siempre los fondos en tu propia wallet hardware."
+      }
+    ],
+    "ctaTitle": "Protege tus cripto con Ledger Nano X",
+    "ctaDescription": "Ledger Nano X es la wallet hardware más segura y fácil de usar del mercado. Con soporte para más de 5.500 criptomonedas, es la solución definitiva para proteger tu inversión.",
+    "ctaButtonText": "Comprar Ledger Nano X",
+    "ctaAffiliateUrl": "https://www.ledger.com/"
+  },
+  {
+    "slug": "que-es-seed-phrase",
+    "title": "Qué es una seed phrase (frase semilla) y cómo protegerla",
+    "keyword": "qué es una seed phrase",
+    "category": "Guías básicas",
+    "excerpt": "La seed phrase es la llave maestra de tu wallet de criptomonedas. Si la pierdes, pierdes todos tus fondos. Aprende qué es, cómo funciona y las mejores formas de guardarla de forma segura.",
+    "introduction": "La seed phrase (o frase semilla) es una secuencia de 12 o 24 palabras aleatorias que se genera al crear una nueva wallet de criptomonedas. Funciona como la contraseña maestra de todas tus claves privadas y te permite recuperar el acceso a tus fondos en cualquier dispositivo compatible. Proteger esta frase es la responsabilidad más importante para cualquier usuario de cripto.",
+    "metaTitle": "Qué es una seed phrase y cómo protegerla | Crypthor",
+    "metaDescription": "Descubre qué es una seed phrase o frase semilla en criptomonedas, cómo funciona y las mejores prácticas para guardarla de forma segura.",
+    "publishedAt": "2026-02-15T00:00:00Z",
+    "updatedAt": "2026-06-08T00:00:00Z",
+    "readingTime": 7,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Genera y protege tu seed phrase con chip de seguridad certificado", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano S Plus", "rating": 4.6, "price": "€79", "bestFor": "Protección hardware de seed phrase a precio asequible", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Trezor Model T", "rating": 4.7, "price": "€179", "bestFor": "Open source: la generación de seed phrase es auditada de forma independiente", "affiliateUrl": "https://trezor.io/" },
+      { "productName": "MetaMask", "rating": 4.4, "price": "Gratis", "bestFor": "Wallet software con seed phrase estándar BIP39, ideal para DeFi", "affiliateUrl": "https://metamask.io/" },
+      { "productName": "Trust Wallet", "rating": 4.3, "price": "Gratis", "bestFor": "Wallet móvil multichain con soporte de seed phrase", "affiliateUrl": "https://trustwallet.com/" }
+    ],
+    "pros": [
+      "La seed phrase sigue el estándar BIP39, lo que significa que puedes importarla en cualquier wallet compatible (Ledger, Trezor, MetaMask, etc.)",
+      "Con la seed phrase puedes recuperar todos tus activos incluso si pierdes, rompes o te roban el dispositivo original",
+      "El sistema de seed phrase elimina la necesidad de recordar contraseñas complejas para cada dirección de criptomoneda",
+      "Una sola seed phrase de 24 palabras puede controlar millones de direcciones y activos en múltiples blockchains",
+      "Las wallets hardware generan la seed phrase completamente offline, sin que nunca toque internet"
+    ],
+    "cons": [
+      "Si alguien descubre tu seed phrase, puede robar todos tus fondos de forma inmediata e irreversible desde cualquier lugar del mundo",
+      "Perder la seed phrase sin ningún respaldo supone la pérdida total e irreversible de todos los criptoactivos asociados",
+      "Guardar la seed phrase en formato digital (foto, email, cloud) es un grave riesgo de seguridad que muchos usuarios cometen",
+      "Las palabras de la seed phrase deben escribirse en el orden exacto: una sola palabra en posición incorrecta impide la recuperación",
+      "No existe ningún mecanismo de recuperación centralizado: si pierdes la seed phrase, ningún exchange ni empresa puede ayudarte"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuántas palabras tiene una seed phrase?",
+        "answer": "Las seed phrases más comunes tienen 12 o 24 palabras. Las de 24 palabras (usadas por Ledger) ofrecen una seguridad mayor (256 bits de entropía). Las de 12 palabras (usadas por MetaMask) también son muy seguras para el uso práctico habitual."
+      },
+      {
+        "question": "¿Dónde guardo mi seed phrase de forma segura?",
+        "answer": "La opción más segura es escribirla a mano en papel y guardarla en una caja fuerte ignífuga. Muchos usuarios también graban la frase en una placa de acero inoxidable para protegerla de fuego e inundaciones. Nunca la guardes en tu teléfono, ordenador, fotografía ni en servicios cloud como Google Drive o iCloud."
+      },
+      {
+        "question": "¿Puede alguien adivinar mi seed phrase?",
+        "answer": "Es prácticamente imposible. Una seed phrase de 24 palabras tiene 2^256 combinaciones posibles, un número tan grande que todos los ordenadores del mundo tardarían más tiempo que la edad del universo en intentarlas todas. Tu seed phrase solo puede comprometerse si alguien la ve físicamente o si la introduces en un sitio web falso (phishing)."
+      },
+      {
+        "question": "¿Qué es un ataque de phishing de seed phrase?",
+        "answer": "Es el método de robo más común en cripto. Los estafadores crean páginas web falsas que imitan wallets o exchanges legítimos y te piden que introduzcas tu seed phrase. Recuerda: ningún servicio legítimo jamás te pedirá tu frase semilla. Si alguien te la pide, es una estafa sin excepción."
+      }
+    ],
+    "ctaTitle": "Genera tu seed phrase de forma segura con Ledger",
+    "ctaDescription": "Ledger Nano X genera y almacena tu seed phrase en un chip de seguridad certificado CC EAL5+, nunca expuesta a internet. El estándar de seguridad en cripto.",
+    "ctaButtonText": "Comprar Ledger Nano X",
+    "ctaAffiliateUrl": "https://www.ledger.com/"
+  },
+  {
+    "slug": "como-usar-ledger",
+    "title": "Cómo usar Ledger en 2026: guía completa de configuración y uso",
+    "keyword": "cómo usar Ledger wallet",
+    "category": "Guías básicas",
+    "excerpt": "Ledger es la wallet hardware más popular del mundo. En esta guía te explicamos cómo configurar tu Ledger Nano X o Nano S Plus paso a paso, cómo instalar aplicaciones y cómo enviar y recibir cripto.",
+    "introduction": "Ledger es el estándar de oro en seguridad de criptomonedas para usuarios particulares. El Nano X y el Nano S Plus son las dos opciones más populares, ambas con el mismo chip de seguridad certificado CC EAL5+ que garantiza que tus claves privadas nunca abandonen el dispositivo. En esta guía cubrimos la configuración completa desde cero, la instalación de apps en Ledger Live y las operaciones básicas.",
+    "metaTitle": "Cómo usar Ledger Nano X y Nano S Plus en 2026 | Crypthor",
+    "metaDescription": "Guía completa para configurar y usar tu Ledger hardware wallet en 2026. Desde la configuración inicial hasta enviar y recibir criptomonedas de forma segura.",
+    "publishedAt": "2026-02-18T00:00:00Z",
+    "updatedAt": "2026-06-09T00:00:00Z",
+    "readingTime": 10,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Bluetooth, mayor memoria para más aplicaciones instaladas", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano S Plus", "rating": 4.6, "price": "€79", "bestFor": "Misma seguridad que el Nano X, sin Bluetooth y más barato", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Trezor Model T", "rating": 4.7, "price": "€179", "bestFor": "Pantalla táctil y código 100% open source verificable", "affiliateUrl": "https://trezor.io/" },
+      { "productName": "Trezor One", "rating": 4.3, "price": "€69", "bestFor": "La wallet hardware más asequible del mercado", "affiliateUrl": "https://trezor.io/" },
+      { "productName": "BitBox02", "rating": 4.5, "price": "€149", "bestFor": "Diseño minimalista, fabricado en Suiza, open source", "affiliateUrl": "https://shiftcrypto.ch/" }
+    ],
+    "pros": [
+      "El chip de seguridad CC EAL5+ de Ledger garantiza que las claves privadas nunca abandonen el dispositivo físico bajo ninguna circunstancia",
+      "Ledger Live, la app oficial de Ledger, soporta más de 5.500 criptomonedas y permite gestionar toda tu cartera desde un solo lugar",
+      "El Nano X tiene conexión Bluetooth que permite gestionar tus cripto desde el móvil sin necesidad de cable",
+      "Ledger es compatible con MetaMask, lo que permite usar DeFi con la seguridad de una wallet hardware",
+      "Las actualizaciones de firmware de Ledger son frecuentes y añaden soporte para nuevas criptomonedas y mejoras de seguridad"
+    ],
+    "cons": [
+      "Ledger Live tiene un swap integrado con comisiones más altas que hacer el intercambio directamente en un exchange",
+      "El Ledger Nano S Plus tiene memoria limitada: solo puedes tener instaladas simultáneamente unas 3-5 aplicaciones de blockchain",
+      "En 2020 Ledger sufrió una brecha de datos que expuso emails y direcciones físicas de clientes, aunque no los fondos en sí",
+      "La pantalla pequeña del Nano X y Nano S Plus puede dificultar la verificación de direcciones largas en el dispositivo",
+      "Requiere instalar aplicaciones para cada blockchain que quieras usar, lo que puede resultar confuso al principio"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuál es la diferencia entre el Ledger Nano X y el Nano S Plus?",
+        "answer": "El Nano X tiene Bluetooth (para usarlo con el móvil sin cable), mayor memoria interna (permite tener más aplicaciones instaladas simultáneamente) y batería integrada. El Nano S Plus es más barato (€79 vs €149) pero requiere cable USB-C y no tiene Bluetooth ni batería. Ambos tienen el mismo chip de seguridad."
+      },
+      {
+        "question": "¿Cómo configuro mi Ledger por primera vez?",
+        "answer": "Conecta el dispositivo, descarga Ledger Live en tu ordenador, elige 'Configurar como nuevo dispositivo', establece un PIN de 4-8 dígitos, anota cuidadosamente las 24 palabras de tu seed phrase en el papel incluido y verifica la seed phrase cuando el dispositivo lo solicite. Todo el proceso tarda unos 15-20 minutos."
+      },
+      {
+        "question": "¿Puedo usar mi Ledger con MetaMask para DeFi?",
+        "answer": "Sí. Conecta tu Ledger al ordenador, abre MetaMask, ve a 'Conectar Hardware Wallet' y selecciona Ledger. A partir de ahí, todas las transacciones de DeFi se firmarán en el dispositivo físico, dando máxima seguridad a tu actividad en DeFi con la comodidad de MetaMask."
+      },
+      {
+        "question": "¿Qué hago si pierdo mi Ledger?",
+        "answer": "Si tienes tu seed phrase de 24 palabras guardada en un lugar seguro, puedes restaurar todos tus fondos en un nuevo Ledger o en cualquier otra wallet compatible con BIP39. Compra un nuevo dispositivo directamente desde la web oficial de Ledger, importa tu seed phrase y todos tus activos estarán disponibles de nuevo."
+      }
+    ],
+    "ctaTitle": "Compra tu Ledger en la tienda oficial",
+    "ctaDescription": "Compra siempre tu Ledger directamente en la web oficial para evitar dispositivos manipulados. El Nano X es nuestra recomendación para la mayoría de usuarios.",
+    "ctaButtonText": "Comprar Ledger Nano X oficial",
+    "ctaAffiliateUrl": "https://www.ledger.com/"
+  },
+  {
+    "slug": "como-hacer-staking",
+    "title": "Cómo hacer staking de criptomonedas en 2026: guía completa",
+    "keyword": "cómo hacer staking criptomonedas",
+    "category": "Guías básicas",
+    "excerpt": "El staking te permite ganar rendimientos pasivos con tus criptomonedas simplemente manteniéndolas. Aprende cómo funciona, qué criptos puedes hacer staking y cómo empezar desde un exchange.",
+    "introduction": "El staking de criptomonedas es el proceso de bloquear o 'apostar' tus activos digitales para participar en la validación de transacciones de una blockchain Proof of Stake y recibir recompensas a cambio. Es una de las formas más sencillas de obtener rendimientos pasivos en cripto sin necesidad de hacer trading activo. Coinbase, Binance y Kraken ofrecen staking simplificado directamente desde la plataforma.",
+    "metaTitle": "Cómo hacer staking de criptomonedas en 2026 | Crypthor",
+    "metaDescription": "Guía completa para hacer staking de criptomonedas en 2026. Aprende cómo funciona, qué criptos puedes apostar y cómo empezar desde un exchange de forma sencilla.",
+    "publishedAt": "2026-02-20T00:00:00Z",
+    "updatedAt": "2026-06-10T00:00:00Z",
+    "readingTime": 8,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Coinbase", "rating": 4.7, "price": "Desde 0 EUR, comisión del 25% sobre recompensas", "bestFor": "Staking más sencillo para principiantes de ETH, SOL, ADA", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "Staking flexible y bloqueado disponible", "bestFor": "Mayor variedad de activos para staking y mejores APY", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "Sin mínimo en staking flexible", "bestFor": "Staking de ETH con rendimientos competitivos y buena liquidez", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "Lido Finance", "rating": 4.5, "price": "10% de comisión sobre recompensas", "bestFor": "Staking líquido de ETH con stETH, sin bloqueo mínimo", "affiliateUrl": "https://lido.fi/" },
+      { "productName": "Rocket Pool", "rating": 4.4, "price": "15% de comisión sobre recompensas", "bestFor": "Staking de ETH descentralizado con rETH, más seguro", "affiliateUrl": "https://rocketpool.net/" }
+    ],
+    "pros": [
+      "El staking genera rendimientos pasivos de entre el 3% y el 12% anual dependiendo de la criptomoneda y la plataforma",
+      "En exchanges como Coinbase o Binance, el staking es completamente automatizado: solo tienes que activarlo y las recompensas se acumulan solas",
+      "El staking flexible (disponible en Binance y Kraken) permite desbloquear tus fondos cuando quieras sin penalizaciones",
+      "El staking de ETH en protocolos líquidos como Lido te da stETH, un token que puedes usar en DeFi mientras sigues ganando recompensas",
+      "A diferencia del mining, el staking no requiere ningún hardware especializado ni grandes inversiones en equipos"
+    ],
+    "cons": [
+      "Durante el período de bloqueo del staking, no puedes vender ni mover tus cripto aunque el precio caiga significativamente",
+      "Los rendimientos de staking en exchanges son menores que el staking nativo, ya que la plataforma cobra una comisión de gestión",
+      "Las recompensas de staking se pagan en la misma criptomoneda, por lo que si el precio cae, el valor en euros de tus ganancias también cae",
+      "Los protocolos de staking líquido como Lido tienen riesgo de smart contract: un bug podría poner en riesgo tus fondos",
+      "Hacienda considera las recompensas de staking como rendimientos del capital mobiliario, sujetos a tributación en el IRPF"
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué criptomonedas puedo poner en staking?",
+        "answer": "Las principales criptomonedas disponibles para staking son Ethereum (ETH), Solana (SOL), Cardano (ADA), Avalanche (AVAX), Polkadot (DOT), Cosmos (ATOM) y Tezos (XTZ), entre muchas otras. Solo las blockchains que usan el mecanismo de consenso Proof of Stake permiten staking; Bitcoin no es compatible."
+      },
+      {
+        "question": "¿Cuánto se gana con el staking?",
+        "answer": "Los rendimientos varían según la criptomoneda: ETH ofrece entre 3-5% anual, SOL entre 5-7%, ADA entre 3-5%, AVAX entre 7-9%, y DOT entre 10-12%. En exchanges como Coinbase o Binance los rendimientos son ligeramente menores porque la plataforma cobra una comisión de gestión."
+      },
+      {
+        "question": "¿El staking tiene riesgos?",
+        "answer": "Sí. Los principales riesgos son: la caída del precio de la criptomoneda mientras tus fondos están bloqueados, el riesgo de slashing (penalización si el validador tiene mal comportamiento), y el riesgo de smart contract en staking líquido. Hacer staking en exchanges principales como Coinbase o Kraken reduce el riesgo operativo."
+      },
+      {
+        "question": "¿Qué diferencia hay entre staking en exchange y staking nativo?",
+        "answer": "En el staking en exchange, la plataforma gestiona todo por ti y cobra una comisión, pero es mucho más fácil y con menor riesgo técnico. El staking nativo (usando la wallet oficial de la blockchain) ofrece rendimientos más altos y total descentralización, pero requiere conocimientos técnicos y mayores cantidades mínimas."
+      }
+    ],
+    "ctaTitle": "Empieza a hacer staking en Coinbase",
+    "ctaDescription": "Coinbase hace el staking de ETH, SOL y ADA increíblemente sencillo: actívalo en un clic y empieza a ganar rendimientos pasivos desde hoy.",
+    "ctaButtonText": "Hacer staking en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "como-evitar-estafas-crypto",
+    "title": "Cómo evitar estafas en criptomonedas en 2026: guía de seguridad",
+    "keyword": "cómo evitar estafas en criptomonedas",
+    "category": "Guías básicas",
+    "excerpt": "Las estafas en cripto se han sofisticado enormemente. Aprende a identificar los fraudes más comunes en 2026, desde el phishing hasta los rugpulls, y cómo protegerte eficazmente.",
+    "introduction": "El ecosistema de criptomonedas es un objetivo prioritario para estafadores por su irreversibilidad: una vez enviadas las cripto a una dirección incorrecta o fraudulenta, no hay forma de recuperarlas. En 2025 se perdieron más de 3.000 millones de dólares en estafas cripto según Chainalysis. En esta guía repasamos los fraudes más comunes y las herramientas para protegerte.",
+    "metaTitle": "Cómo evitar estafas en criptomonedas en 2026 | Crypthor",
+    "metaDescription": "Aprende a identificar y evitar las estafas más comunes en cripto en 2026: phishing, rugpulls, esquemas Ponzi y más. Guía de seguridad completa.",
+    "publishedAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-06-10T00:00:00Z",
+    "readingTime": 9,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Protección total frente a hackeos remotos y phishing avanzado", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Exchange regulado con protección avanzada contra fraude", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Fondo SAFU de 1.000M de dólares como seguro de usuarios", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Historial de seguridad más limpio del sector, nunca hackeado", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "Trezor Model T", "rating": 4.7, "price": "€179", "bestFor": "Firmware open source verificable, máxima transparencia de seguridad", "affiliateUrl": "https://trezor.io/" }
+    ],
+    "pros": [
+      "Usar exchanges regulados como Coinbase o Kraken reduce significativamente el riesgo de operar en plataformas fraudulentas",
+      "Una wallet hardware como Ledger protege tus fondos incluso si tu ordenador está infectado con malware",
+      "Activar el 2FA con una aplicación de autenticación (no SMS) añade una capa de seguridad crítica contra accesos no autorizados",
+      "Los exploradores de blockchain como Etherscan permiten verificar contratos inteligentes y detectar señales de rugpull antes de invertir",
+      "Las listas blancas de direcciones en exchanges impiden que un hacker retire fondos a una dirección diferente aunque acceda a tu cuenta"
+    ],
+    "cons": [
+      "Las estafas de ingeniería social (como el pig butchering) son extremadamente sofisticadas y difíciles de detectar incluso para usuarios experimentados",
+      "Los proyectos DeFi fraudulentos pueden copiar la interfaz de protocolos legítimos para engañar a usuarios en DeFi",
+      "Las recuperaciones de fondos robados en cripto son extremadamente raras: las probabilidades de recuperar lo perdido son prácticamente nulas",
+      "Los airdrop fraudulentos pueden contener smart contracts maliciosos que vacían la wallet al darles permiso de acceso",
+      "Las redes sociales como Telegram y Discord están llenas de grupos falsos que suplantan a proyectos legítimos para robar fondos"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuáles son las estafas más comunes en cripto?",
+        "answer": "Las estafas más frecuentes son: phishing (páginas falsas que roban credenciales), rugpulls (proyectos que desaparecen con el dinero de inversores), esquemas Ponzi (promesas de rentabilidad irreal), pig butchering (estafa romántica de inversión cripto) y fake airdrops con contratos maliciosos."
+      },
+      {
+        "question": "¿Cómo sé si un proyecto cripto es una estafa?",
+        "answer": "Señales de alerta: promesas de rentabilidades garantizadas o muy altas, equipo anónimo sin historial verificable, código no auditado, presión para invertir rápidamente, imposibilidad de retirar fondos, y plataformas que no son exchanges regulados. Verifica siempre el contrato en Etherscan y busca auditorías de seguridad independientes."
+      },
+      {
+        "question": "¿Qué hago si me han estafado en cripto?",
+        "answer": "Denuncia ante la Policía Nacional y reporta a la CNMV si el fraude involucra a una empresa en España. Documenta todas las transacciones y comunicaciones. Contacta con empresas de análisis blockchain como Chainalysis si el monto es significativo. Lamentablemente, la probabilidad de recuperar fondos es muy baja sin cooperación policial internacional."
+      },
+      {
+        "question": "¿Cómo protejo mis fondos en DeFi?",
+        "answer": "Usa solo protocolos con auditorías de seguridad verificables (Certik, Trail of Bits, OpenZeppelin). Revoca los permisos de contratos después de cada transacción usando herramientas como revoke.cash. Nunca firmes transacciones que no entiendas completamente. Considera usar una wallet separada (burner wallet) para probar proyectos nuevos antes de conectar tu wallet principal."
+      }
+    ],
+    "ctaTitle": "Protege tus fondos con Ledger Nano X",
+    "ctaDescription": "La mejor defensa contra estafas y hackeos es mantener tus fondos en una wallet hardware. Ledger Nano X protege tus claves privadas offline, lejos de cualquier amenaza remota.",
+    "ctaButtonText": "Comprar Ledger Nano X",
+    "ctaAffiliateUrl": "https://www.ledger.com/"
+  },
+  {
+    "slug": "como-declarar-impuestos-cripto-espana",
+    "title": "Cómo declarar los impuestos de criptomonedas en España en 2026",
+    "keyword": "impuestos criptomonedas España",
+    "category": "Guías básicas",
+    "excerpt": "Hacienda controla las ganancias en criptomonedas. En esta guía te explicamos cómo declarar tus ganancias cripto en el IRPF, qué modelos hay que presentar y cómo calcularlo correctamente.",
+    "introduction": "En España, las ganancias obtenidas con criptomonedas están sujetas a tributación en el IRPF como ganancias patrimoniales. Hacienda ha endurecido el control del sector cripto en los últimos años, exigiendo información a exchanges como Coinbase y Binance. Declarar correctamente tus operaciones no es opcional: los incumplimientos pueden acarrear sanciones de hasta el 150% de la cuota defraudada.",
+    "metaTitle": "Impuestos criptomonedas España 2026: cómo declarar en el IRPF | Crypthor",
+    "metaDescription": "Guía completa sobre la declaración de impuestos de criptomonedas en España en 2026. IRPF, Modelo 720, Modelo 172 y cómo calcular tus ganancias cripto.",
+    "publishedAt": "2026-02-25T00:00:00Z",
+    "updatedAt": "2026-06-11T00:00:00Z",
+    "readingTime": 10,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Exporta historial de operaciones en CSV para declarar", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Historial completo de transacciones exportable", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Informe fiscal detallado por tipo de operación", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "Koinly", "rating": 4.6, "price": "Desde 49€/año", "bestFor": "Software de cálculo fiscal cripto compatible con España", "affiliateUrl": "https://koinly.io/" },
+      { "productName": "CoinTracking", "rating": 4.4, "price": "Gratis hasta 200 transacciones", "bestFor": "Plataforma de tracking fiscal con soporte para IRPF España", "affiliateUrl": "https://cointracking.info/" }
+    ],
+    "pros": [
+      "Los exchanges como Coinbase, Binance y Kraken permiten exportar el historial completo de transacciones en formato CSV para facilitar la declaración",
+      "Los software de cálculo fiscal como Koinly o CoinTracking automatizan el cálculo de ganancias y pérdidas usando el método FIFO requerido en España",
+      "Las pérdidas patrimoniales en cripto pueden compensarse con ganancias patrimoniales de otros activos en la declaración del IRPF",
+      "Declarar correctamente también evita las sanciones que puede imponer la AEAT por omisión de información",
+      "La asesoría de un gestor especializado en cripto puede ahorrar una cantidad significativa en impuestos mediante optimización fiscal legal"
+    ],
+    "cons": [
+      "El rastreo de todas las transacciones entre wallets, exchanges y protocolos DeFi puede ser extremadamente complejo y tedioso",
+      "El intercambio de una criptomoneda por otra (por ejemplo BTC por ETH) ya genera un hecho imponible en España, lo que multiplica las operaciones a declarar",
+      "El Modelo 172 de información de monedas virtuales es obligatorio desde 2023 para los exchanges con clientes en España, pero no elimina la obligación del contribuyente de declarar",
+      "Los rendimientos de staking y DeFi tienen una fiscalidad más compleja y hay menos jurisprudencia específica en España",
+      "Las transacciones en blockchains sin historial completo o protocolos descentralizados son difíciles de rastrear y valorar"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuándo tengo que declarar ganancias de criptomonedas en España?",
+        "answer": "Debes declarar las ganancias en la Declaración de la Renta del año en que realizas la operación de venta o intercambio. Por ejemplo, si vendes Bitcoin en diciembre de 2025, debes incluir esa ganancia en la declaración del IRPF de 2025 que se presenta en la campaña de abril-julio de 2026."
+      },
+      {
+        "question": "¿Cómo tributan las ganancias de cripto en el IRPF?",
+        "answer": "Las ganancias patrimoniales de cripto tributan en la base imponible del ahorro: hasta 6.000€ al 19%, entre 6.000€ y 50.000€ al 21%, entre 50.000€ y 200.000€ al 23%, y más de 200.000€ al 27%. Las pérdidas se pueden compensar con ganancias de otros activos dentro del mismo año o en los cuatro años siguientes."
+      },
+      {
+        "question": "¿Qué es el Modelo 720 y el Modelo 172?",
+        "answer": "El Modelo 720 es la declaración informativa de bienes en el extranjero: si tienes más de 50.000€ en criptomonedas en exchanges fuera de España, debes presentarlo. El Modelo 172 es la declaración de información sobre monedas virtuales que los exchanges con clientes en España están obligados a presentar desde 2023."
+      },
+      {
+        "question": "¿Tengo que declarar si simplemente compro cripto y no vendo?",
+        "answer": "No. En España, la simple compra y tenencia de criptomonedas no genera obligación fiscal. La obligación nace en el momento de la transmisión: cuando vendes, intercambias por otra cripto, pagas con cripto o recibes cripto por staking o mining. Mantener BTC en tu wallet sin vender no genera impuestos."
+      }
+    ],
+    "ctaTitle": "Descarga tu historial fiscal en Coinbase",
+    "ctaDescription": "Coinbase facilita la descarga de tu historial completo de transacciones para la declaración del IRPF. Crea tu cuenta y lleva un registro ordenado de todas tus operaciones.",
+    "ctaButtonText": "Abrir cuenta en Coinbase",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  },
+  {
+    "slug": "como-transferir-crypto-entre-wallets",
+    "title": "Cómo transferir criptomonedas entre wallets de forma segura",
+    "keyword": "cómo transferir criptomonedas entre wallets",
+    "category": "Guías básicas",
+    "excerpt": "Transferir cripto entre wallets y exchanges es sencillo pero requiere extrema atención. Un error en la dirección puede significar la pérdida permanente de tus fondos. Aprende a hacerlo bien.",
+    "introduction": "Transferir criptomonedas entre wallets es una operación básica pero que requiere máxima atención: las transacciones en blockchain son irreversibles, y un error en la dirección de destino supone la pérdida permanente de los fondos. En esta guía te explicamos el proceso completo paso a paso, las mejores prácticas de seguridad y cómo evitar los errores más comunes.",
+    "metaTitle": "Cómo transferir criptomonedas entre wallets de forma segura | Crypthor",
+    "metaDescription": "Guía completa para transferir criptomonedas entre wallets y exchanges en 2026. Paso a paso con consejos de seguridad para no perder tus fondos.",
+    "publishedAt": "2026-03-01T00:00:00Z",
+    "updatedAt": "2026-06-11T00:00:00Z",
+    "readingTime": 8,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Verificación física de dirección en pantalla del dispositivo antes de firmar", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "MetaMask", "rating": 4.4, "price": "Gratis", "bestFor": "Transferencias rápidas en la red Ethereum y compatibles con EVM", "affiliateUrl": "https://metamask.io/" },
+      { "productName": "Trust Wallet", "rating": 4.3, "price": "Gratis", "bestFor": "Transferencias multichain desde el móvil de forma sencilla", "affiliateUrl": "https://trustwallet.com/" },
+      { "productName": "Coinbase", "rating": 4.7, "price": "Red fee + comisión exchange", "bestFor": "Transferencias verificadas con lista de contactos y 2FA", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Exodus", "rating": 4.3, "price": "Gratis (spread en swaps)", "bestFor": "Interfaz visual clara para transferencias sin experiencia previa", "affiliateUrl": "https://www.exodus.com/" }
+    ],
+    "pros": [
+      "Las transferencias de cripto son globales, instantáneas (1-30 minutos) y funcionan las 24 horas, 365 días al año sin intermediarios",
+      "Las comisiones de red (gas fees) son generalmente bajas en redes como Solana, BNB Chain o Polygon, menos de 0,01€ por transacción",
+      "Puedes enviar cualquier cantidad, desde céntimos hasta millones, con las mismas comisiones de red fijas",
+      "Las wallets hardware como Ledger muestran la dirección de destino en la pantalla del dispositivo para verificación manual antes de firmar",
+      "Los exploradores de blockchain como Etherscan o Blockchain.info permiten rastrear el estado de cualquier transacción en tiempo real"
+    ],
+    "cons": [
+      "Un error en la dirección de destino (letra, número o red incorrecta) supone la pérdida total e irreversible de los fondos enviados",
+      "Enviar Bitcoin a una dirección Ethereum (o viceversa) resulta en la pérdida permanente de los fondos",
+      "Las comisiones de gas en Ethereum pueden ser altas en momentos de congestión de la red, encareciendo transferencias pequeñas",
+      "Los tiempos de confirmación varían: Bitcoin puede tardar 10-60 minutos en confirmarse, mientras que Solana confirma en segundos",
+      "Algunas plataformas retienen los retiros durante periodos de seguridad de 24-72 horas en nuevas cuentas o cambios de 2FA"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cómo sé que estoy enviando a la dirección correcta?",
+        "answer": "Siempre copia la dirección directamente desde la wallet de destino y no la escribas a mano. Antes de enviar la cantidad completa, haz una transferencia de prueba de una cantidad muy pequeña y verifica que llega correctamente. Con Ledger, confirma siempre la dirección completa en la pantalla física del dispositivo."
+      },
+      {
+        "question": "¿Qué pasa si envío cripto a la red equivocada?",
+        "answer": "Por ejemplo, enviar ETH por la red BNB Chain cuando el destino espera la red Ethereum puede resultar en fondos perdidos o recuperables según la wallet. Algunas wallets permiten recuperar fondos enviados a redes equivocadas si la dirección es compatible (EVM). Siempre verifica que la red seleccionada en el exchange emisor coincide con la red esperada en el receptor."
+      },
+      {
+        "question": "¿Cuánto tiempo tarda una transferencia de Bitcoin?",
+        "answer": "Una transacción de Bitcoin típicamente se confirma en 10-60 minutos con comisiones estándar. Los exchanges suelen requerir entre 1 y 6 confirmaciones (bloques) antes de acreditar el depósito. Si pagas una comisión más alta, la transacción se incluye antes en el siguiente bloque."
+      },
+      {
+        "question": "¿Qué es una memo o tag de destino?",
+        "answer": "Algunos activos como XRP, Stellar (XLM) o Cosmos (ATOM) usan un campo adicional llamado memo, tag o payment ID además de la dirección. Este campo es obligatorio cuando envías a un exchange: si lo omites, los fondos pueden llegar al exchange pero no acreditarse en tu cuenta específica. Consulta siempre si el destino requiere un memo antes de enviar."
+      }
+    ],
+    "ctaTitle": "Transfiere con seguridad usando Ledger",
+    "ctaDescription": "Ledger Nano X verifica cada dirección de destino en su pantalla física antes de firmar. La forma más segura de transferir criptomonedas.",
+    "ctaButtonText": "Comprar Ledger Nano X",
+    "ctaAffiliateUrl": "https://www.ledger.com/"
+  },
+  {
+    "slug": "como-empezar-en-cripto-desde-cero",
+    "title": "Cómo empezar en criptomonedas desde cero en 2026: guía para principiantes",
+    "keyword": "cómo empezar en criptomonedas",
+    "category": "Guías básicas",
+    "excerpt": "Empezar en cripto puede parecer abrumador, pero con la información correcta es accesible para cualquiera. Esta guía te enseña todo lo que necesitas saber para dar tus primeros pasos de forma segura.",
+    "introduction": "Las criptomonedas son una clase de activo nueva que combina tecnología, economía y finanzas. Para empezar correctamente, necesitas entender tres cosas básicas: qué son y cómo funcionan, dónde comprarlas de forma segura, y cómo guardarlas correctamente. Esta guía te llevará de cero a tener tu primera cripto comprada y guardada de forma segura en menos de un día.",
+    "metaTitle": "Cómo empezar en criptomonedas desde cero en 2026 | Crypthor",
+    "metaDescription": "Guía completa para principiantes que quieren empezar en criptomonedas en 2026. Desde qué es Bitcoin hasta cómo comprar y guardar tu primera cripto de forma segura.",
+    "publishedAt": "2026-03-05T00:00:00Z",
+    "updatedAt": "2026-06-12T00:00:00Z",
+    "readingTime": 10,
+    "verified": true,
+    "comparisonTable": [
+      { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "El más recomendado para el primer contacto con cripto", "affiliateUrl": "https://www.coinbase.com/" },
+      { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mejor para cuando ya tienes experiencia básica y quieres ahorrar", "affiliateUrl": "https://www.binance.com/" },
+      { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Opción equilibrada entre seguridad y facilidad de uso", "affiliateUrl": "https://www.kraken.com/" },
+      { "productName": "eToro", "rating": 4.3, "price": "1% en cripto", "bestFor": "Ideal si quieres también invertir en acciones y copy trading", "affiliateUrl": "https://www.etoro.com/" },
+      { "productName": "Bit2Me", "rating": 4.2, "price": "1,49% básico", "bestFor": "Exchange español con soporte al cliente en español 24/7", "affiliateUrl": "https://bit2me.com/" }
+    ],
+    "pros": [
+      "Empezar en cripto no requiere grandes cantidades: puedes comenzar con tan solo 10-20 euros en Coinbase o Binance",
+      "Los exchanges regulados como Coinbase y Kraken tienen procesos de verificación sencillos que se completan en menos de una hora",
+      "Bitcoin y Ethereum son las criptomonedas más seguras para empezar: tienen más historial, más liquidez y menos riesgo que las altcoins",
+      "La estrategia DCA (Dollar Cost Averaging) de compras periódicas reduce el riesgo del timing y es ideal para principiantes",
+      "Toda la información necesaria para empezar está disponible de forma gratuita: exchanges, wallets y guías educativas no tienen coste"
+    ],
+    "cons": [
+      "El mercado cripto es extremadamente volátil: es normal ver caídas del 20-50% en períodos cortos, lo que puede generar estrés emocional",
+      "El sector tiene mucho ruido especulativo, proyectos fraudulentos y promesas irreales que confunden a los principiantes",
+      "La responsabilidad de la custodia propia (wallet hardware) es mayor que en finanzas tradicionales: no hay un banco que te recupere los fondos",
+      "Las leyes fiscales relacionadas con cripto en España pueden ser complejas y requieren llevar un registro meticuloso de operaciones",
+      "El FOMO (Fear Of Missing Out) lleva a muchos principiantes a invertir en picos de precio, lo que aumenta el riesgo de pérdidas"
+    ],
+    "faqs": [
+      {
+        "question": "¿Con cuánto dinero debo empezar en cripto?",
+        "answer": "La recomendación general es no invertir más del 5-10% de tu cartera total en cripto, y menos si eres principiante. Empieza con una cantidad que puedas permitirte perder completamente. Un punto de partida habitual es entre 50 y 200 euros para familiarizarse con la mecánica sin riesgo excesivo."
+      },
+      {
+        "question": "¿Debo comprar Bitcoin o mejor una altcoin?",
+        "answer": "Para principiantes, Bitcoin (BTC) y Ethereum (ETH) son las opciones más recomendadas. Tienen el mayor historial, la mayor liquidez y el menor riesgo relativo del sector. Las altcoins ofrecen mayor potencial de ganancia pero también mayor riesgo de perder todo. Empieza con BTC/ETH y aprende el ecosistema antes de explorar altcoins."
+      },
+      {
+        "question": "¿Es buen momento para empezar en cripto en 2026?",
+        "answer": "El 'mejor momento' para empezar en cripto siempre ha sido antes de un bull run, pero es imposible predecirlo con certeza. La estrategia más inteligente para principiantes es la DCA (compras periódicas de pequeñas cantidades) que elimina la necesidad de acertar el timing perfecto."
+      },
+      {
+        "question": "¿Cripto vs fondos indexados: qué conviene más?",
+        "answer": "No es una decisión excluyente. Los fondos indexados (como un ETF del S&P 500) ofrecen rentabilidades históricas del 8-10% anual con mucho menos riesgo. Las cripto tienen mayor potencial de ganancia pero también mayor riesgo de pérdida. Una cartera equilibrada podría incluir ambos, con cripto representando solo una parte pequeña de la inversión total."
+      }
+    ],
+    "ctaTitle": "Da tu primer paso en cripto con Coinbase",
+    "ctaDescription": "Coinbase es el exchange más fácil para empezar desde cero: registro en 5 minutos, soporte en español y compra de BTC desde 10 euros. Sin complicaciones.",
+    "ctaButtonText": "Empezar en Coinbase gratis",
+    "ctaAffiliateUrl": "https://www.coinbase.com/"
+  }
+]
