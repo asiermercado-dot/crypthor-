@@ -21,6 +21,7 @@ export const metadata: Metadata = {
   openGraph: { type: 'website', locale: 'es_ES', siteName: 'Crypthor' },
   twitter: { card: 'summary_large_image' },
   robots: { index: true, follow: true },
+  verification: { google: 'NAX43QmKXExL4kQNMXT8GXq6JR2C7BEO25pQQ1VPM9E' },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
