@@ -27,6 +27,11 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="es" className={`${inter.variable} ${merriweather.variable}`}>
+      <head>
+        {/* eslint-disable-next-line @typescript-eslint/ban-ts-comment */}
+        {/* @ts-ignore – Impact.com uses non-standard `value` attribute */}
+        <meta name="impact-site-verification" value="10939b30-da51-4bcf-b16d-d39519d0b4b6" />
+      </head>
       <body className="min-h-screen flex flex-col bg-white">
         <SiteHeader />
         <main className="flex-1">{children}</main>
