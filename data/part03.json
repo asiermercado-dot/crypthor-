@@ -241,9 +241,9 @@
     "readingTime": 10,
     "verified": true,
     "comparisonTable": [
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "La más vendida del mundo, 5.500+ cripto, Bluetooth", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "La más vendida del mundo, 5.500+ cripto, Bluetooth", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Trezor Model T", "rating": 4.7, "price": "€179", "bestFor": "100% open source, pantalla táctil, máxima verificabilidad", "affiliateUrl": "https://trezor.io/" },
-      { "productName": "Ledger Nano S Plus", "rating": 4.6, "price": "€79", "bestFor": "La mejor relación calidad-precio en hardware wallet", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano S Plus", "rating": 4.6, "price": "€79", "bestFor": "La mejor relación calidad-precio en hardware wallet", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "BitBox02", "rating": 4.5, "price": "€149", "bestFor": "Diseño minimalista, open source, fabricado en Suiza", "affiliateUrl": "https://shiftcrypto.ch/" },
       { "productName": "Trezor One", "rating": 4.3, "price": "€69", "bestFor": "La wallet hardware más económica y veterana", "affiliateUrl": "https://trezor.io/" }
     ],
@@ -282,7 +282,7 @@
     "ctaTitle": "Protege tus cripto con Ledger Nano X",
     "ctaDescription": "Ledger Nano X es la wallet hardware más popular del mundo con soporte para 5.500+ criptomonedas. Compra siempre en la tienda oficial.",
     "ctaButtonText": "Comprar Ledger Nano X oficial",
-    "ctaAffiliateUrl": "https://www.ledger.com/"
+    "ctaAffiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4"
   },
   {
     "slug": "ledger-vs-trezor",
@@ -298,9 +298,9 @@
     "readingTime": 10,
     "verified": true,
     "comparisonTable": [
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Mayor compatibilidad, chip certificado, Bluetooth y DeFi", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Mayor compatibilidad, chip certificado, Bluetooth y DeFi", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Trezor Model T", "rating": 4.7, "price": "€179", "bestFor": "100% open source, pantalla táctil y máxima verificabilidad", "affiliateUrl": "https://trezor.io/" },
-      { "productName": "Ledger Nano S Plus", "rating": 4.6, "price": "€79", "bestFor": "Mejor precio con la misma seguridad de Ledger sin Bluetooth", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano S Plus", "rating": 4.6, "price": "€79", "bestFor": "Mejor precio con la misma seguridad de Ledger sin Bluetooth", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Trezor One", "rating": 4.3, "price": "€69", "bestFor": "La hardware wallet más veterana y más barata del mercado", "affiliateUrl": "https://trezor.io/" },
       { "productName": "BitBox02", "rating": 4.5, "price": "€149", "bestFor": "Open source, suizo, minimalista: alternativa a ambas marcas", "affiliateUrl": "https://shiftcrypto.ch/" }
     ],
@@ -339,7 +339,7 @@
     "ctaTitle": "Compra tu Ledger Nano X con garantía oficial",
     "ctaDescription": "Ledger Nano X es nuestra recomendación por su mayor compatibilidad con DeFi, 5.500+ criptomonedas y la comodidad del Bluetooth. Compra siempre en la tienda oficial.",
     "ctaButtonText": "Comprar Ledger Nano X",
-    "ctaAffiliateUrl": "https://www.ledger.com/"
+    "ctaAffiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4"
   },
   {
     "slug": "mejores-wallets-software-gratuitas",
@@ -396,7 +396,7 @@
     "ctaTitle": "Combina MetaMask con Ledger para máxima seguridad",
     "ctaDescription": "Usa MetaMask para el día a día en DeFi y conecta tu Ledger Nano X para firmar transacciones importantes de forma segura. Lo mejor de las dos opciones.",
     "ctaButtonText": "Comprar Ledger Nano X",
-    "ctaAffiliateUrl": "https://www.ledger.com/"
+    "ctaAffiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4"
   },
   {
     "slug": "mejores-exchanges-sin-kyc",

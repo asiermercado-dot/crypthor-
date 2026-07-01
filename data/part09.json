@@ -70,7 +70,7 @@
     "readingTime": 10,
     "verified": true,
     "comparisonTable": [
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar activos de forma segura offline durante el bear market largo", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar activos de forma segura offline durante el bear market largo", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Exchange más seguro para DCA de BTC durante el bear market", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Comisiones bajas para acumulación periódica en mercado bajista", "affiliateUrl": "https://www.binance.com/" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo regulado para esperar el ciclo con staking de ETH", "affiliateUrl": "https://www.kraken.com/" },
@@ -111,7 +111,7 @@
     "ctaTitle": "En el bear market, custodiar bien es prioritario: usa Ledger",
     "ctaDescription": "Durante el bear market, proteger tus activos es tan importante como acumular. Ledger Nano X custodia tu Bitcoin offline de forma segura mientras esperas el próximo ciclo.",
     "ctaButtonText": "Comprar Ledger Nano X",
-    "ctaAffiliateUrl": "https://www.ledger.com/"
+    "ctaAffiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4"
   },
   {
     "slug": "estrategias-bull-run-crypto",
@@ -130,7 +130,7 @@
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Ejecutar la estrategia de bull run con el exchange más regulado del mercado", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Menor coste de trading para rotación de activos y toma de beneficios", "affiliateUrl": "https://www.binance.com/" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo regulado para gestión de cartera durante el ciclo alcista", "affiliateUrl": "https://www.kraken.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar activos HODL durante el bull run fuera del exchange", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar activos HODL durante el bull run fuera del exchange", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "USDC (stablecoin)", "rating": 4.6, "price": "~1 USD", "bestFor": "Preservar beneficios en estable sin salir del ecosistema cripto", "affiliateUrl": "https://www.coinbase.com/" }
     ],
     "pros": [
@@ -187,7 +187,7 @@
       { "productName": "Coinbase DCA", "rating": 4.6, "price": "1,49% por compra automática", "bestFor": "La forma más sencilla de hacer DCA automático con configuración en 5 minutos", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Binance Auto-Invest", "rating": 4.7, "price": "0,10% por compra automática", "bestFor": "DCA automático con las mejores comisiones y mayor variedad de activos", "affiliateUrl": "https://www.binance.com/" },
       { "productName": "Kraken DCA", "rating": 4.5, "price": "0,26% por compra", "bestFor": "DCA en exchange europeo regulado con soporte en español", "affiliateUrl": "https://www.kraken.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar BTC acumulado con DCA offline con máxima seguridad", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar BTC acumulado con DCA offline con máxima seguridad", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "DCA Bitcoin Calculator", "rating": 4.5, "price": "Gratis", "bestFor": "Calcular el retorno histórico de cualquier estrategia DCA", "affiliateUrl": "https://dcabtc.com/" }
     ],
     "pros": [
@@ -358,7 +358,7 @@
       { "productName": "MicroStrategy (MSTR)", "rating": 4.5, "price": "Cotización en Nasdaq", "bestFor": "La forma de seguir la estrategia de Saylor desde bolsa tradicional", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Bitcoin (BTC) directo", "rating": 4.8, "price": "Comisión exchange", "bestFor": "La misma tesis de Saylor sin la prima corporativa de MSTR", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Comprar BTC como hace Saylor, con custodia directa y máxima seguridad", "affiliateUrl": "https://www.coinbase.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar tu Bitcoin igual que Saylor custodia el de MicroStrategy", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar tu Bitcoin igual que Saylor custodia el de MicroStrategy", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo regulado para implementar tu propia versión de la estrategia Saylor", "affiliateUrl": "https://www.kraken.com/" }
     ],
     "pros": [
@@ -416,7 +416,7 @@
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Comprar ETH con soporte en español y staking integrado", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mayor liquidez y mejores comisiones para comprar Ethereum", "affiliateUrl": "https://www.binance.com/" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo regulado con staking de ETH y alta seguridad", "affiliateUrl": "https://www.kraken.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar ETH offline con la seguridad de una hardware wallet", "affiliateUrl": "https://www.ledger.com/" }
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar ETH offline con la seguridad de una hardware wallet", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" }
     ],
     "pros": [
       "Vitalik es una de las mentes técnicas más brillantes del ecosistema cripto, con contribuciones fundamentales al diseño de Ethereum en todos sus aspectos",

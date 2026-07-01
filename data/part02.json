@@ -127,8 +127,8 @@
     "readingTime": 9,
     "verified": true,
     "comparisonTable": [
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "La wallet hardware más vendida del mundo, compatible con 5.500+ cripto", "affiliateUrl": "https://www.ledger.com/" },
-      { "productName": "Ledger Nano S Plus", "rating": 4.6, "price": "€79", "bestFor": "Seguridad hardware a precio asequible sin Bluetooth", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "La wallet hardware más vendida del mundo, compatible con 5.500+ cripto", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
+      { "productName": "Ledger Nano S Plus", "rating": 4.6, "price": "€79", "bestFor": "Seguridad hardware a precio asequible sin Bluetooth", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Trezor Model T", "rating": 4.7, "price": "€179", "bestFor": "100% open source con pantalla táctil integrada", "affiliateUrl": "https://trezor.io/" },
       { "productName": "Trezor One", "rating": 4.3, "price": "€69", "bestFor": "La wallet hardware más económica del mercado", "affiliateUrl": "https://trezor.io/" },
       { "productName": "BitBox02", "rating": 4.5, "price": "€149", "bestFor": "Diseño minimalista y fácil de usar, fabricado en Suiza", "affiliateUrl": "https://shiftcrypto.ch/" }
@@ -168,7 +168,7 @@
     "ctaTitle": "Protege tus cripto con Ledger Nano X",
     "ctaDescription": "Ledger Nano X es la wallet hardware más segura y fácil de usar del mercado. Con soporte para más de 5.500 criptomonedas, es la solución definitiva para proteger tu inversión.",
     "ctaButtonText": "Comprar Ledger Nano X",
-    "ctaAffiliateUrl": "https://www.ledger.com/"
+    "ctaAffiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4"
   },
   {
     "slug": "que-es-seed-phrase",
@@ -184,8 +184,8 @@
     "readingTime": 7,
     "verified": true,
     "comparisonTable": [
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Genera y protege tu seed phrase con chip de seguridad certificado", "affiliateUrl": "https://www.ledger.com/" },
-      { "productName": "Ledger Nano S Plus", "rating": 4.6, "price": "€79", "bestFor": "Protección hardware de seed phrase a precio asequible", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Genera y protege tu seed phrase con chip de seguridad certificado", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
+      { "productName": "Ledger Nano S Plus", "rating": 4.6, "price": "€79", "bestFor": "Protección hardware de seed phrase a precio asequible", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Trezor Model T", "rating": 4.7, "price": "€179", "bestFor": "Open source: la generación de seed phrase es auditada de forma independiente", "affiliateUrl": "https://trezor.io/" },
       { "productName": "MetaMask", "rating": 4.4, "price": "Gratis", "bestFor": "Wallet software con seed phrase estándar BIP39, ideal para DeFi", "affiliateUrl": "https://metamask.io/" },
       { "productName": "Trust Wallet", "rating": 4.3, "price": "Gratis", "bestFor": "Wallet móvil multichain con soporte de seed phrase", "affiliateUrl": "https://trustwallet.com/" }
@@ -225,7 +225,7 @@
     "ctaTitle": "Genera tu seed phrase de forma segura con Ledger",
     "ctaDescription": "Ledger Nano X genera y almacena tu seed phrase en un chip de seguridad certificado CC EAL5+, nunca expuesta a internet. El estándar de seguridad en cripto.",
     "ctaButtonText": "Comprar Ledger Nano X",
-    "ctaAffiliateUrl": "https://www.ledger.com/"
+    "ctaAffiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4"
   },
   {
     "slug": "como-usar-ledger",
@@ -241,8 +241,8 @@
     "readingTime": 10,
     "verified": true,
     "comparisonTable": [
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Bluetooth, mayor memoria para más aplicaciones instaladas", "affiliateUrl": "https://www.ledger.com/" },
-      { "productName": "Ledger Nano S Plus", "rating": 4.6, "price": "€79", "bestFor": "Misma seguridad que el Nano X, sin Bluetooth y más barato", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Bluetooth, mayor memoria para más aplicaciones instaladas", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
+      { "productName": "Ledger Nano S Plus", "rating": 4.6, "price": "€79", "bestFor": "Misma seguridad que el Nano X, sin Bluetooth y más barato", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Trezor Model T", "rating": 4.7, "price": "€179", "bestFor": "Pantalla táctil y código 100% open source verificable", "affiliateUrl": "https://trezor.io/" },
       { "productName": "Trezor One", "rating": 4.3, "price": "€69", "bestFor": "La wallet hardware más asequible del mercado", "affiliateUrl": "https://trezor.io/" },
       { "productName": "BitBox02", "rating": 4.5, "price": "€149", "bestFor": "Diseño minimalista, fabricado en Suiza, open source", "affiliateUrl": "https://shiftcrypto.ch/" }
@@ -282,7 +282,7 @@
     "ctaTitle": "Compra tu Ledger en la tienda oficial",
     "ctaDescription": "Compra siempre tu Ledger directamente en la web oficial para evitar dispositivos manipulados. El Nano X es nuestra recomendación para la mayoría de usuarios.",
     "ctaButtonText": "Comprar Ledger Nano X oficial",
-    "ctaAffiliateUrl": "https://www.ledger.com/"
+    "ctaAffiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4"
   },
   {
     "slug": "como-hacer-staking",
@@ -355,7 +355,7 @@
     "readingTime": 9,
     "verified": true,
     "comparisonTable": [
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Protección total frente a hackeos remotos y phishing avanzado", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Protección total frente a hackeos remotos y phishing avanzado", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Exchange regulado con protección avanzada contra fraude", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Fondo SAFU de 1.000M de dólares como seguro de usuarios", "affiliateUrl": "https://www.binance.com/" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Historial de seguridad más limpio del sector, nunca hackeado", "affiliateUrl": "https://www.kraken.com/" },
@@ -396,7 +396,7 @@
     "ctaTitle": "Protege tus fondos con Ledger Nano X",
     "ctaDescription": "La mejor defensa contra estafas y hackeos es mantener tus fondos en una wallet hardware. Ledger Nano X protege tus claves privadas offline, lejos de cualquier amenaza remota.",
     "ctaButtonText": "Comprar Ledger Nano X",
-    "ctaAffiliateUrl": "https://www.ledger.com/"
+    "ctaAffiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4"
   },
   {
     "slug": "como-declarar-impuestos-cripto-espana",
@@ -469,7 +469,7 @@
     "readingTime": 8,
     "verified": true,
     "comparisonTable": [
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Verificación física de dirección en pantalla del dispositivo antes de firmar", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Verificación física de dirección en pantalla del dispositivo antes de firmar", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "MetaMask", "rating": 4.4, "price": "Gratis", "bestFor": "Transferencias rápidas en la red Ethereum y compatibles con EVM", "affiliateUrl": "https://metamask.io/" },
       { "productName": "Trust Wallet", "rating": 4.3, "price": "Gratis", "bestFor": "Transferencias multichain desde el móvil de forma sencilla", "affiliateUrl": "https://trustwallet.com/" },
       { "productName": "Coinbase", "rating": 4.7, "price": "Red fee + comisión exchange", "bestFor": "Transferencias verificadas con lista de contactos y 2FA", "affiliateUrl": "https://www.coinbase.com/" },
@@ -510,7 +510,7 @@
     "ctaTitle": "Transfiere con seguridad usando Ledger",
     "ctaDescription": "Ledger Nano X verifica cada dirección de destino en su pantalla física antes de firmar. La forma más segura de transferir criptomonedas.",
     "ctaButtonText": "Comprar Ledger Nano X",
-    "ctaAffiliateUrl": "https://www.ledger.com/"
+    "ctaAffiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4"
   },
   {
     "slug": "como-empezar-en-cripto-desde-cero",

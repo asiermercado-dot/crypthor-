@@ -469,8 +469,8 @@
     "readingTime": 9,
     "verified": true,
     "comparisonTable": [
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Máxima seguridad para carteras grandes, Bluetooth", "affiliateUrl": "https://www.ledger.com/" },
-      { "productName": "Ledger Nano S Plus", "rating": 4.6, "price": "€79", "bestFor": "Seguridad hardware a precio accesible", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Máxima seguridad para carteras grandes, Bluetooth", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
+      { "productName": "Ledger Nano S Plus", "rating": 4.6, "price": "€79", "bestFor": "Seguridad hardware a precio accesible", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Trezor Model T", "rating": 4.7, "price": "€179", "bestFor": "Open source, pantalla táctil, máxima transparencia", "affiliateUrl": "https://trezor.io/" },
       { "productName": "MetaMask", "rating": 4.4, "price": "Gratis (0,875% en swaps)", "bestFor": "Mejor wallet para DeFi y aplicaciones Web3", "affiliateUrl": "https://metamask.io/" },
       { "productName": "Trust Wallet", "rating": 4.3, "price": "Gratis", "bestFor": "Multichains en móvil, fácil para principiantes", "affiliateUrl": "https://trustwallet.com/" }
@@ -510,7 +510,7 @@
     "ctaTitle": "Protege tus cripto con Ledger",
     "ctaDescription": "Ledger Nano X es la wallet hardware más vendida del mundo. Guarda tus Bitcoin, Ethereum y más de 5.500 criptomonedas offline con la máxima seguridad.",
     "ctaButtonText": "Comprar Ledger Nano X",
-    "ctaAffiliateUrl": "https://www.ledger.com/"
+    "ctaAffiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4"
   },
   {
     "slug": "como-usar-coinbase",

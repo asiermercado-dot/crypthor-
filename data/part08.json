@@ -15,7 +15,7 @@
     "comparisonTable": [
       { "productName": "Bitcoin (BTC)", "rating": 4.8, "price": "Consultar precio actual", "bestFor": "La reserva de valor digital con escasez matemáticamente garantizada", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Oro físico", "rating": 4.5, "price": "Prima + custodia", "bestFor": "5.000 años de historial como reserva de valor probada", "affiliateUrl": "https://www.coinbase.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar Bitcoin offline como lo harías con oro físico en caja fuerte", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar Bitcoin offline como lo harías con oro físico en caja fuerte", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "IBIT (BlackRock ETF)", "rating": 4.7, "price": "0,25%/año", "bestFor": "Exposición institucional a BTC como reserva de valor desde bolsa", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Exchange regulado para adquirir BTC directamente con seguridad", "affiliateUrl": "https://www.coinbase.com/" }
     ],
@@ -245,7 +245,7 @@
       { "productName": "USDC (stablecoin)", "rating": 4.6, "price": "~1 USD", "bestFor": "Dólar digital con portabilidad cripto y rendimientos en DeFi", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "USDT (Tether)", "rating": 4.3, "price": "~1 USD", "bestFor": "Dólar digital con la mayor liquidez global en exchanges", "affiliateUrl": "https://www.binance.com/" },
       { "productName": "Cuenta bancaria en USD", "rating": 4.0, "price": "Protección depósitos hasta 100k€", "bestFor": "Seguridad legal, garantía de depósitos y acceso a sistema financiero", "affiliateUrl": "https://www.coinbase.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar Bitcoin fuera del sistema bancario con total autonomía", "affiliateUrl": "https://www.ledger.com/" }
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar Bitcoin fuera del sistema bancario con total autonomía", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" }
     ],
     "pros": [
       "Bitcoin ha preservado el poder adquisitivo mucho mejor que el dólar en plazos de 5+ años: la inflación acumulada del dólar desde 2009 supera el 45%",
@@ -301,7 +301,7 @@
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Comprar Bitcoin antes o durante el halving con total seguridad y facilidad", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Trading de BTC antes/después del halving con las mejores comisiones", "affiliateUrl": "https://www.binance.com/" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Acumular BTC en fases pre-halving en exchange europeo regulado", "affiliateUrl": "https://www.kraken.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar los BTC comprados durante la fase de acumulación pre-halving", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar los BTC comprados durante la fase de acumulación pre-halving", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "DCA automático (Coinbase)", "rating": 4.6, "price": "Variable", "bestFor": "Acumulación periódica sin preocuparse por el timing exacto del halving", "affiliateUrl": "https://www.coinbase.com/" }
     ],
     "pros": [
@@ -358,7 +358,7 @@
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Exchange más regulado para invertir en el ciclo post-halving", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mayor volumen y mejores comisiones para trading del ciclo post-halving", "affiliateUrl": "https://www.binance.com/" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo para acumulación de BTC en ciclo post-halving", "affiliateUrl": "https://www.kraken.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar BTC comprado en ciclo post-halving offline con máxima seguridad", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar BTC comprado en ciclo post-halving offline con máxima seguridad", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "iShares IBIT (BlackRock)", "rating": 4.7, "price": "0,25%/año", "bestFor": "Exposición institucional al ciclo post-halving desde cuenta de bróker", "affiliateUrl": "https://www.coinbase.com/" }
     ],
     "pros": [
@@ -415,7 +415,7 @@
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Acumular BTC antes del bull run con máxima seguridad y soporte", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Trading activo durante el bull run con las mejores comisiones del mercado", "affiliateUrl": "https://www.binance.com/" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo regulado para posicionarse en ciclos alcistas", "affiliateUrl": "https://www.kraken.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar activos durante el bull run sin riesgo de exchange", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar activos durante el bull run sin riesgo de exchange", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Fear & Greed Index", "rating": 4.5, "price": "Gratis", "bestFor": "Indicador de sentimiento para identificar extremos de mercado durante el ciclo", "affiliateUrl": "https://coinmarketcap.com/" }
     ],
     "pros": [
@@ -529,7 +529,7 @@
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Aplicar lecciones de ciclos históricos con el exchange más seguro", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Trading activo basado en análisis de ciclos con mejores comisiones", "affiliateUrl": "https://www.binance.com/" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo regulado para posicionarse en cualquier fase del ciclo", "affiliateUrl": "https://www.kraken.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar BTC comprado en fases bajistas con máxima seguridad", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar BTC comprado en fases bajistas con máxima seguridad", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Lookintobitcoin.com", "rating": 4.5, "price": "Gratis", "bestFor": "Visualizar indicadores de ciclo histórico y comparar con el momento actual", "affiliateUrl": "https://www.lookintobitcoin.com/" }
     ],
     "pros": [

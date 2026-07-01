@@ -472,7 +472,7 @@
       { "productName": "Bitcoin (BTC)", "rating": 4.8, "price": "Consultar precio actual", "bestFor": "Reserva de valor, adopción institucional y menor volatilidad relativa", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Ethereum (ETH)", "rating": 4.7, "price": "Consultar precio actual", "bestFor": "Plataforma DeFi, staking con 3-5% APY y adopción empresarial", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Solana (SOL)", "rating": 4.5, "price": "Consultar precio actual", "bestFor": "Mayor potencial de apreciación con mayor riesgo", "affiliateUrl": "https://www.binance.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149 dispositivo", "bestFor": "Para custodiar BTC y ETH offline a largo plazo con seguridad máxima", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149 dispositivo", "bestFor": "Para custodiar BTC y ETH offline a largo plazo con seguridad máxima", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "El exchange más seguro de Europa para comprar BTC y ETH", "affiliateUrl": "https://www.kraken.com/" }
     ],
     "pros": [

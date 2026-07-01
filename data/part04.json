@@ -225,7 +225,7 @@
     "ctaTitle": "Combina tu wallet móvil con Ledger para máxima seguridad",
     "ctaDescription": "Usa Trust Wallet o MetaMask para el día a día y conecta un Ledger Nano X para firmar transacciones importantes. La combinación perfecta de comodidad y seguridad.",
     "ctaButtonText": "Comprar Ledger Nano X",
-    "ctaAffiliateUrl": "https://www.ledger.com/"
+    "ctaAffiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4"
   },
   {
     "slug": "coinbase-vs-binance-vs-kraken",
@@ -415,7 +415,7 @@
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Compra directa de BTC con staking de ETH integrado", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mejor precio y menor comisión para comprar BTC", "affiliateUrl": "https://www.binance.com/" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange más seguro de Europa para comprar y guardar BTC", "affiliateUrl": "https://www.kraken.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149 dispositivo", "bestFor": "Para guardar tu BTC offline con máxima seguridad a largo plazo", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149 dispositivo", "bestFor": "Para guardar tu BTC offline con máxima seguridad a largo plazo", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "eToro", "rating": 4.3, "price": "1% en cripto", "bestFor": "BTC con copy trading y sin necesidad de wallet propia", "affiliateUrl": "https://www.etoro.com/" }
     ],
     "pros": [

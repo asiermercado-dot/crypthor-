@@ -17,7 +17,7 @@
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mayor variedad y mejores precios para complementar cartera de bolsa", "affiliateUrl": "https://www.binance.com/" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo regulado para inversores que combinan bolsa y cripto", "affiliateUrl": "https://www.kraken.com/" },
       { "productName": "eToro", "rating": 4.3, "price": "Variable", "bestFor": "Plataforma única que permite invertir en bolsa y cripto desde la misma cuenta", "affiliateUrl": "https://www.etoro.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodia segura de la parte cripto de tu cartera a largo plazo", "affiliateUrl": "https://www.ledger.com/" }
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodia segura de la parte cripto de tu cartera a largo plazo", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" }
     ],
     "pros": [
       "La correlación variable entre cripto y bolsa ofrece oportunidades de diversificación cuando ambos mercados se desacoplan temporalmente",
@@ -472,7 +472,7 @@
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Comprar Bitcoin antes de posibles subidas con máxima seguridad", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Trading activo de Bitcoin con las comisiones más bajas", "affiliateUrl": "https://www.binance.com/" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo regulado para comprar y mantener BTC", "affiliateUrl": "https://www.kraken.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar BTC offline durante períodos de acumulación largo plazo", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar BTC offline durante períodos de acumulación largo plazo", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Fear & Greed Index", "rating": 4.5, "price": "Gratis", "bestFor": "Indicador de sentimiento para identificar oportunidades de compra", "affiliateUrl": "https://coinmarketcap.com/charts/fear-and-greed-index/" }
     ],
     "pros": [
@@ -530,7 +530,7 @@
       { "productName": "Oro físico", "rating": 4.5, "price": "Comisión bróker + custodia", "bestFor": "Historial de miles de años como reserva de valor y menor volatilidad", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "ETF de Oro (GLD/IAU)", "rating": 4.4, "price": "0,25-0,40%/año", "bestFor": "Exposición al oro sin custodia física, desde bróker de bolsa", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Cartera 50% BTC + 50% Oro", "rating": 4.7, "price": "Depende de instrumentos", "bestFor": "Combina volatilidad de BTC con estabilidad del oro en ciclos bajistas", "affiliateUrl": "https://www.coinbase.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodia de BTC offline equivalente al oro físico en caja fuerte", "affiliateUrl": "https://www.ledger.com/" }
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodia de BTC offline equivalente al oro físico en caja fuerte", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" }
     ],
     "pros": [
       "Bitcoin ha superado al oro en rentabilidad en todos los períodos de 4+ años desde su creación, siendo mucho más rentable históricamente",

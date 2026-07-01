@@ -16,7 +16,7 @@
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "El exchange que sí ha sobrevivido mercados bajistas con transparencia total", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "El exchange con el mejor historial de seguridad: nunca hackeado ni quebrado", "affiliateUrl": "https://www.kraken.com/" },
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "El mayor exchange del mundo con reservas de prueba pública", "affiliateUrl": "https://www.binance.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "La solución que elimina el riesgo de exchange: claves privadas tuyas siempre", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "La solución que elimina el riesgo de exchange: claves privadas tuyas siempre", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Proof of Reserves", "rating": 4.5, "price": "Gratis", "bestFor": "Metodología de transparencia que FTX no tenía y los buenos exchanges sí tienen", "affiliateUrl": "https://www.coinbase.com/" }
     ],
     "pros": [
@@ -54,7 +54,7 @@
     "ctaTitle": "Evita el próximo FTX: guarda tu cripto en Ledger",
     "ctaDescription": "La lección de FTX es clara: la custodia propia es la única garantía. Ledger Nano X custodia tu Bitcoin y Ethereum offline con las claves bajo tu control.",
     "ctaButtonText": "Comprar Ledger Nano X",
-    "ctaAffiliateUrl": "https://www.ledger.com/"
+    "ctaAffiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4"
   },
   {
     "slug": "do-kwon-terra-luna",
@@ -73,7 +73,7 @@
       { "productName": "USDC (Circle)", "rating": 4.6, "price": "~1 USD", "bestFor": "La stablecoin respaldada por reservas reales que sobrevivió el colapso de UST", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "USDT (Tether)", "rating": 4.3, "price": "~1 USD", "bestFor": "La stablecoin centralizada con mayor liquidez y historial más largo", "affiliateUrl": "https://www.binance.com/" },
       { "productName": "DAI (MakerDAO)", "rating": 4.5, "price": "~1 USD", "bestFor": "Stablecoin descentralizada con colateral real (sin modelo algorítmico puro)", "affiliateUrl": "https://www.coinbase.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar activos fuera de protocolos algorítmicos vulnerables", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar activos fuera de protocolos algorítmicos vulnerables", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Exchange regulado donde nunca se listaron tokens algorítmicos sin auditoría", "affiliateUrl": "https://www.coinbase.com/" }
     ],
     "pros": [
@@ -130,7 +130,7 @@
       { "productName": "Bitcoin (BTC)", "rating": 4.8, "price": "Consultar precio actual", "bestFor": "La creación de Satoshi: el activo digital más valioso de la historia", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Comprar Bitcoin, la herencia de Satoshi, con máxima seguridad", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mayor liquidez para el Bitcoin que Satoshi creó", "affiliateUrl": "https://www.binance.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar Bitcoin con la seguridad que el protocolo de Satoshi permite", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar Bitcoin con la seguridad que el protocolo de Satoshi permite", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo para comprar Bitcoin, el protocolo inmutable de Satoshi", "affiliateUrl": "https://www.kraken.com/" }
     ],
     "pros": [
@@ -301,7 +301,7 @@
       { "productName": "Bitcoin (BTC)", "rating": 4.8, "price": "Consultar precio actual", "bestFor": "El activo que El Salvador adoptó y acumula como reserva soberana", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Exchange de BTC regulado para inversores que siguen el experimento El Salvador", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mayor liquidez para BTC el activo oficial de El Salvador", "affiliateUrl": "https://www.binance.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar BTC como hace El Salvador pero con control individual", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Custodiar BTC como hace El Salvador pero con control individual", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Chivo Wallet", "rating": 3.5, "price": "Gratis", "bestFor": "La wallet oficial de El Salvador (con limitaciones conocidas)", "affiliateUrl": "https://www.chivowallet.com/" }
     ],
     "pros": [
@@ -359,7 +359,7 @@
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo fundado en EEUU con excelente cumplimiento regulatorio UE", "affiliateUrl": "https://www.kraken.com/" },
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mayor exchange con esfuerzos activos de cumplimiento MiCA en 2026", "affiliateUrl": "https://www.binance.com/" },
       { "productName": "Bit2Me", "rating": 4.2, "price": "1,49% básico", "bestFor": "Exchange español nativo con registro CNMV y cumplimiento MiCA completo", "affiliateUrl": "https://bit2me.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "La solución de autocustodia más regulada del mercado, compatible con MiCA", "affiliateUrl": "https://www.ledger.com/" }
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "La solución de autocustodia más regulada del mercado, compatible con MiCA", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" }
     ],
     "pros": [
       "MiCA da a los usuarios europeos mayor protección: los proveedores de servicios cripto deben estar registrados, tener capital mínimo y publicar información clara",
@@ -412,7 +412,7 @@
     "readingTime": 10,
     "verified": true,
     "comparisonTable": [
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "La solución que hace imposible el hackeo remoto de tus cripto", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "La solución que hace imposible el hackeo remoto de tus cripto", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "Exchange con el mejor historial de seguridad y sin hackeos significativos", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "13+ años sin hackeo significativo, el exchange más seguro por historial", "affiliateUrl": "https://www.kraken.com/" },
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Fondo SAFU de 1.000M USD para compensar usuarios en caso de hackeo", "affiliateUrl": "https://www.binance.com/" },
@@ -453,7 +453,7 @@
     "ctaTitle": "Protege tu cripto con Ledger: imposible de hackear remotamente",
     "ctaDescription": "La única forma de eliminar el riesgo de hackeo es la custodia propia. Ledger Nano X guarda tus claves privadas offline: ningún hacker puede acceder remotamente.",
     "ctaButtonText": "Comprar Ledger Nano X",
-    "ctaAffiliateUrl": "https://www.ledger.com/"
+    "ctaAffiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4"
   },
   {
     "slug": "ftx-quiebra-que-paso",
@@ -469,7 +469,7 @@
     "readingTime": 10,
     "verified": true,
     "comparisonTable": [
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "La lección de FTX implementada: tus claves, tus cripto, siempre", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "La lección de FTX implementada: tus claves, tus cripto, siempre", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "El exchange que sí tiene Proof of Reserves y auditorías externas verificables", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "13+ años sin hackeo, sin problemas de insolvencia, Proof of Reserves verificable", "affiliateUrl": "https://www.kraken.com/" },
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Post-FTX publican Proof of Reserves; mayor exchange sobrevivió la crisis", "affiliateUrl": "https://www.binance.com/" },
@@ -510,7 +510,7 @@
     "ctaTitle": "La lección de FTX: nunca dejes tus cripto en un exchange sin necesidad",
     "ctaDescription": "Ledger Nano X elimina el riesgo de FTX: con tus claves privadas, ningún exchange puede tocar tus fondos. Para cantidades significativas, la custodia propia es imprescindible.",
     "ctaButtonText": "Comprar Ledger Nano X",
-    "ctaAffiliateUrl": "https://www.ledger.com/"
+    "ctaAffiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4"
   },
   {
     "slug": "noticias-cripto-junio-2026",
@@ -529,7 +529,7 @@
       { "productName": "Coinbase", "rating": 4.7, "price": "1,49% por operación", "bestFor": "El exchange más regulado para operar en el contexto actual de mercado", "affiliateUrl": "https://www.coinbase.com/" },
       { "productName": "Binance", "rating": 4.8, "price": "0,10% spot", "bestFor": "Mayor liquidez para aprovechar los movimientos de mercado del mes", "affiliateUrl": "https://www.binance.com/" },
       { "productName": "Kraken", "rating": 4.6, "price": "0,26% maker", "bestFor": "Exchange europeo para operar bajo la regulación MiCA vigente", "affiliateUrl": "https://www.kraken.com/" },
-      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Seguridad de custodia para los activos acumulados en el ciclo actual", "affiliateUrl": "https://www.ledger.com/" },
+      { "productName": "Ledger Nano X", "rating": 4.8, "price": "€149", "bestFor": "Seguridad de custodia para los activos acumulados en el ciclo actual", "affiliateUrl": "https://shop.ledger.com/?r=f9c57ce224a4" },
       { "productName": "CoinMarketCap", "rating": 4.5, "price": "Gratis", "bestFor": "Seguir precios, noticias y datos del mercado cripto en tiempo real", "affiliateUrl": "https://coinmarketcap.com/" }
     ],
     "pros": [
